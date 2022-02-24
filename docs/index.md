@@ -2,45 +2,7 @@
 
 If you are asking yourself, why this website called zero bytes, then let me tell you a secret "I just create zeros to give you the power to create complete bytes". In a nutshell, Zero Bytes is a journey from 0 ==> 1, from NULL to totally Full, from ***no***thing to ***som*e**thing, from **0**000 0000  ==>  0000 000**1** 
 
-## Complete Bytes
-
-- ### From Research to Production
-
-  **PyTorch** is is one of the primary frameworks used for deep learning, Natural Language processing. It provides a framework that accelerates the path from research prototyping to production deployment.
-
-- ### Learn the fastest-growing programming language in the world
-
-  Its high-level, interpreted, and object-oriented architecture makes **Python** ideal for all types of software solutions.
-
-- ### The Future Programming Language of Data Science
-
-  **Julia** is a high-performance, dynamic programming language, many of its features are well suited for numerical analysis and computational science.
-
-- ### Find clarity when you need it most
-
-  Empower team members to discover insights hidden in your data with **Microsoft Power BI**.
-
-  ### Go where traditional BI cannot
-
-  **Dash** is the new standard for AI & data science apps. NLP, object detection, predictive analytics, and more.
-
-- ### Find easy answers to hard questions
-
-  Whatever your needs, we’ve got you covered. Easily bring all your data together
-  **with Tableau**.
-
-  
-
-# ZeroBytes: When less means more
-
-Want to learn data science, but don’t have the time for a multi-year, full-time degree program? Luckily, there are many ways to prepare for a data science career.
-
-*"Obviously, there is a trad-off between gaining knowledge and the costly time and money to obtain these knowledge. In ZeroBytes we believe that knowledge should be available to learner in premium, but at no cost."*
-
-*"When Free means Premium. When less means More. This is the most complex formula we master in ZeroBytes. We just started.. There are many things that seem impossible only so long as one does not attempt them."*
-
-*"Our mission is to make the Arab world a better place to learn, gain knowledge and apply these knowledge to solve real-life problems that is result in leading a better life."*
-
+## Git Bytes
 
 
 # What Will You Get From These Bytes?
@@ -54,6 +16,17 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
 - [MS Excel: Interactive Training](https://training.zerobytes.one/)
 - [Counting in 13 Languages including Arabic, English & Chinese](https://counting.zerobytes.one/)
 
+
+
+# ZeroBytes: When less means more
+
+Want to learn data science, but don’t have the time for a multi-year, full-time degree program? Luckily, there are many ways to prepare for a data science career.
+
+*"Obviously, there is a trad-off between gaining knowledge and the costly time and money to obtain these knowledge. In ZeroBytes we believe that knowledge should be available to learner in premium, but at no cost."*
+
+*"When Free means Premium. When less means More. This is the most complex formula we master in ZeroBytes. We just started.. There are many things that seem impossible only so long as one does not attempt them."*
+
+*"Our mission is to make the Arab world a better place to learn, gain knowledge and apply these knowledge to solve real-life problems that is result in leading a better life."*
 
 
 
