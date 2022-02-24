@@ -2,10 +2,7 @@
 
 If you are asking yourself, why this website called zero bytes, then let me tell you a secret "I just create zeros to give you the power to create complete bytes". In a nutshell, Zero Bytes is a journey from 0 ==> 1, from NULL to totally Full, from ***no***thing to ***som*e**thing, from **0**000 0000  ==>  0000 000**1** 
 
-## Git Bytes
-
-
-# What Will You Get From These Bytes?
+## What Will You Get From These Bytes?
 
 Keep up with the future with in-demand data science knowledge. Top companies need data science skills. Learn at your own pace, Where Free means Premium.
 
@@ -20,9 +17,7 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
 
 # ZeroBytes: When less means more
 
-Want to learn data science, but don’t have the time for a multi-year, full-time degree program? Luckily, there are many ways to prepare for a data science career.
-
-*"Obviously, there is a trad-off between gaining knowledge and the costly time and money to obtain these knowledge. In ZeroBytes we believe that knowledge should be available to learner in premium, but at no cost."*
+*"Obviously, there is a trade-off between gaining knowledge and the costly time and money to obtain these knowledge. In ZeroBytes we believe that knowledge should be available to learner in premium, but at no cost."*
 
 *"When Free means Premium. When less means More. This is the most complex formula we master in ZeroBytes. We just started.. There are many things that seem impossible only so long as one does not attempt them."*
 
