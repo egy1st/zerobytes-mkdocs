@@ -1,0 +1,15 @@
+site_name: ZeroBytes
+site_url: https://zerobytes.one/
+
+nav:
+    - Home: index.md
+    - Machine Learning: ML\index.md
+    - About: about.md
+    
+    
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+    
