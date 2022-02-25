@@ -3,7 +3,8 @@ site_url: https://zerobytes.one/
 
 nav:
     - Home: index.md
-    - Machine Learning: ML\index.md
+    - Machine Learning: ML\index.md   
+    - Dynamic Components: DC\index.md
     - Certificates: Certificates\index.md
     - About: about.md
     

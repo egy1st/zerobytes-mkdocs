@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="https://zerobytes.one/DC/Num2Text/">
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>**DynamicComponents - Num2Text-----** - ZeroBytes</title>
+        <link href="../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css">
+
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../..">ZeroBytes</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem">
+                                <a href="../.." class="nav-link">Home</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../../ML/" class="nav-link">Machine Learning</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../" class="nav-link">Dynamic Components</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../../Certificates/" class="nav-link">Certificates</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../../about/" class="nav-link">About</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#dynamiccomponents-num2text-" class="nav-link">DynamicComponents - Num2Text-----</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#overview" class="nav-link">Overview</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#features-" class="nav-link">Features -----</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#system-requirements-" class="nav-link">System Requirements -----</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#installing-dcnum2text-" class="nav-link">Installing DC.Num2Text-----</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#including-dcnum2text" class="nav-link">Including DC.Num2Text</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#deploying-dcnum2text-" class="nav-link">Deploying DC.Num2Text-----</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#translatenumber-function-" class="nav-link">TranslateNumber Function-----</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#setcurrency-function" class="nav-link">SetCurrency Function</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#tutorial" class="nav-link">Tutorial</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#contact-us-" class="nav-link">Contact us -----</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#license-" class="nav-link">License -----</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#how-to-order-" class="nav-link">How to order -----</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#how-to-register-your-copy" class="nav-link">How to Register your Copy</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-level="1"><a href="#author-informaion-" class="nav-link">Author Informaion-----</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="dynamiccomponents-num2text-"><strong>DynamicComponents - Num2Text-----</strong></h1>
+<p>Powered by <img alt="" src="Aspose.Words.b3394690-9aa4-4836-a76e-f075b60016c5.001.png" /></p>
+<h1 id="overview"><strong>Overview</strong></h1>
+<hr />
+<p>DC.Num2Text  is a COM based component that convert numerical values into words in 4 languages
+For example, the numerical value <strong>7431285.46</strong>  would be translated into the text </p>
+<p>in English will be:
+Seven millions , four hundreds and thirty one thousands , two hundreds and eighty five dollars and forty six cents </p>
+<p>in French will be:
+Sept millions , quatre cents et trente un milliers , deux cents et quatre-vingt cinq euro et quarante six cents </p>
+<p>in German will be:
+Sieben Millionen , vier Hunderte eins und dreiكig Tausenden , zwei Hunderte fünf und achtzig euro sechs und vierzig cents </p>
+<p>in Arabic will be:
+<img alt="" src="Aspose.Words.b3394690-9aa4-4836-a76e-f075b60016c5.002.png" /></p>
+<p><strong>the most useful use</strong> DC.Num2Text  <strong>is with  Cheque Production Systems and finical reports in business application .</strong></p>
+<p>EgyFirst has done a lot of work for you. You define your number and we translate it to your preferred language. </p>
+<h1 id="features-"><strong>Features -----</strong></h1>
+<p>for Now DC.Num2Text can convert your number into 4 languages (Arabic-English-French-German)</p>
+<p><strong>but we</strong>  are looking to get feedback from our customers and we will prioritise the our development efforts based on customer requirements.</p>
+<p>Just :<a href="mailto:support@egyfirst.com">email us</a> with your language &amp; concept used  in counting with several examples.</p>
+<p><strong>Example:</strong></p>
+<p>Dim oTextNum As New DynamicComponents.Num2Text()</p>
+<p>dim strNum as string</p>
+<p>strNum  = oTextNum.<a href="#chmtopic8">TranslateNumber</a>("159584.58", Num2Text.Language_ID.English) // translate into English</p>
+<h1 id="system-requirements-"><strong>System Requirements -----</strong></h1>
+<p>DC.Num2Text runs as a COM class for included in any developing langauge support COM based application as  Visual Basic , Visual C++ , Borland C++ , Delphi  and others ..</p>
+<h1 id="installing-dcnum2text-"><strong>Installing DC.Num2Text-----</strong></h1>
+<p>The DC.Num2Text setup program will automatically register the DC_Num2Text10.dll file on your system. </p>
+<p>There is no need to manually run RegSvr32.exe on your development system. </p>
+<h1 id="including-dcnum2text"><strong>Including DC.Num2Text</strong></h1>
+<hr />
+<p>To include DC.Num2Text in your project  </p>
+<ol>
+<li>From Project menu select add reference </li>
+<li>Push Browse button to locate your AppProtector10.DLL file which by default located in <a href="file:///c:/windows/system32">c:\windows\system32</a>  , now the specific DLL included in your references</li>
+</ol>
+<h1 id="deploying-dcnum2text-"><strong>Deploying DC.Num2Text-----</strong></h1>
+<p>The only file needs to be distributed with DC.Num2Text COM based applications is DC_Num2Text10 .dll</p>
+<p>this file should be copied to the WinSystem directory which by default is C:\Windows\System32 </p>
+<h1 id="translatenumber-function-"><strong>TranslateNumber Function-----</strong></h1>
+<p>TranslateNumber  is the function responsible for translating numbers into proper language</p>
+<p><strong>Syntax:</strong></p>
+<p>Public Function TranslateNumber(ByVal str_Number As String, ByVal Lang As Language_ID) As String</p>
+<p>it takes 2 parameters
+first parameter is number wanted to translate
+second parameter is language ID
+where 1 mean translating into  Arabic Language
+<code></code>2 mean translating into  English Language
+<code></code>3 mean translating into  French Language
+<code></code>4 mean translating into  German Language</p>
+<p><strong>Example:</strong></p>
+<p>dim strNum  = TranslateNumber ("49562854",3)  // translate into French language</p>
+<h1 id="setcurrency-function"><strong>SetCurrency Function</strong></h1>
+<hr />
+<p>SetCurrency function enables you customize your currency </p>
+<p>default currency used by English language is Dollar , while Euro is default currency for French and German Languages , and <img alt="" src="Aspose.Words.b3394690-9aa4-4836-a76e-f075b60016c5.003.png" /> is default currency for Arabic Language</p>
+<p><strong>Syntax:</strong></p>
+<p>Public Sub SetCurrency(ByVal str_Currency As String, ByVal str_CurrencyUnit As String, ByVal str_CurrencyPlural As String, ByVal str_CurrencyUnitPlural As String)</p>
+<p>this function takes 4 Parameters
+first parameter str_Currency  is your customized currency in single 
+first parameter str_CurrencyUnit is your customized currency unit in single 
+first parameter str_CurrencyPlural is your customized currency in plural
+first parameter str_CurrencyUnitPlural is your customized currency in plural</p>
+<p><strong>Example:</strong></p>
+<p>SetCurrency("pound","piaster","pounds","piasters") </p>
+<p>when you use <a href="#chmtopic8">TtranslateNumber</a> function , result may be something like that
+four hundreds and twenty one pounds and twenty three piasters</p>
+<h1 id="tutorial">Tutorial</h1>
+<hr />
+<p>This tutorial describe all  features supported by DC.Num2Text</p>
+<p>also you can refer to the project example which installed by default into C:\Program Files\Dynamic Components\Num2Text\Tutorial\</p>
+<p>dim oTextNum As New DynamicComponents.Num2Text()</p>
+<p>dim strNum as string</p>
+<p>oTextNum.SetCurrency("Dollar", "Cent", "Dollars", "Cents")</p>
+<p>strNum  = oTextNum.<a href="#chmtopic8">TranslateNumber</a>("159584.58", DynamicComponents.Num2Text.Language_ID.English) // translate into English</p>
+<h1 id="contact-us-"><strong>Contact us -----</strong></h1>
+<p>Home Page:      <a href="http://www.tools4vb.com"> http://www.tools4vb.com</a></p>
+<p>Sales Email:     <a href="mailto: sales@tools4vb.com">sales@tools4vb.com</a></p>
+<p>Support Email:  <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#116;&#111;&#111;&#108;&#115;&#52;&#118;&#98;&#46;&#99;&#111;&#109;">&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#116;&#111;&#111;&#108;&#115;&#52;&#118;&#98;&#46;&#99;&#111;&#109;</a></p>
+<h1 id="license-"><strong>License -----</strong></h1>
+<p>Copyright ©2004 DynamicComponenets Software. All rights reserved</p>
+<p>The software described in this document is furnished under a license agreement and may be used or copied only in accordance with the terms of the agreement. </p>
+<p>YOU MAY: </p>
+<p>\1. Install and use the unlimited number of copies of the TRIAL VERSION.</p>
+<p>\2. Use one or more copies of the TRIAL VERSION for evaluation purposes only. </p>
+<p>\3. Copy and distribute freely the TRIAL VERSION </p>
+<p>YOU MAY NOT: </p>
+<p>\1. Sublicense, rent or lease the TRIAL VERSION or any portion of it. </p>
+<p>\2. Decompile, disassemble, reverse engineer or modify the TRIAL VERSION </p>
+<p>DISTRIBUTION: </p>
+<p>You are hereby licensed to make as many copies of the TRIAL VERSION as you wish and distribute them to anyone provided that all files are intact. You must distribute the install form of the TRIAL VERSION (not the files resulting of an installation). </p>
+<p>You are not allowed to sell the TRIAL VERSION </p>
+<p>Computer's Magazines are authorized to distribute it on any Cover Disk or CD-ROM without any permission. Please inform us by e-mail . </p>
+<h1 id="how-to-order-"><strong>How to order -----</strong></h1>
+<p><img alt="" src="Aspose.Words.b3394690-9aa4-4836-a76e-f075b60016c5.004.png" /></p>
+<p>Check the <a href="http://www.tools4vb.com/Order%20Now.htm">http://www.tools4vb.com</a> for the latest pricing and product information. </p>
+<p>you can buy this product online easily and securely and you will get the registration key immediately.</p>
+<h1 id="how-to-register-your-copy"><strong>How to Register your Copy</strong></h1>
+<hr />
+<ol>
+<li>After your request  we will email you with registration key</li>
+<li>Enter your  name and registration key , and enjoy programming with DC.Num2Text</li>
+</ol>
+<h1 id="author-informaion-"><strong>Author Informaion-----</strong></h1>
+<p>Company : <strong>EgyFirst Software , inc</strong>.</p>
+<p>URL : <a href="http://www.tools4vb.com">http://www.tools4vb.com</a></p>
+<p>Product : <strong>DC Num2Text</strong></p>
+<p>Version: <strong>1.0</strong></p></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
