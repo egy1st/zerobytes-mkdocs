@@ -1,17 +1,31 @@
 site_name: ZeroBytes
 site_url: https://zerobytes.one/
-
+repo_url: https://github.com/egy1st/zerobytes-mkdocs
+copyright: These bytes offered to you by Mohamed Abbas
+navigation_depth: 3
 nav:
     - Home: index.md
     - Machine Learning: ML\index.md   
+    - Courses: Courses\index.md
     - Dynamic Components: DC\index.md
     - Certificates: Certificates\index.md
     - About: about.md
     
     
-
+theme:
+    name: windmill
+    nav_style: primary
+    locale: en
+    static_templates:
+        - sitemap.html
+    include_sidebar: true
+    collapse_navigation: false
+    
+    
 markdown_extensions:
+  - toc
   - abbr
   - admonition
   - attr_list
+  - toc
     
