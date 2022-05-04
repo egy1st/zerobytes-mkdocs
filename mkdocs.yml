@@ -13,7 +13,7 @@ nav:
     
     
 theme:
-    name: windmill
+    name: mkdocs
     nav_style: primary
     locale: en
     static_templates:
