@@ -1,10 +1,7 @@
 ﻿# DC-Application Protector
 
-Powered by ![](images/Aspose.Words.835221e4-08f9-4660-9b90-a248ca1ddb4c.001.png)
+## Overview
 
-
-# **Overview**
------
 - DC.AppProtecor is a library that allows you to protect Windows executable files against piracy. Using multi level encryption algorithms .  Thanks to Nested Layers Protection (NLP), new protection technology we adapt in our protection system.
 
 - DC.AppProtecor Dialog box is generated on the fly so any hackers attempt to remove its resource  will fail.  It can be used with any  developing language support COM based application like Visual Basic,Visual C++,Borland C++,Delphi and others.
@@ -13,7 +10,7 @@ Powered by ![](images/Aspose.Words.835221e4-08f9-4660-9b90-a248ca1ddb4c.001.png)
 
 - If you are  losing sales to software , stop it now by our advanced, secure software protection system. It is very easy to include in your developing project  with only 3 lines of code .  EGY1ST has done a lot of work for you. You define few lines of code and we keep you safe away from hackers attempt. 
 
-# **Features **
+## Features 
 Do you know that DC.AppProtector itself is protected by itself !?. Few  Lines to add in your Form\_Load event  and you will get full secure software protection system.
 
 **You can:**
@@ -52,23 +49,24 @@ MyProtection.[SetLicense](#chmtopic10)( 30)   // may be  ignored , since it i
 MyProtection.[ShowAuthor](#chmtopic11)()
 
 Now you can generate huge numbers of  activation key using [Activation Key Utility](#chmtopic13)
-# **System Requirements**
+## System Requirements
 DC.AppProtector runs as a COM class for included in any developing langauge support COM based application as  Visual Basic , Visual C++ , Borland C++ , Delphi  and others.
-# **Installing DC.AppProtector**
+## Installation
+
 The DC.AppProtector setup program will automatically register the DC\_AppProtector10.dll file on your system.  There is no need to manually run RegSvr32.exe on your development system. 
 
-# **Including DC.AppProtector**
------
+## Including DC.AppProtector
+
 To include DC.AppProtector in your project  
 
 1. From Project menu select add reference 
 1. Push Browse button to locate your AppProtector10.DLL file which by default located in [c:\windows\system32](file:///c:/windows/system32)  , now the specific DLL included in your references
-# **Deploying DC.AppProtector **
+
+## Deploying DC.AppProtector
+
 The only file needs to be distributed with DC.AppProtector COM applications is DC\_AppProtector10 .dll
 
 this file should be copied to the WinSystem directory which by default is C:\Windows\System32 
-
-
 
 ## How to Use
 
@@ -85,8 +83,6 @@ it include s3 parameters
 
 > SetInformation(ByVal str\_ProductName As String, ByVal str\_CompanyInfo As String, ByVal str\_BuyNow\_URL As String)
 
-
-
 **Example:**
 
 Dim CompanyInfo As String
@@ -99,8 +95,6 @@ CompanyInfo += "License: Free 30 Days Trail Version"
 
 MyProtection.SetInformation("DC AppProtector v1.0", CompanyInfo, "http://www.egyfirst.com/buynow/")
 
-
-
 **SetAlgorithms Function**
 
 Encryption Algorithms define the method DC.AppProtecor adapt to generate its activation keys related to it.
@@ -112,29 +106,19 @@ DC.AppProtecor has 4 levels of encryption algorithms
 3. Third  level has 90 choices             (must be between 10 and 99)
 4. Fourth level is a string                     (must be 7 characters length)
 
-
-
 if you develop more than one product and protect them all with the same DC.AppProtector , then  every product  must  dedicated with a different id, so first product may have algorithms like (1234, 56, 78,"abcdefg")  and second product may have algorithms like (1234, 56, 78,"aaabccc") and third product may have algorithms like (5555, 66, 77,"egyfirst"). This means you can define similar or different algorithms to multi protected product  but every product must have unique ID which defined by int\_Algorithms4 parameter
-
-
 
 **Caution:**
 
 > if you develop more than one product and protect them all with the same product id , then any registration to one of them will register the rest
 
-
-
 **Syntax:**
 
 > SetAlgorithms(ByVal int\_Algorithms1 As Integer, ByVal int\_Algorithms2 As Integer, ByVal int\_Algorithms3 As Integer, ByVal str\_Algorithms4 As string)
 
-
-
 **Example:**
 
 SetAlgorithms(1234, 56, 78,"abcdefg")
-
-
 
 **SetLicense Function**
 
@@ -148,9 +132,6 @@ Public Sub SetLicense(ByVal int\_DaysLimit As Integer )
 
 SetLicense(15)
 
-
-
-
  **ShowAuthor Function*
 
 This function is the heart of  your protection and it is responsible to popup the protection dialog box this function must be called at the end end of your protection code block
@@ -159,7 +140,6 @@ This function is the heart of  your protection and it is responsible to popup t
 
 Function ShowAuthor() 
 No Parameter required with his function
-
 
 **Example**:
 
@@ -178,8 +158,6 @@ Public NotLicensed As Boolean = False
 Dim MyProtection As New DynamicComponents.AppProtector()
 
 If  MyProtection.NotLicensed Then Exit Sub
-
-
 
 **Activation Key Utility**
 Using Activation Key utility you can generate huge numbers of randomize activation key depends on algorithms you use , so activation keys collection generated (for example) by SetAlgorithms(1234,56,78) will differ completely from one generated using SetAlgorithms(1111,11,11) and differ from any other algorithms  .
@@ -206,8 +184,6 @@ where first algorithms must be between 1000 and 7000     ===>(7000 - 1000) =
 and second algorithms must be between 10 and 90            ===>(90 - 10) ===> 80 
 and third algorithms must be between 10 and 90               ===>(90 - 10) ===> 80 
 This is (6000 *80 *80) ===> 4,800,000 different combination
-
-
 
 ## Tutorial
 This tutorial describe all  features supported by DC.AppProtector
@@ -246,29 +222,3 @@ MyProtection.[SetLicense](#chmtopic10)( 30)   // may be  ignored , since it i
 MyProtection.[ShowAuthor](#chmtopic11)()
 
 End Sub
-
-
-# **Contact us -----**
-Home Page:      [ http://www.tools4vb.com](http://www.tools4vb.com)
-
-Sales Email:     [sales@tools4vb.com](mailto: sales@tools4vb.com)
-
-Support Email:  <support@tools4vb.com>
-# **License -----**
-Copyright ©2004 DynamicComponenets Software. All rights reserved
-
-The software described in this document is furnished under a license agreement and may be used or copied only in accordance with the terms of the agreement. 
-
-YOU MAY: 
-
-\1. Install and use the unlimited number of copies of the TRIAL VERSION.
-
-\2. Use one or more copies of the TRIAL VERSION for evaluation purposes only. 
-
-\3. Copy and distribute freely the TRIAL VERSION 
-
-YOU MAY NOT: 
-
-\1. Sublicense, rent or lease the TRIAL VERSION or any portion of it. 
-
-\2. Decompile, disassemble, reverse engineer or modify the TRIAL VERSION 
