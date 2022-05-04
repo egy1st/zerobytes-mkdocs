@@ -7,11 +7,11 @@ If you are asking yourself, why this website called zero bytes, then let me tell
 Keep up with the future with in-demand data science knowledge. Top companies need data science skills. Learn at your own pace, Where Free means Premium.
 
 - [Python: A complete Byte](https://python.zerobytes.one/python)
-- [MS Excel: step by step](https://excel.zerobytes.one/excel)
+- [MS Excel: step by step](https://excel.zerobytes.one)
 - [DenMune: Density-based clustering](https://github.com/egy1st/denmune-clustering-algorithm)
 - [DenMune: Documentation](https://docs.zerobytes.one/denmune/)
-- [MS Excel: Interactive Training](https://training.zerobytes.one/)
-- [Counting in 13 Languages including Arabic, English & Chinese](https://counting.zerobytes.one/)
+- [MS Excel: Interactive Training](https://quiz.zerobytes.one/)
+- [Counting in 13 Languages including Arabic, English & Chinese](https://api.zerobytes.one/)
 
 
 
