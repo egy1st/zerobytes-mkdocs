@@ -1,5 +1,5 @@
 {
-  "name": "zerobytes website",
+  "name": "@borekb/mkdocs-vercel-demo",
   "version": "1.0.0",
   "private": true,
   "scripts": {
