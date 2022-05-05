@@ -1,0 +1,9 @@
+{
+  "name": "@borekb/mkdocs-vercel-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "docker run --rm -it -p 8000:8000 -v ${PWD}:/docs",
+    "build": "mkdocs build -d public"
+  }
+}
