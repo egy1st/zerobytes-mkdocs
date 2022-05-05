@@ -2,6 +2,6 @@
 
 - List of my Obtained Certificates:
 
-    - [IBM-Data-Science-Professional-Certificate](IBM/index.md)
+    - [IBM-Data-Science-Professional-Certificate](ibm/index.md)
    
 
