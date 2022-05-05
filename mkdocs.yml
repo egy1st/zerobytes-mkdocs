@@ -12,6 +12,7 @@ nav:
     - About: about.md
     
 site_dir: public
+edit_url: edit/main/docs
     
 theme:
     name: mkdocs
