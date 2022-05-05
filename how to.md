@@ -13,3 +13,5 @@ venv\Scripts\activate
   mkdocs serve
 
 
+# output requiremnts
+pip freeze > requirements.txt
