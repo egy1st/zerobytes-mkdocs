@@ -5,14 +5,17 @@ copyright: These bytes offered to you by Mohamed Abbas
 
 nav:
     - Home: index.md
-    - Machine: ml\index.md  
-    - Machine Learning: about.md 
-    - Machine: ml/index.md      
+    - Machine: ml/index.md  
+    - Machine Learning: about.md  
     - Courses: courses\index.md
     - Dynamic Components: courses\index.md
     - Certificates: certificates\index.md
     - About: about.md
     
+docs:
+    index.md
+    about.md
+    ml/index.md
     
 theme:
     name: mkdocs
