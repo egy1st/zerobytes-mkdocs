@@ -12,6 +12,8 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
 - [DenMune: Documentation](https://docs.zerobytes.one/denmune/)
 - [MS Excel: Interactive Training](https://quiz.zerobytes.one/)
 - [Counting in 13 Languages including Arabic, English & Chinese](https://api.zerobytes.one/)
+- [Counting in 13 Languages including Arabic, English & Chinese](courses\index.md)
+
 
 
 
