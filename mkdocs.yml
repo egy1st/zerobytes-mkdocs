@@ -12,7 +12,7 @@ nav:
     - About: about.md
     
 site_dir: public
-edit_url: https://github.com/egy1st/zerobytes-mkdocs/edit/main/docs/
+edit_uri: edit/main/docs/
     
 theme:
     name: mkdocs
