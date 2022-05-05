@@ -3,8 +3,8 @@
 - Data Analysis Courses
 
 
-	- [Python](Python/index.md)
-	- [Miceosoft Excel](Miceosoft Excel/index.md)
+	- [Python](python/index.md)
+	- [Miceosoft Excel](excel/index.md)
 	
 	
 :octicons-heart-fill-24:{ .heart }

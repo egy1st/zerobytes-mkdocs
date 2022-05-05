@@ -2,12 +2,12 @@ site_name: ZeroBytes
 site_url: https://www.zerobytes.one
 repo_url: https://github.com/egy1st/zerobytes-mkdocs
 copyright: These bytes offered to you by Mohamed Abbas
-navigation_depth: 3
+
 nav:
     - Home: index.md
     - Machine Learning: ml\index.md   
     - Courses: courses\index.md
-    - Dynamic Components: dc\index.md
+    - Dynamic Components: courses\index.md
     - Certificates: certificates\index.md
     - About: about.md
     
@@ -16,8 +16,6 @@ theme:
     name: mkdocs
     nav_style: primary
     locale: en
-    static_templates:
-        - sitemap.html
     include_sidebar: true
     collapse_navigation: false
     
