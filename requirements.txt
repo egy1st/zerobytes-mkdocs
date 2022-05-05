@@ -16,3 +16,4 @@ six==1.16.0
 watchdog==2.1.7
 zipp==3.8.0
 pymdown-extensions>=7.0
+pygments>=2.12.0
