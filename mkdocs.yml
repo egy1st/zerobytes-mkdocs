@@ -12,10 +12,7 @@ nav:
     - Certificates: certificates\index.md
     - About: about.md
     
-docs:
-    index.md
-    about.md
-    ml/index.md
+site_dir: public
     
 theme:
     name: mkdocs

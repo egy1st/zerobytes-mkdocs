@@ -10,7 +10,12 @@ venv\Scripts\activate
 
 
 # How to run MkDocs
-  mkdocs serve
+  - mkdocs serve
+
+# How to build
+- mkdocs build -d build
+
+
 
 
 # output requiremnts
