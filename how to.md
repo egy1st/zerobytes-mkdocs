@@ -17,6 +17,5 @@ venv\Scripts\activate
 
 
 
-
 # output requiremnts
 pip freeze > requirements.txt
