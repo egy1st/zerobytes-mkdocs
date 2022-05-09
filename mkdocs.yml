@@ -21,7 +21,9 @@ theme:
     include_sidebar: true
     collapse_navigation: false
     
-    
+extra_javascript:
+    - js/analytics.js
+       
 markdown_extensions:
   - toc
   - abbr
