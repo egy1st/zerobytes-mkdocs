@@ -11,19 +11,28 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
 - [DenMune: Density-based clustering](https://github.com/egy1st/denmune-clustering-algorithm)
 - [DenMune: Documentation](https://docs.zerobytes.one)
 - [MS Excel: Interactive Training](https://quiz.zerobytes.one/)
-- [Counting in 13 Languages including Arabic, English & Chinese](http://api.zerobytes.one/number2words/v1/?number=12345.73&language=en)
+- [Counting in 13 Languages including Arabic, English & Chinese](https://api.zerobytes.one/number2words/demo/)
 
 
-# ZeroBytes: When less means more
+# ZeroBytes: Who, Why, and Whom
 
-*"Obviously, there is a trade-off between gaining knowledge and the costly time and money to obtain these knowledge. In ZeroBytes we believe that knowledge should be available to learner in premium, but at no cost."*
+*Obviously, there is a trade-off between gaining knowledge and the costly time and money to obtain these knowledge. In ZeroBytes we believe that knowledge should be available to learner in premium, but at no cost.*
 
-*"When Free means Premium. When less means More. This is the most complex formula we master in ZeroBytes. We just started.. There are many things that seem impossible only so long as one does not attempt them."*
+*When Free means Premium. When less means More. This is the most complex formula we master in ZeroBytes. We just started.. There are many things that seem impossible only so long as one does not attempt them.*
 
-*"Our mission is to make the Arab world a better place to learn, gain knowledge and apply these knowledge to solve real-life problems that is result in leading a better life."*
+"Our mission is to make the Arab world a better place to learn, gain knowledge and apply these knowledge to solve real-life problems that is result in leading a better life.*
 
 
+# All Projects are Open Source
+- **<u>Connected English</u>**
 
+  > - **Description**: A new way to learn English using TED talks. This premium and innovative method offers many benefits to learners. They gain new knowledge from TED takes, learn new words and how they are connected in sentences, and choose which level to address.
+  > - **Demo Website**: http://ted.zerobytes.one/
+  > - **GitHub source code**: https://github.com/egy1st/connected-english
+- Number2Words
+  -
+
+  
 
 Please see the [projects license](license.md) for further details.
 
