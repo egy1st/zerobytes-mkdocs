@@ -158,6 +158,7 @@ label {
 }
 
 input[type="textarea"] {
+    word-break: break-word;
     font-size: 16px;
     line-height: 28px;
     padding: 8px 16px;
