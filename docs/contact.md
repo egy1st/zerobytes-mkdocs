@@ -158,17 +158,22 @@ label {
 }
 
 input[type="textarea"] {
-     min-height: 200px;
+    font-size: 16px;
+    line-height: 28px;
+    padding: 8px 16px;
+    width: 100%;
+    min-height: 200px;
+    border: unset;
+    border-radius: 4px;
+    outline-color: rgb(84 105 212 / 0.5);
+    background-color: rgb(255, 255, 255);
     box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
                 rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
-                rgba(0, 0, 0, 0.12) 0px 1px 1px 0px, 
-                rgb(84, 105, 212) 0px 0px 0px 1px, 
+                rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
+                rgba(60, 66, 87, 0.16) 0px 0px 0px 1px, 
                 rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
                 rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
-                rgba(60, 66, 87, 0.08) 0px 2px 5px 0px;
-    color: #fff;
-    font-weight: 600;
-    cursor: pointer;
+                rgba(0, 0, 0, 0) 0px 0px 0px 0px;
 }
 
 input[type="submit"] {
@@ -305,11 +310,7 @@ a.ssolink {
                 </div>
                 <div class="field padding-bottom--24">
                   <label for="message">Message</label>
-                  <textarea rows ="5" name="message" placeholder="your message" required=""></textarea>
-                </div>
-                <div class="field padding-bottom--24">
-                  <label for="message2">Message</label>
-                  <input type="textarea" name="message2" placeholder="your message" required="">
+                  <input type="textarea" name="message" placeholder="your message" required="">
                 </div>
                 <div class="field padding-bottom--24">
                   <input type="submit" name="submit" value="Continue">
