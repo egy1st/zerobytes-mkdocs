@@ -52,7 +52,7 @@ input[type=submit]:hover {
 }
 </style>
 
-<!-- modify this form HTML and place wherever you want your form -->
+<div class="container">
   <form class="form" id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mnqlleyl" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
@@ -65,3 +65,4 @@ input[type=submit]:hover {
   </fieldset>
   <input type="submit" value="Submit">
 </form>
+</div>
