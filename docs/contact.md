@@ -159,7 +159,7 @@ label {
                 rgba(0, 0, 0, 0) 0px 0px 0px 0px;
 }
 
-.field-textarea input {
+.field-textarea textarea {
     font-size: 16px;
     line-height: 28px;
     padding: 8px 16px;
