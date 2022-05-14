@@ -274,13 +274,13 @@ a.ssolink {
       </div>
       <div class="box-root padding-top--24 flex-flex flex-direction--column" style="flex-grow: 1; z-index: 9;">
         <div class="box-root padding-top--48 padding-bottom--24 flex-flex flex-justifyContent--center">
-          <h1><a href="http://blog.stackfindover.com/" rel="dofollow">Stackfindover</a></h1>
+          <h1><a href="https://www.linkedin.com/in/mohabbas//" rel="dofollow">Mohamed Abbas</a></h1>
         </div>
         <div class="formbg-outer">
           <div class="formbg">
             <div class="formbg-inner padding-horizontal--48">
               <span class="padding-bottom--15">Contact me</span>
-              <form id="stripe-login">
+               <form  id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mnqlleyl" method="post">
                  <div class="field padding-bottom--24">
                   <label for="email">Full Name</label>
                   <input type="text" name="name">
@@ -291,7 +291,7 @@ a.ssolink {
                 </div>
                 <div class="field padding-bottom--24">
                   <label for="message">Message</label>
-                  <input type="textarea" name="message">
+                  <input type="textarea" rows ="5" name="message">
                 </div>
                 <div class="field padding-bottom--24">
                   <input type="submit" name="submit" value="Continue">
