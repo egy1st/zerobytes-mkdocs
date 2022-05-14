@@ -1,10 +1,9 @@
-﻿# DC Binding Recordset
-
-Powered by ![](images/Aspose.Words.3e6e4189-8ddd-450c-b7ca-ac78dd84a3f2.001.png)
-
+﻿DC Binding Recordset
+=====================
 
 
-## Overview
+Overview
+-----------
 
 - DC.BindingRecordset  is a high-performance COM-based environments such as Visual Basic, Visual C++ , it is only 80 KB DLL , so enjoy speed performance. it has all the magic ,imaginary and incredible features you can find any where in the market.
 - DC.BindingRecordsetis is an enhanced class that handles all aspects required with a data form (including single form and master-details form. It handles all the events required that you rarely need few lines of additional programming code.

@@ -1,6 +1,9 @@
-﻿# DC-Application Protector
+﻿DC-Application Protector
+===========
 
-## Overview
+
+Overview
+---------
 
 - DC.AppProtecor is a library that allows you to protect Windows executable files against piracy. Using multi level encryption algorithms .  Thanks to Nested Layers Protection (NLP), new protection technology we adapt in our protection system.
 
@@ -10,7 +13,9 @@
 
 - If you are  losing sales to software , stop it now by our advanced, secure software protection system. It is very easy to include in your developing project  with only 3 lines of code .  EGY1ST has done a lot of work for you. You define few lines of code and we keep you safe away from hackers attempt. 
 
-## Features 
+Features 
+----------
+
 Do you know that DC.AppProtector itself is protected by itself !?. Few  Lines to add in your Form\_Load event  and you will get full secure software protection system.
 
 **You can:**
@@ -185,7 +190,10 @@ and second algorithms must be between 10 and 90            ===>(90 - 
 and third algorithms must be between 10 and 90               ===>(90 - 10) ===> 80 
 This is (6000 *80 *80) ===> 4,800,000 different combination
 
-## Tutorial
+
+Tutorial
+---------
+
 This tutorial describe all  features supported by DC.AppProtector
 
 also you can refer to the project example which installed by default into C:\Program Files\Dynamic Components\Application Protector\Tutorial\

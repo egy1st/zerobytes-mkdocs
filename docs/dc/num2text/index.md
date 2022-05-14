@@ -1,10 +1,11 @@
-﻿# **DynamicComponents - Num2Text-----**
+﻿DC Num2Text
+=============
 
-Powered by ![](Aspose.Words.b3394690-9aa4-4836-a76e-f075b60016c5.001.png)
 
 
-# **Overview**
------
+Overview
+---------
+
 DC.Num2Text  is a COM based component that convert numerical values into words in 4 languages
 For example, the numerical value **7431285.46**  would be translated into the text 
 
@@ -121,56 +122,3 @@ oTextNum.SetCurrency("Dollar", "Cent", "Dollars", "Cents")
 strNum  = oTextNum.[TranslateNumber](#chmtopic8)("159584.58", DynamicComponents.Num2Text.Language\_ID.English) // translate into English
 
 
-# **Contact us -----**
-Home Page:      [ http://www.tools4vb.com](http://www.tools4vb.com)
-
-Sales Email:     [sales@tools4vb.com](mailto: sales@tools4vb.com)
-
-Support Email:  <support@tools4vb.com>
-# **License -----**
-Copyright ©2004 DynamicComponenets Software. All rights reserved
-
-The software described in this document is furnished under a license agreement and may be used or copied only in accordance with the terms of the agreement. 
-
-YOU MAY: 
-
-\1. Install and use the unlimited number of copies of the TRIAL VERSION.
-
-\2. Use one or more copies of the TRIAL VERSION for evaluation purposes only. 
-
-\3. Copy and distribute freely the TRIAL VERSION 
-
-YOU MAY NOT: 
-
-\1. Sublicense, rent or lease the TRIAL VERSION or any portion of it. 
-
-\2. Decompile, disassemble, reverse engineer or modify the TRIAL VERSION 
-
-
-DISTRIBUTION: 
-
-You are hereby licensed to make as many copies of the TRIAL VERSION as you wish and distribute them to anyone provided that all files are intact. You must distribute the install form of the TRIAL VERSION (not the files resulting of an installation). 
-
-You are not allowed to sell the TRIAL VERSION 
-
-Computer's Magazines are authorized to distribute it on any Cover Disk or CD-ROM without any permission. Please inform us by e-mail . 
-# **How to order -----**
-![](Aspose.Words.b3394690-9aa4-4836-a76e-f075b60016c5.004.png)
-
-Check the [http://www.tools4vb.com](http://www.tools4vb.com/Order%20Now.htm) for the latest pricing and product information. 
-
-you can buy this product online easily and securely and you will get the registration key immediately.
-# **How to Register your Copy**
------
-1. After your request  we will email you with registration key
-1. Enter your  name and registration key , and enjoy programming with DC.Num2Text
-
-
-# **Author Informaion-----**
-Company : **EgyFirst Software , inc**.
-
-URL : <http://www.tools4vb.com>
-
-Product : **DC Num2Text**
-
-Version: **1.0**

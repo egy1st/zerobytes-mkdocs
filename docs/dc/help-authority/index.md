@@ -1,10 +1,9 @@
-﻿# **DynamicComponents - Help Authority-----**
+﻿DC Help Authority
+====================
 
-Powered by ![](Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.001.png)
+Overview
+---------
 
-
-# **Overview**
------
 DC.HelpAuthority is a COM based component that allows you to assign a sensitive help for every control in within your form or even every column in your grid  
 
 DC.HelpAuthority may be used with any  developing language support COM based application like Visual Basic,Visual C++,Borland C++,Delphi and others ..
@@ -158,56 +157,4 @@ Me.AxDataGrid1.DataSource = oOrderDetails
 HA.PrepareHelp(CN, Me, Me.AxDataGrid1)
 
 End Sub
-# **Contact us -----**
-Home Page:      <http://www.dynamic-components.com>
 
-Sales Email:     <sales@dynamic-components.com>
-
-Support Email:  <support@dynamic-components.com>
-# **License -----**
-Copyright ©2004 DynamicComponenets Software. All rights reserved
-
-The software described in this document is furnished under a license agreement and may be used or copied only in accordance with the terms of the agreement. 
-
-YOU MAY: 
-
-\1. Install and use the unlimited number of copies of the TRIAL VERSION.
-
-\2. Use one or more copies of the TRIAL VERSION for evaluation purposes only. 
-
-\3. Copy and distribute freely the TRIAL VERSION 
-
-YOU MAY NOT: 
-
-\1. Sublicense, rent or lease the TRIAL VERSION or any portion of it. 
-
-\2. Decompile, disassemble, reverse engineer or modify the TRIAL VERSION 
-
-
-DISTRIBUTION: 
-
-You are hereby licensed to make as many copies of the TRIAL VERSION as you wish and distribute them to anyone provided that all files are intact. You must distribute the install form of the TRIAL VERSION (not the files resulting of an installation). 
-
-You are not allowed to sell the TRIAL VERSION 
-
-Computer's Magazines are authorized to distribute it on any Cover Disk or CD-ROM without any permission. Please inform us by e-mail . 
-# **How to order -----**
-![](Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.004.png)
-
-Check the [http://www.tools4vb.com](http://www.tools4vb.com/Order%20Now.htm) for the latest pricing and product information. 
-
-you can buy this product online easily and securely and you will get the registration key immediately.
-# **How to Register your Copy**
------
-1. After your request  we will email you with registration key
-1. Enter your  name and registration key , and enjoy programming with DC.HelpAuthority
-
-
-# **Author Informaion-----**
-Company : **EgyFirst Software , inc**.
-
-URL : <http://www.dynamic-components.com>
-
-Product : **DC Help Authority**
-
-Version: **1.0**

@@ -1,9 +1,9 @@
-﻿# DC Form Flipper
+﻿DC Form Flipper
+================
 
-Powered by ![](images/Aspose.Words.19aade32-d662-41fc-838a-bc05cce7c938.001.png)
 
-
-## Overview
+Overview
+-----------
 
 DC.FormFlipper is a COM based component that allows you to Support Eastern Language , we support right to left application by changing alignment to right and orientation by flip form horizontally 180  
 
@@ -12,7 +12,9 @@ DC.FormFlipper may be used with any  developing language support COM based appl
 EgyFirst has done a lot of work for you. no need to waste time , designing your form again to support multi languages and eastern languages application 
 you design one form and we design the other by flipping it for you
 
-## Features
+Features
+---------
+
 If you develop multi language application or eastern language application , you must get DC.FormFlipper
 Only one  Line to add in your Form\_Load event  and we will flip the form with all its controls for you  
 additionally , you can define alignment (Right 2 Left or Left 2 right)
