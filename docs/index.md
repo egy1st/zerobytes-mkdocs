@@ -48,21 +48,23 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
     
     - **GitHub source code**: [https://github.com/egy1st/denmune-clustering-algorithm](https://github.com/egy1st/denmune-clustering-algorithm)
     
-    **<u>Dunamic Componenets</u>**
+    **<u>Dynamic Components</u>**
   
-    - **Description**: Dynamic Components (DC) are activeX components which can be used with any com-based application i.e. visual basic and C#. It is mainly developed to put integrating database with appication into ease. It comes in 11 helpful components.
+    - **Description**: Dynamic Components (DC) are ActiveX components which can be used with any com-based application i.e. visual basic and C#. It is mainly developed to put integrating database with application into ease. It comes in 11 helpful components.
     
-    - **DC Data Manager**: [https://github.com/egy1st/data-manager](https://github.com/egy1st/data-manager) [Docs](https://www.zerobytes.one/dc/data-manager/)
-    - **DC Binding Recordset**: [https://github.com/egy1st/binding-recordset](https://github.com/egy1st/binding-recordset   ) [Docs](https://www.zerobytes.one/dc/binding-recordset/)
-    - **DC Dynamic Report**: [https://github.com/egy1st/dynamic-report](https://github.com/egy1st/dynamic-report)
-    - **DC Application Protector**: [https://github.com/egy1st/application-protector](https://github.com/egy1st/application-protector)  [Docs](https://www.zerobytes.one/dc/application-protector/)
-    - **DC Image Button**: [https://github.com/egy1st/image-button](https://github.com/egy1st/image-button)
-    - **DC Help Authority**: [https://github.com/egy1st/help-authority](https://github.com/egy1st/help-authority)
-    - **DC Form Translator**: [https://github.com/egy1st/form-translator](https://github.com/egy1st/form-translator)
-    - **DC Form Flipper**: [https://github.com/egy1st/form-flipper](https://github.com/egy1st/form-flipper)
-   - **DC Data-Entry Validator**: [https://github.com/egy1st/data-entry-validator](https://github.com/egy1st/data-entry-validator)  [Docs](https://www.zerobytes.one/dc/data-entry-validator/index.md)
-    - **DC Return-key Enabled**: [https://github.com/egy1st/returnkey-enabled](https://github.com/egy1st/returnkey-enabled)
-  
+    - | DC Data Manager          | an enhanced class that handles all aspects required with a data form (including single form and master-details form. handles all the events required that you rarely need few lines of additional programming code. | [Docs](https://www.zerobytes.one/dc/data-manager/)          | [GitHub](https://github.com/egy1st/data-manager)          |
+      | ------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------- | --------------------------------------------------------- |
+      | DC Binding Recordset     | Few Lines to add in your Form_Load event and you will get full control over your form and all included (TextBox - Lables-Buttons-Grid-Recordset) and all related events (Leave-paint-Keypress-AfterColEdit-OnAddNew-Click-MouseEnter-MouseLeave-MouseDown-Enter) | [Docs](https://www.zerobytes.one/dc/binding-recordset/)     | [GitHub](https://github.com/egy1st/binding-recordset)     |
+      | DC Dynamic Report        | Generate themed dynamic report on the fly without any line of code. | [Docs](https://www.zerobytes.one/dc/dynamic-report/)        | [GitHub](https://github.com/egy1st/dynamic-report)        |
+      | DC Application Protector | protect Windows executable files against piracy. Using multi level encryption algorithms . Thanks to Nested Layers Protection (NLP), new protection technology we adapt in our protection system. | [Docs](https://www.zerobytes.one/dc/application-protector/) | [GitHub](https://github.com/egy1st/application-protector) |
+      | DC Image Button          | Assign different icon images for each button state on the fly without any line of code. | [Docs](https://www.zerobytes.one/dc/image-button/)          | [GitHub](https://github.com/egy1st/image-button)          |
+      | DC Help Authority        | put the finish touch to your application by adding sensitive help to every control in your form , any column in your grid when you press F12 key this will trigger your sensitive help for focused control or column | [Docs](https://www.zerobytes.one/dc/help-authority/)        | [GitHub](https://github.com/egy1st/help-authority)        |
+      | DC Form Translator       | If you develop multi language application or eastern language application. Only one Line to add in your Form_Load event and we will translate the form with all its labels for you. | [Docs](https://www.zerobytes.one/dc/form-translator/)       | [GitHub](https://github.com/egy1st/form-translator)       |
+     | DC Form Flipper          | If you develop multi language application or eastern language application. Only one Line to add in your Form_Load event and we will flip the form with all its controls for you additionally , you can define alignment (Right 2 Left or Left 2 right) | [Docs](https://www.zerobytes.one/dc/form-flipper/)          | [GitHub](https://github.com/egy1st/form-flipper)          |
+     | DC Data-Entry Validator  | Notify you with red forecolor when your entry is not proper , so there is some thing wrong with data entry in that Textbox. Also, format data by define decimal places for numeric entry , or define letter case for characters entry. | [Docs](https://www.zerobytes.one/dc/data-entry-validator/)  | [GitHub](https://github.com/egy1st/data-entry-validator)  |
+     | DC Return-key Enabled    | Only one line of code and you can move easily through your form controls without any additional programming code. | [Docs](https://www.zerobytes.one/dc/returnkey-enabled/)     | [GitHub](https://github.com/egy1st/returnkey-enabled)     |
+     |                          |                                                              |                                                             |                                                           |
+
   
 
 Please see the [projects license](license.md) for further details.

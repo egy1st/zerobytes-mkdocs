@@ -10,7 +10,6 @@
 	- [Form Flipper](form-flipper/index.md)
 	- [Form Translator](form-translator/index.md)
 	- [Help Authority](help-authority/index.md)
-
 	- [Data Entry Validator](data-entry-validator/index.md)
 	- [Returnkey- Enabled](returnkey-enabled/index.md)
 	- [Num2Text](num2text/index.md)
