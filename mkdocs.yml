@@ -10,7 +10,7 @@ nav:
     - Dynamic Components: dc/index.md
     - Certificates: certificates/index.md
     - Me:
-        - About: about.md
+        - About me: about.md
         - Contact me: contact.md
     
 site_dir: public
