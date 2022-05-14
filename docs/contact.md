@@ -159,7 +159,7 @@ label {
                 rgba(0, 0, 0, 0) 0px 0px 0px 0px;
 }
 
-.field-textarea input {
+.field-textarea textarea {
     font-size: 16px;
     line-height: 28px;
     padding: 8px 16px;
@@ -310,9 +310,9 @@ a.ssolink {
                   <label for="email">Email</label>
                   <input type="email" name="email" placeholder="your email" required="">
                 </div>
-                <div class="field padding-bottom--24">
+                <div class="field field-textarea padding-bottom--24">
                   <label for="message">Message</label>
-                  <textarea  class="field padding-bottom--24" rows="8" cols="45" name="message" placeholder="your message" required=""></textarea>
+                  <textarea  class="field field-textarea padding-bottom--24" rows="8" cols="45" name="message" placeholder="your message" required=""></textarea>
                 </div>
                 <div class="field padding-bottom--24">
                   <input type="submit" name="submit" value="Continue">
@@ -324,18 +324,3 @@ a.ssolink {
       </div>
     </div>
   </div>
-
-<div class="login-root">
-  <form  id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mnqlleyl" method="post">
-  <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-    <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-    <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-  </fieldset>
-  <input type="submit" value="Submit">
-</form>
-</div>
