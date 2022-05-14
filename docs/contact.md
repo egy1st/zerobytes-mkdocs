@@ -158,7 +158,7 @@ label {
 }
 
 input[type="textarea"] {
-    background-color: rgb(84, 105, 212);
+     min-height: 200px;
     box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
                 rgba(0, 0, 0, 0) 0px 0px 0px 0px, 
                 rgba(0, 0, 0, 0.12) 0px 1px 1px 0px, 
