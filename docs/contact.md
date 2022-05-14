@@ -291,7 +291,7 @@ a.ssolink {
                 </div>
                 <div class="field padding-bottom--24">
                   <label for="message">Message</label>
-                  <textarea rows ="5" name="message" placeholder="your message">
+                  <textarea rows ="5" name="message" placeholder="your message"></textarea>
                 </div>
                 <div class="field padding-bottom--24">
                   <input type="submit" name="submit" value="Continue">
