@@ -50,7 +50,7 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
     
     **<u>Dynamic Components</u>**
   
-    - **Description**: Dynamic Components (DC) are ActiveX components which can be used with any com-based application i.e. visual basic and C#. It is mainly developed to put integrating database with application into ease. It comes in 11 helpful components.
+    - **Description**: Dynamic Components (DC) are ActiveX components which can be used with any com-based application i.e. visual basic and C#. It is mainly developed to put integrating database with application into ease. It comes in 12 helpful components.
     
     - | DC Data Manager          | an enhanced class that handles all aspects required with a data form (including single form and master-details form. handles all the events required that you rarely need few lines of additional programming code. | [Docs](https://www.zerobytes.one/dc/data-manager/)          | [GitHub](https://github.com/egy1st/data-manager)          |
       | ------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------- | --------------------------------------------------------- |
@@ -63,7 +63,7 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
      | DC Form Flipper          | If you develop multi language application or eastern language application. Only one Line to add in your Form_Load event and we will flip the form with all its controls for you additionally , you can define alignment (Right 2 Left or Left 2 right) | [Docs](https://www.zerobytes.one/dc/form-flipper/)          | [GitHub](https://github.com/egy1st/form-flipper)          |
      | DC Data-Entry Validator  | Notify you with red forecolor when your entry is not proper , so there is some thing wrong with data entry in that Textbox. Also, format data by define decimal places for numeric entry , or define letter case for characters entry. | [Docs](https://www.zerobytes.one/dc/data-entry-validator/)  | [GitHub](https://github.com/egy1st/data-entry-validator)  |
      | DC Return-key Enabled    | Only one line of code and you can move easily through your form controls without any additional programming code. | [Docs](https://www.zerobytes.one/dc/returnkey-enabled/)     | [GitHub](https://github.com/egy1st/returnkey-enabled)     |
-     |                          |                                                              |                                                             |                                                           |
+     | DC Num2Text              | Convert any digits number to the equivalent words in 13 languages. A .NET integrated library. | [Docs](https://www.zerobytes.one/dc/num2text/)              | [GitHub](https://github.com/egy1st/number2text)           |
 
   
 
