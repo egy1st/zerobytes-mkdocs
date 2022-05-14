@@ -159,7 +159,7 @@ label {
                 rgba(0, 0, 0, 0) 0px 0px 0px 0px;
 }
 
-.field-textarea textarea {
+.field-textarea input {
     font-size: 16px;
     line-height: 28px;
     padding: 8px 16px;
@@ -310,9 +310,9 @@ a.ssolink {
                   <label for="email">Email</label>
                   <input type="email" name="email" placeholder="your email" required="">
                 </div>
-                <div class="field field-textarea padding-bottom--24 flex-flex align-center">
+                <div class="field-textarea padding-bottom--24 flex-flex align-center">
                   <label for="message">Message</label>
-                  <input type="textarea" rows="5" name="message" placeholder="your message" required="">
+                  <textarea  rows="5" name="message" placeholder="your message" required=""></textarea>
                 </div>
                 <div class="field padding-bottom--24">
                   <input type="submit" name="submit" value="Continue">
