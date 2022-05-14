@@ -310,7 +310,7 @@ a.ssolink {
                   <label for="email">Email</label>
                   <input type="email" name="email" placeholder="your email" required="">
                 </div>
-                <div class="field field-textarea padding-bottom--24 flex-flex align-center">
+                <div class="field field-textarea padding-bottom--24">
                   <label for="message">Message</label>
                   <textarea  rows="5" name="message" placeholder="your message" required=""></textarea>
                 </div>
