@@ -1,3 +1,5 @@
+https://codepen.io/stack-findover/pen/OJRvPQv
+
 <style>
 * {
   padding: 0;
@@ -157,8 +159,7 @@ label {
                 rgba(0, 0, 0, 0) 0px 0px 0px 0px;
 }
 
-input[type="textarea"] {
-    word-break: break-word;
+.field-textarea input {
     font-size: 16px;
     line-height: 28px;
     padding: 8px 16px;
@@ -309,9 +310,9 @@ a.ssolink {
                   <label for="email">Email</label>
                   <input type="email" name="email" placeholder="your email" required="">
                 </div>
-                <div class="field padding-bottom--24">
+                <div class="field field-textarea padding-bottom--24 flex-flex align-center">
                   <label for="message">Message</label>
-                  <input type="textarea" name="message" placeholder="your message" required="">
+                  <input type="textarea" rows="5" name="message" placeholder="your message" required="">
                 </div>
                 <div class="field padding-bottom--24">
                   <input type="submit" name="submit" value="Continue">
