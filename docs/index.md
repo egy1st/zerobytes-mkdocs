@@ -26,28 +26,28 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
 # All Projects are Open Source
 - **<u>Connected English</u>**
 
-  > - **Description**: A new way to learn English using TED talks. This premium and innovative method offers many benefits to learners. They gain new knowledge from TED takes, learn new words and how they are connected in sentences, and choose which level to address.
-  > - **Demo Website**: http://ted.zerobytes.one/
-  > - **GitHub source code**: https://github.com/egy1st/connected-english
+    > - **Description**: A new way to learn English using TED talks. This premium and innovative method offers many benefits to learners. They gain new knowledge from TED takes, learn new words and how they are connected in sentences, and choose which level to address.
+    > - **Demo Website**: [http://ted.zerobytes.one/](http://ted.zerobytes.one/)
+    > - **GitHub source code**: [https://github.com/egy1st/connected-english](https://github.com/egy1st/connected-english)
 
 - **<u>Number2Words</u>**
   
-  - **Description**: Number2Words is an API that allows you to Convert any digits number to the equivalent words in 13 languages, for example
-  
-    > (8543.21 in digits) will be (eight thousand, five hundred and forty-three $ and twenty-one ¢ in words).
-  
-  - **Demo Website**: https://api.zerobytes.one/number2words/demo/
-  
-  - **GitHub source code**: https://github.com/egy1st/Number2Words
+    - **Description**: Number2Words is an API that allows you to Convert any digits number to the equivalent words in 13 languages, for example
+    
+      `(8543.21 in digits) will be (eight thousand, five hundred and forty-three $ and twenty-one ¢ in words)`
+    
+    - **Demo Website**: [https://api.zerobytes.one/number2words/demo/](https://api.zerobytes.one/number2words/demo/)
+    
+    - **GitHub source code**: [https://github.com/egy1st/Number2Words](https://github.com/egy1st/Number2Words)
   
 - **<u>DenMune Clustering Algorithm</u>**
   
-  - **Description**: DenMune is a clustering algorithm that can find clusters of arbitrary size, shapes and densities in two-dimensions. Higher dimensions are first reduced to 2-D using the t-sne. The algorithm relies on a single parameter K (the number of nearest neighbors). The results show the superiority of the algorithm. 
-  
-  - **Demo Website**: https://mybinder.org/v2/gh/egy1st/denmune-clustering-algorithm
-  
-  - **GitHub source code**: https://github.com/egy1st/denmune-clustering-algorithm
-  
+    - **Description**: DenMune is a clustering algorithm that can find clusters of arbitrary size, shapes and densities in two-dimensions. Higher dimensions are first reduced to 2-D using the t-sne. The algorithm relies on a single parameter K (the number of nearest neighbors). The results show the superiority of the algorithm. 
+    
+    - **Demo Website**: [https://mybinder.org/v2/gh/egy1st/denmune-clustering-algorithm](https://mybinder.org/v2/gh/egy1st/denmune-clustering-algorithm)
+    
+    - **GitHub source code**: [https://github.com/egy1st/denmune-clustering-algorithm](https://github.com/egy1st/denmune-clustering-algorithm)
+    
   
   
 
