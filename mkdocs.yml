@@ -9,7 +9,9 @@ nav:
     - Courses: courses/index.md
     - Dynamic Components: dc/index.md
     - Certificates: certificates/index.md
-    - About: about.md
+    - Me:
+        - About: about.md
+        - Contact me: contact.md
     
 site_dir: public
 edit_uri: edit/main/docs/
