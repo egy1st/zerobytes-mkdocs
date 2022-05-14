@@ -50,11 +50,10 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
     
     **<u>Dunamic Componenets</u>**
   
-    - **Description**: Dynamic Components (DC) are activeX components which can be used with any com-based application i.e. visual basic and C#. It is mainly developed to put integrating database with appication into ease.
+    - **Description**: Dynamic Components (DC) are activeX components which can be used with any com-based application i.e. visual basic and C#. It is mainly developed to put integrating database with appication into ease. It comes in 11 helpful components.
     
     - **DC Data Manager**: [https://github.com/egy1st/data-manager](https://github.com/egy1st/data-manager)
-    - **DC Binding Recordset**: [https://github.com/egy1st/binding-recordset](https://github.com/egy1st/binding-recordset
-    )
+    - **DC Binding Recordset**: [https://github.com/egy1st/binding-recordset](https://github.com/egy1st/binding-recordset   )
     - **DC Dynamic Report**: [https://github.com/egy1st/dynamic-report](https://github.com/egy1st/dynamic-report)
     - **DC Data-Entry Validator**: [https://github.com/egy1st/data-entry-validator](https://github.com/egy1st/data-entry-validator)
     - **DC Image Button**: [https://github.com/egy1st/image-button](https://github.com/egy1st/image-button)
@@ -62,7 +61,7 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
     - **DC Form Translator**: [https://github.com/egy1st/form-translator](https://github.com/egy1st/form-translator)
     - **DC Form Flipper**: [https://github.com/egy1st/form-flipper](https://github.com/egy1st/form-flipper)
     - **DC Application Protector**: [https://github.com/egy1st/application-protector](https://github.com/egy1st/application-protector)
-      - **DC Image Button**: [https://github.com/egy1st/image-button](https://github.com/egy1st/image-button)
+      - **DC Return-key Enabled**: [https://github.com/egy1st/returnkey-enabled](https://github.com/egy1st/returnkey-enabled)
   
   
 
