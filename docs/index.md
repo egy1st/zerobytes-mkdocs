@@ -14,13 +14,13 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
 - [Counting in 13 Languages including Arabic, English & Chinese](https://api.zerobytes.one/number2words/demo/)
 
 
-# ZeroBytes: Who, Why, and Whom
+# ZeroBytes: Who, How, and for Whom
 
-*Obviously, there is a trade-off between gaining knowledge and the costly time and money to obtain these knowledge. In ZeroBytes we believe that knowledge should be available to learner in premium, but at no cost.*
+`Who:` *Obviously, there is a trade-off between gaining knowledge and the costly time and money to obtain these knowledge. In ZeroBytes we believe that knowledge should be available to learner in premium, but at no cost.*
 
-*When Free means Premium. When less means More. This is the most complex formula we master in ZeroBytes. We just started.. There are many things that seem impossible only so long as one does not attempt them.*
+`How`: *When Free means Premium. When less means More. This is the most complex formula we master in ZeroBytes. We just started.. There are many things that seem impossible only so long as one does not attempt them.*
 
-"Our mission is to make the Arab world a better place to learn, gain knowledge and apply these knowledge to solve real-life problems that is result in leading a better life.*
+`Whom`: "Our mission is to make the Arab world a better place to learn, gain knowledge and apply these knowledge to solve real-life problems that is result in leading a better life.*
 
 
 # All Projects are Open Source
@@ -29,9 +29,26 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
   > - **Description**: A new way to learn English using TED talks. This premium and innovative method offers many benefits to learners. They gain new knowledge from TED takes, learn new words and how they are connected in sentences, and choose which level to address.
   > - **Demo Website**: http://ted.zerobytes.one/
   > - **GitHub source code**: https://github.com/egy1st/connected-english
-- Number2Words
-  -
 
+- **<u>Number2Words</u>**
+  
+  - **Description**: Number2Words is an API that allows you to Convert any digits number to the equivalent words in 13 languages, for example
+  
+    > (8543.21 in digits) will be (eight thousand, five hundred and forty-three $ and twenty-one ¢ in words).
+  
+  - **Demo Website**: https://api.zerobytes.one/number2words/demo/
+  
+  - **GitHub source code**: https://github.com/egy1st/Number2Words
+  
+- **<u>DenMune Clustering Algorithm</u>**
+  
+  - **Description**: DenMune is a clustering algorithm that can find clusters of arbitrary size, shapes and densities in two-dimensions. Higher dimensions are first reduced to 2-D using the t-sne. The algorithm relies on a single parameter K (the number of nearest neighbors). The results show the superiority of the algorithm. 
+  
+  - **Demo Website**: https://mybinder.org/v2/gh/egy1st/denmune-clustering-algorithm
+  
+  - **GitHub source code**: https://github.com/egy1st/denmune-clustering-algorithm
+  
+  
   
 
 Please see the [projects license](license.md) for further details.
