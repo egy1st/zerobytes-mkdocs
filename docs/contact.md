@@ -274,7 +274,7 @@ a.ssolink {
       </div>
       <div class="box-root padding-top--24 flex-flex flex-direction--column" style="flex-grow: 1; z-index: 9;">
         <div class="box-root padding-top--48 padding-bottom--24 flex-flex flex-justifyContent--center">
-          <h1><a href="https://www.linkedin.com/in/mohabbas//" rel="dofollow">Mohamed Abbas</a></h1>
+          <h1><a href="https://www.linkedin.com/in/mohabbas/" rel="dofollow">Mohamed Abbas</a></h1>
         </div>
         <div class="formbg-outer">
           <div class="formbg">
@@ -283,15 +283,15 @@ a.ssolink {
                <form  id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mnqlleyl" method="post">
                  <div class="field padding-bottom--24">
                   <label for="email">Full Name</label>
-                  <input type="text" name="name">
+                  <input type="text" name="name" placeholder="John Doe">
                 </div>
                 <div class="field padding-bottom--24">
                   <label for="email">Email</label>
-                  <input type="email" name="email">
+                  <input type="email" name="email" placeholder="your email">
                 </div>
                 <div class="field padding-bottom--24">
                   <label for="message">Message</label>
-                  <input type="textarea" rows ="5" name="message">
+                  <textarea rows ="5" name="message" placeholder="your message">
                 </div>
                 <div class="field padding-bottom--24">
                   <input type="submit" name="submit" value="Continue">
