@@ -310,9 +310,9 @@ a.ssolink {
                   <label for="email">Email</label>
                   <input type="email" name="email" placeholder="your email" required="">
                 </div>
-                <div class="field field-textarea padding-bottom--24">
+                <div class="field padding-bottom--24">
                   <label for="message">Message</label>
-                  <textarea  rows="8" cols="46" name="message" placeholder="your message" required=""></textarea>
+                  <textarea  rows="8" cols="45" name="message" placeholder="your message" required=""></textarea>
                 </div>
                 <div class="field padding-bottom--24">
                   <input type="submit" name="submit" value="Continue">
