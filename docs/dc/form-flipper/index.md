@@ -30,27 +30,31 @@ FF.[FlipForm](#chmtopic8)(Me, True) ' Flip form ,so it is right 2 left orientati
 
 
 
-\1) First image show orginal form 
+`First image show orginal form`
 
-![](Aspose.Words.19aade32-d662-41fc-838a-bc05cce7c938.002.png)
+![](images/Aspose.Words.19aade32-d662-41fc-838a-bc05cce7c938.002.png)
 
 
 
-\2) Second image show form after flipping it horizontally 180
+`Second image show form after flipping it horizontally 180`
 
-![](Aspose.Words.19aade32-d662-41fc-838a-bc05cce7c938.003.png)
+![](images/Aspose.Words.19aade32-d662-41fc-838a-bc05cce7c938.003.png)
 
-## System Requirements
+System Requirements
+-------------------
+
 DC.FormFlipper runs as a COM class for Developing with Visual Basic.Net under Microsoft Windows 98/NT/ 2000 or Windows XP. 
 
 
-## Installing DC.FormFlipper
+Installing DC.FormFlipper
+-------------------------
 
 The DC.FormFlipper setup program will automatically register the DC\_FormFlipper10.dll file on your system. 
 
 There is no need to manually run RegSvr32.exe on your development system. 
 
-## Including DC.FormFlipper
+Including DC.FormFlipper
+-------------------------
 
 To include DC.FormFlipper in your project 
 
@@ -58,39 +62,44 @@ To include DC.FormFlipper in your project
 1. Push Browse button to locate your DC\_FormFlipper10.DLL file which by default located in [c:\windows\system32](file:///c:/windows/system32)  , now the specific DLL included in your references
 
 
-## Deploying DC.FormFlipper Application
+Deploying DC.FormFlipper
+------------------------
+
 The only file needs to be distributed with DC.FormFlipper COM applications is DC\_FormFlipper10.dll
 
 this file should be copied to the WinSystem directory which by default is C:\Windows\System32 
 
 
-## How to Use:
+How to Use:
+============
+
 
 **FlipForm**
------
+
 We support eastern languages Arabic , Chinese and so on 
 
 so we support right to left alignment and orientation , we rotate form horizontally 180
 
-**Syntax:**
+Syntax:
+---------
 
 Function FlipForm(ByRef dm\_Form As System.Windows.Forms.Form, ByVal Right2Left As Boolean)
 
-**Example:**
+Example:
+-----------
 
-FF.FlipForm(Me, True) ' Flip form ,so it is right 2 left
+FF.FlipForm(Me, True) ' Flip form, so it is right 2 left now
 
 
-what amazing !
-
-![](Aspose.Words.19aade32-d662-41fc-838a-bc05cce7c938.004.png)
+![](images/Aspose.Words.19aade32-d662-41fc-838a-bc05cce7c938.004.png)
 
 
 
 **Note:**
 It is recommended to use DC.FormTranslator with DC.FormFlipper**
 
-## Tutorial
+Tutorial
+---------
 
 This tutorial describe most of features supported by DC.FormFlipper
 
@@ -123,3 +132,4 @@ PopulateDate()
 FF.FlipForm(Me, True) ' Flip form ,so it is right 2 left 
 
 End Sub
+```

@@ -20,7 +20,7 @@ in German will be:
 Sieben Millionen , vier Hunderte eins und dreiكig Tausenden , zwei Hunderte fünf und achtzig euro sechs und vierzig cents 
 
 in Arabic will be:
-![](Aspose.Words.b3394690-9aa4-4836-a76e-f075b60016c5.002.png)
+![](images/Aspose.Words.b3394690-9aa4-4836-a76e-f075b60016c5.002.png)
 
 **the most useful use** DC.Num2Text  **is with  Cheque Production Systems and finical reports in business application .**
 
@@ -83,7 +83,7 @@ dim strNum  = TranslateNumber ("49562854",3)  // translate into French languag
 -----
 SetCurrency function enables you customize your currency 
 
-default currency used by English language is Dollar , while Euro is default currency for French and German Languages , and ![](Aspose.Words.b3394690-9aa4-4836-a76e-f075b60016c5.003.png) is default currency for Arabic Language
+default currency used by English language is Dollar , while Euro is default currency for French and German Languages , and ![](images/Aspose.Words.b3394690-9aa4-4836-a76e-f075b60016c5.003.png) is default currency for Arabic Language
 
 **Syntax:**
 

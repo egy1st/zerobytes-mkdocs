@@ -19,7 +19,7 @@ Dim HA As New DynamicComponents.HelpAuthority()
 
 HA.[PrepareHelp](#chmtopic8)(CN, Me, Me.AxDataGrid1)
 
-![](Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.002.png)
+![](images/Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.002.png)
 
 
 # **System Requirements -----**
@@ -73,7 +73,7 @@ and AxDataGrid1 (if your form has a grid) is a reference to your grid
 
 
 
-![](Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.002.png)
+![](images/Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.002.png)
 # **Sensitive F12 Help -----**
 When you press F12 Key , this trigger a sensitive help ,this require
 
@@ -102,14 +102,14 @@ When you press F12 Key , this trigger a sensitive help ,this require
 
 `       `To change your form text put form name in both field tag and id
 
-![](Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.002.png)
+![](images/Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.002.png)
 
 
 # **Configuration Utility**
 -----
 We supply you with Configuration Utility which enable you to assign your own language used with DC.HelpAuthority
 
-![](Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.003.png)
+![](images/Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.003.png)
 
 
 

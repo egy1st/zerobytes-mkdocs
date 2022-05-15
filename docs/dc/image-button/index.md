@@ -46,11 +46,11 @@ and you detrmine your buttons to has a motion action
 
 - Buttons without Motion
 
-![](Aspose.Words.0607795d-0f5c-44d4-95ed-bee8978b477f.002.png)    
+![](images/Aspose.Words.0607795d-0f5c-44d4-95ed-bee8978b477f.002.png)    
 
 - Buttons with Motion
 
-![](Aspose.Words.0607795d-0f5c-44d4-95ed-bee8978b477f.003.png)
+![](images/Aspose.Words.0607795d-0f5c-44d4-95ed-bee8978b477f.003.png)
 
 
 # **AddImageButton**

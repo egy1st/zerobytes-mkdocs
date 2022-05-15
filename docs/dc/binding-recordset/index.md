@@ -202,7 +202,7 @@ DM.KeyFields("Flag+OrderId")
 
 Function  KeyLeaveField(ByRef dm\_MasterTable As ADODB.Recordset, ByVal str\_KeyLeaveField As String, Optional ByVal n\_ZeroPad As Byte = 0)
 
-![](images/Aspose.Words.3e6e4189-8ddd-450c-b7ca-ac78dd84a3f2.002.png)
+![](images/images/Aspose.Words.3e6e4189-8ddd-450c-b7ca-ac78dd84a3f2.002.png)
 
 **Note:**
 
@@ -239,7 +239,7 @@ Retrieve the related value to your field code
 assume you save Cust\_Code in your master recordset 
 when you retrieve data you also want to get Cust\_Name form Customers table . AddRelatedValue Function do that for you easily
 
-![](images/Aspose.Words.3e6e4189-8ddd-450c-b7ca-ac78dd84a3f2.002.png)
+![](images/images/Aspose.Words.3e6e4189-8ddd-450c-b7ca-ac78dd84a3f2.002.png)
 
 **Syntax:**
 
@@ -272,7 +272,7 @@ assume you save Productt\_Code in your Detail recordset
 
 when you retrieve data you also want to get Product\_Name form Products table . AddRelatedValue Function do that for you easily
 
-![](images/Aspose.Words.3e6e4189-8ddd-450c-b7ca-ac78dd84a3f2.002.png)
+![](images/images/Aspose.Words.3e6e4189-8ddd-450c-b7ca-ac78dd84a3f2.002.png)
 
 
 
@@ -342,7 +342,7 @@ Easily to search your recordset , add button in your form and notify [Manipulati
 1. Navigate through records which apply your search pattern by[Navigation Buttons](#chmtopic22)
 1. Return to Normal Mode by click search button twice
 
-![](images/Aspose.Words.3e6e4189-8ddd-450c-b7ca-ac78dd84a3f2.002.png)
+![](images/images/Aspose.Words.3e6e4189-8ddd-450c-b7ca-ac78dd84a3f2.002.png)
 
 ### PopulateForm 
 
@@ -399,7 +399,7 @@ Assign Navigation Buttons names so that DC DataManger do all required with it
 
 Navigation Buttons are Buttons which enable you navigate through recordset by moving it first , previous . next and last .
 
-![](images/Aspose.Words.3e6e4189-8ddd-450c-b7ca-ac78dd84a3f2.003.png)
+![](images/images/Aspose.Words.3e6e4189-8ddd-450c-b7ca-ac78dd84a3f2.003.png)
 
 **Syntax:**
 
@@ -419,7 +419,7 @@ Assign Manipulation Buttons names so that DC DataManger do all required with it
 
 Manipulation Buttons are Buttons which enable you add , edit , save or delete records in your recordset .
 
-![](images/Aspose.Words.3e6e4189-8ddd-450c-b7ca-ac78dd84a3f2.002.png)
+![](images/images/Aspose.Words.3e6e4189-8ddd-450c-b7ca-ac78dd84a3f2.002.png)
 
 
 
@@ -439,7 +439,7 @@ DM.ManipulationButtons("OkButton", "NewButton", "DeleteButton", "ExitButton", "S
 
 We supply you with Configuration Utility which enable you to assign your own language used with DC.DataManger 
 
-![](images/Aspose.Words.3e6e4189-8ddd-450c-b7ca-ac78dd84a3f2.004.png)
+![](images/images/Aspose.Words.3e6e4189-8ddd-450c-b7ca-ac78dd84a3f2.004.png)
 
 
 

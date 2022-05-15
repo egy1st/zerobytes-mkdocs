@@ -189,7 +189,7 @@ DM.KeyFields("Flag+OrderId")
 
 Function  KeyLeaveField(ByRef dm\_MasterTable As ADODB.Recordset, ByVal str\_KeyLeaveField As String, Optional ByVal n\_ZeroPad As Byte = 0)
 
-![](Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
+![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
 
 **Note:**
 
@@ -225,7 +225,7 @@ assume you save Cust\_Code in your master recordset
 
 when you retrieve data you also want to get Cust\_Name form Customers table . AddRelatedValue Function do that for you easily
 
-![](Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
+![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
 
 **Syntax:**
 
@@ -253,7 +253,7 @@ assume you save Productt\_Code in your Detail recordset
 
 when you retrieve data you also want to get Product\_Name form Products table . AddRelatedValue Function do that for you easily
 
-![](Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
+![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
 
 **Syntax:**
 
@@ -316,7 +316,7 @@ Easily to search your recordset , add button in your form and notify [Manipulati
 1. Navigate through records which apply your search pattern by[Navigation Buttons](#chmtopic34)
 1. Return to Normal Mode by click search button twice
 
-![](Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
+![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
 # **PopulateForm -----**
 it populate your form and its grid with data
 
@@ -546,7 +546,7 @@ you can assign changeable icons for each button , additionally ,you can assign a
 
 - Buttons with Motion
 
-![](Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.003.png)
+![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.003.png)
 
 1. Declare an array with 27 element 
 1. Assign 3 icons for each button 
@@ -597,7 +597,7 @@ Assign Navigation Buttons names so that DC DataManger do all required with it
 
 Navigation Buttons are Buttons which enable you navigate through recordset by moving it first , previous . next and last .
 
-![](Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.004.png)
+![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.004.png)
 
 **Syntax:**
 
@@ -613,7 +613,7 @@ Assign Manipulation Buttons names so that DC DataManger do all required with it
 
 Manipulation Buttons are Buttons which enable you add , edit , save or delete records in your recordset .
 
-![](Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
+![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
 
 **Syntax:**
 
@@ -628,7 +628,7 @@ When you [AddRelatedValue](#chmtopic14) and your focus is located in the contro
 1. When you leave from this control you will retrieve respected value related to this control value 
 1. When you press F1 Key this will trigger DataHelp Browser filled with the table defined in str\_Table parameter , you can select any row by double click it , this will close DataHelp Browser and assigned the data selected to the control defined in str\_RetControl parameter
 
-![](Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
+![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
 
 When you [AddGridRelatedValue](#chmtopic15) and your focus is located in the column defined in str\_Column (which is Column name) parameter you get 2 magic advantages.
 
@@ -664,7 +664,7 @@ When you press F12 Key , this trigger a sensitive help ,this require
 
 `       `To change your form text put form name in both field tag and id
 
-![](Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.005.png)
+![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.005.png)
 
 
 # **TranslateForm**
@@ -708,7 +708,7 @@ This will populate your form text and all its labels with your translation in fi
 
 Example of French Translation
 
-![](Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
+![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
 
 
 
@@ -735,7 +735,7 @@ this will load Arabic language which located in field language2 and flip form ho
 
 what amazing !
 
-![](Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.006.png)
+![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.006.png)
 
 
 # **Right2Left**
@@ -750,7 +750,7 @@ Function Right2Left(ByVal Mode As Boolean)
 
 DM.Right2Left(True)
 
-![](Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.007.png)
+![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.007.png)
 
 
 
@@ -769,7 +769,7 @@ DM.EnableReturnKey(True)
 -----
 We supply you with Configuration Utility which enable you to assign your own language used with DC.DataManger 
 
-![](Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.008.png)
+![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.008.png)
 
 
 

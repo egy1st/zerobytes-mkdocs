@@ -30,13 +30,13 @@ where CN is your DSN , and parameter 2 is language id , here it refer to French 
 
 \1) First image show orginal form in English
 
-![](Aspose.Words.d68589ff-bca5-455c-9b10-b6946f286dbf.002.png)
+![](images/Aspose.Words.d68589ff-bca5-455c-9b10-b6946f286dbf.002.png)
 
 
 
 \2) Second image show form after translating  it into french
 
-![](Aspose.Words.d68589ff-bca5-455c-9b10-b6946f286dbf.003.png)
+![](images/Aspose.Words.d68589ff-bca5-455c-9b10-b6946f286dbf.003.png)
 # **System Requirements -----**
 DC.FormTranslator runs as a COM class for Developing with Visual Basic.Net under Microsoft Windows 98/NT/ 2000 or Windows XP. 
 
