@@ -1,6 +1,7 @@
 <style>
 div {
   direction: rtl;
+  text-align: right;
 }
 </style>
 
