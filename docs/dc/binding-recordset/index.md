@@ -5,14 +5,14 @@
 Overview
 -----------
 
-- DC.BindingRecordset  is a high-performance COM-based environments such as Visual Basic, Visual C++ , it is only 80 KB DLL , so enjoy speed performance. it has all the magic ,imaginary and incredible features you can find any where in the market.
+- DC.BindingRecordset is a high-performance COM-based environments such as Visual Basic, Visual C++ , it is only 80 KB DLL , so enjoy speed performance. it has all the magic ,imaginary and incredible features you can find any where in the market.
 - DC.BindingRecordsetis is an enhanced class that handles all aspects required with a data form (including single form and master-details form. It handles all the events required that you rarely need few lines of additional programming code.
-- DC.BindingRecordsetclass is the best decision for software companies  which need programming on no time or companies depends on novice programmers .
-- Egy1ST has done a lot of work for you. You define few methods and properties of  DC.BindingRecordset class and we do the rest.
+- DC.BindingRecordsetclass is the best decision for software companieswhich need programming on no time or companies depends on novice programmers .
+- Egy1ST has done a lot of work for you. You define few methods and properties of DC.BindingRecordset classand wedo the rest.
 
 ## Features
 
-Few  Lines to add in your Form\_Load event  and you will get full control over your form and all included (TextBox - Lables-Buttons-Grid-Recordset) and all related events (Leave-paint-Keypress-AfterColEdit-OnAddNew-Click-MouseEnter-MouseLeave-MouseDown-Enter)
+Few Lines to add in your Form\_Load event and you will get full control over your form and all included (TextBox - Lables-Buttons-Grid-Recordset) and all related events (Leave-paint-Keypress-AfterColEdit-OnAddNew-Click-MouseEnter-MouseLeave-MouseDown-Enter)
 
 **You can:**
 
@@ -21,7 +21,7 @@ Few  Lines to add in your Form\_Load event  and you will get full control over
 - Set relation between master and details files
 - Retrieve related names to your fields code 
 - search data for specific formula
-- Trigger sensitive DataHelp to select from by pressing F1 
+- Trigger sensitive DataHelp to select fromby pressing F1 
 - Define required Fields to accept input
 - Populate your form with data automatically after focus change
 
@@ -71,21 +71,21 @@ after this few lines you will get full automated controling on your form without
 
 ## Convention
 
-There are Two  Rules you must know about DC.BindingRecordset
+There are Two Rules you must know about DC.BindingRecordset
 
-1. ` `Textbox Controls which located in your data form must have the same names as their Fields names in related table and Columns Controls which involved in your datagrid must have the same names as their Fields names in related table for details
-1. Textbox Controls which located in your data form and not have related Field in related table must begin with "x" or "X" character , you can not name related Textbox Control with "X" or "x" prefix
+1. Textbox Controls which located in your data form must have the same names as their Fields names in related table and Columns Controls which involved in your datagrid must have the same names as their Fields names in related table for details
+2. Textbox Controls which located in your data form and not have related Field in related table must begin with "x" or "X" character , you can not name related Textbox Control with "X" or "x" prefix
 
 
 
 
 ## System Requirements 
 
-DC.BindingRecordsetruns as a COM class for Developing with Visual Basic.Net under Microsoft Windows 98/NT/ 2000 or Windows XP. 
+DC.BindingRecordsetruns as a COM class for Developing with Visual Basic.Net underMicrosoft Windows 98/NT/ 2000 or Windows XP. 
 
 
 **Installing DC.BindingRecordset**
-The DC.DataManger setup program will automatically register the DC\_DataManger10.dll file on your system. 
+The DC.DataManger setup program will automatically register theDC\_DataManger10.dll file on your system. 
 There is no need to manually run RegSvr32.exe on your development system. 
 
 ## Including DC.BindingRecordset
@@ -93,7 +93,7 @@ There is no need to manually run RegSvr32.exe on your development system.
 To include DC.BindingRecordset in your project 
 
 1. From Project menu select add reference 
-1. Push Browse button to locate your DC\_BindingRecordset10.DLL file which by default located in [c:\windows\system32](file:///c:/windows/system32)  , now the specific DLL included in your references
+1. Push Browse button to locate your DC\_BindingRecordset10.DLL file which by default located in [c:\windows\system32](file:///c:/windows/system32) , now the specific DLL included in your references
 1. Be sure that Micorsoft DataGrid Control Vresion 6.0 (OLEDB) is included in your Toolbox , if not then right click Toolbox 
 1. From shortcut menu select customize Toolbox
 1. From customize Toolbox Dialog ,scroll down and check Micorsoft DataGrid Control Version 6.0 (OLEDB)
@@ -101,23 +101,23 @@ To include DC.BindingRecordset in your project
 
 ## Deploying DC.BindingRecordsetApplications
 
-The only file needs to be distributed with DC.BindingRecordset COM applications is DC\_BindingRecordset10.dll
+The only file needs to be distributed withDC.BindingRecordset COM applications is DC\_BindingRecordset10.dll
 this file should be copied to the WinSystem directory which by default is C:\Windows\System32 
 
 **Note :** 
 
-If you deploy a translated application with your local language , you must deploy DCBR10\_Lang.dll which located in your system directory which is by default [C:\Windows\System32\](file:///C:/Windows/System32/)  and place it in end user system directory
+If you deploy a translated application with your local language , you must deploy DCBR10\_Lang.dll which located in your system directory which is by default [C:\Windows\System32\](file:///C:/Windows/System32/) and place it in end user system directory
 
 ## How to Create a DSN
 
 1. Open Windows’ ODBC Data Source Administrator as follows:
-   In Windows 95, 98, or NT, choose Start > Settings > Control Panel, then double-click the ODBC Data     
-   Sources icon. Depending on your system, the icon could also be called ODBC or 32bit ODBC.
-   in Windows 2000, choose Start > Settings > Control Panel > Administrative Tools > Data Sources.
-   In Windows XP, choose Start > Control Panel > Performance and Maintenance > Administrative Tools >   
+   In Windows 95, 98, or NT, choose Start > Settings > Control Panel, then double-click the ODBC Data  
+   Sources icon. Depending on your system, the icon could also be called ODBC or32bit ODBC.
+   in Windows 2000, choose Start > Settings > Control Panel > Administrative Tools > DataSources.
+   In Windows XP, choose Start > Control Panel > Performance and Maintenance > Administrative Tools >  
    Data Sources (ODBC).
 
-2. Click the System DSN tab.
+2. Click the SystemDSNtab.
    The tab displays the list of DSNs currently on your system. 
 
 3. Click Add to add a new DSN to the list.
@@ -127,7 +127,7 @@ If you deploy a translated application with your local language , you must deplo
 
 **Example:**
 
-If your database is a Microsoft Access file, select Microsoft Access Driver (\*.mdb). If a driver for your product does not appear in the list, you’ll have to download the driver from a vendor’s website and install it. 
+If your database is a Microsoft Access file, select Microsoft Access Driver (\*.mdb). If a driver for your product does not appear in the list, you’llhave to download the driver from a vendor’s website and install it. 
 
 In the dialog box that appears, enter a name for the DSN and specify the connection parameters.
 
@@ -146,7 +146,7 @@ Prepare form to know every thing about the form and its controls and all binding
 
 >  Function InitForm (ByRef dm\_DSN As ADODB.Connection, ByRef dm\_Form As System.Windows.Forms.Form, ByRef dm\_MasterTable As ADODB.Recordset, Optional ByRef dm\_Grid As AxMSDataGridLib.AxDataGrid = Nothing, Optional ByRef dm\_DetailTable As ADODB.Recordset = Nothing)
 
-dm\_DSN  is a reference to your DSN connection
+dm\_DSN is a reference to your DSN connection
 
 dm\_Form is a reference to your form which passed as 'Me' keyword
 
@@ -196,11 +196,11 @@ DM.KeyFields("Flag+OrderId")
 
 ### KeyLeaveField
 
-` `it assigns the fields in your Recordset which will retieve new data when focus chang away from it
+it assigns the fields in your Recordset which will retieve new data when focus chang away from it
 
 **Syntax:**
 
-Function  KeyLeaveField(ByRef dm\_MasterTable As ADODB.Recordset, ByVal str\_KeyLeaveField As String, Optional ByVal n\_ZeroPad As Byte = 0)
+Function KeyLeaveField(ByRef dm\_MasterTable As ADODB.Recordset, ByVal str\_KeyLeaveField As String, Optional ByVal n\_ZeroPad As Byte = 0)
 
 ![](images/images/Aspose.Words.3e6e4189-8ddd-450c-b7ca-ac78dd84a3f2.002.png)
 
@@ -208,7 +208,7 @@ Function  KeyLeaveField(ByRef dm\_MasterTable As ADODB.Recordset, ByVal str\_Ke
 
 n\_ZeroPad parameter padding data with "0" character
 
-this mean that '34' with  n\_ZeroPad is 4 will be '0034' 
+this mean that '34' with n\_ZeroPad is 4 will be '0034' 
 
 this is useful for indexing and searching purposes if you want , remember that is an optional parameter
 
@@ -218,7 +218,7 @@ DM.KeyLeaveField(oMaster, "OrderId", 5)
 
 ### SetLink
 
-It assigns the fields in your Master Recordset which are linked to related fields in Details Recordset
+It assigns the fields in your Master Recordset which are linked to related fields inDetails Recordset
 
 **Syntax:**
 
@@ -251,7 +251,7 @@ when you retrieve data you also want to get Cust\_Name form Customers table . Ad
 
 - n\_ZeroPad parameter padding data with "0" character
 
-- this mean that '34' with  n\_ZeroPad is 4 will be '0034' 
+- this mean that '34' with n\_ZeroPad is 4 will be '0034' 
 
 - this is useful for indexing and searching purposes if you want , remember that is an optional parameter
 
@@ -279,14 +279,12 @@ when you retrieve data you also want to get Product\_Name form Products table . 
 **Syntax:**
 
 >  Function AddGridRelatedValue(ByVal str\_Table As String, ByVal str\_TableKey As String, ByVal str\_Column As String, ByVal str\_TableRetField As String, ByVal str\_GridRetColumn As String, ByVal n\_ZeroPad As Byte)
->
->  
 
 **Note:**
 
 - n\_ZeroPad parameter padding data with "0" character
 
-- this mean that '34' with  n\_ZeroPad is 4 will be '0034' 
+- this mean that '34' with n\_ZeroPad is 4 will be '0034' 
 
 - this is useful for indexing and searching purposes if you want , remember that is an optional parameter
 
@@ -300,7 +298,7 @@ DM.AddGridRelatedValue("Products", "ProductID", "ProductID", "ProductName", "Pro
 
 Sometimes you use table which involve multi tables within , as "Personal" table which can involve "Customers", "Suppliers" , "Debits" , "Credits" with different flag key 
 
-you can assign value "1" for Customers ,  assign value "2" for Suppliers and so on
+you can assign value "1" for Customers , assign value "2" for Suppliers and so on
 
 the rest of fields is the same.
 
@@ -378,14 +376,14 @@ DM.RequiredFields("OrderId+OrderDate+CustomerId")
 
 ### Sensitive F1 DataHelp
 
-When you [AddRelatedValue](#chmtopic14) and your focus is located in the control defined in str\_Control (which is control came) parameter you get 2 magic advantages.
+When you [AddRelatedValue](#chmtopic14)and your focus is located in the control defined in str\_Control (which is control came)parameter you get 2 magic advantages.
 
 1. When you leave from this control you will retrieve respected value related to this control value 
 1. When you press F1 Key this will trigger DataHelp Browser filled with the table defined in str\_Table parameter , you can select any row by double click it , this will close DataHelp Browser and assigned the data selected to the control defined in str\_RetControl parameter
 
 
 
-When you [AddGridRelatedValue](#chmtopic15) and your focus is located in the column defined in str\_Column (which is Column name) parameter you get 2 magic advantages.
+When you [AddGridRelatedValue](#chmtopic15)and your focus is located in the column defined in str\_Column (which is Column name)parameter you get 2 magic advantages.
 
 1. When you leave from this control you will retrieve respected value related to this control value
 1. When you press F1 Key this will trigger DataHelp Browser filled with the table defined in str\_Table parameter , you can select any row by double click it , this will close DataHelp Browser and assigned the data selected to the column defined in str\_GridRetColumn parameter
@@ -448,7 +446,7 @@ We supply you with Configuration Utility which enable you to assign your own lan
 
 This tutorial describe most of features supported by DC.BindingRecordset
 
-also you can refer to the project  example which installed by default into C:\Program Files\Dynamic Components\Binding Recordset\Tutorial\
+also you can refer to the project example which installed by default into C:\Program Files\Dynamic Components\Binding Recordset\Tutorial\
 
 ``` vb
 Dim BR As New DynamicComponents.BindingRecordset()
