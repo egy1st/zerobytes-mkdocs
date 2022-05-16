@@ -1,4 +1,9 @@
-<html dir="rtl">
+<style>
+p.rtl {
+  direction: rtl;
+}
+</style>
+
 خطوة بخطوة تعلم ميكروسوفت اكسيل
 ================================
 
@@ -26,7 +31,7 @@
 - [على منصة يودمى التعليمية](https://www.udemy.com/course/zerobytes-excel101)
 - [على سيرفر زيروبايتس](https://excel.zerobytes.one/)
 
-</html>
+
 
 
 
