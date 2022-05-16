@@ -1,4 +1,4 @@
-# ML Bytes
+# Teaching Bytes
 
 - Data Analysis Courses
 
