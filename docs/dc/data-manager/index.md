@@ -2,36 +2,36 @@
 =================
 
 Overview
-----------
+---------
 
+DC.DataManger is a high-performance COM-based environments such as Visual Basic, Visual C++ , it is only 80 KB DLL , so enjoy speed performance.
 
-DC.DataManger  is a high-performance COM-based environments such as Visual Basic, Visual C++ , it is only 80 KB DLL , so enjoy speed performance.
+DC.DataManger class has all the magic ,imaginary and incredible features you can find any where in the market.
 
-DC.DataManger  class has all the magic ,imaginary and incredible features you can find any where in the market.
+DC.DataManger is an enhanced class that handles all aspects required with a data form (including single form and master-details form).
 
-DC.DataManger  is an enhanced class that handles all aspects required with a data form (including single form and master-details form).
+DC.DataManger class handles all the events required that you rarely need few lines of additional programming code.
 
-DC.DataManger  class handles all the events required that you rarely need few lines of additional programming code.
+DC.DataManger class is the best decision for software companieswhich needs programming on no time or companies depends on novice programmers . 
 
-DC.DataManger class is the best decision for software companies  which needs programming on no time or companies depends on novice programmers . 
+EgyFirst has done a lot of work for you. You define few methods and properties of DC.DataManger classand wedo the rest.
 
-EgyFirst has done a lot of work for you. You define few methods and properties of  DC.DataManger class and we do the rest.
-# **Features -----**
-Few  Lines to add in your Form\_Load event  and you will get full control over your form and all included (TextBox - Lables-Buttons-Grid-Recordset) and all related events (Leave-paint-Keypress-AfterColEdit-OnAddNew-Click-MouseEnter-MouseLeave-MouseDown-Enter)
+# **Features**
+Few Lines to add in your Form\_Load event and you will get full control over your form and all included (TextBox - Lables-Buttons-Grid-Recordset) and all related events (Leave-paint-Keypress-AfterColEdit-OnAddNew-Click-MouseEnter-MouseLeave-MouseDown-Enter)
 
 **You can:**
 
 - Navigate first ,previous , next and last 
 - Add new records ,edit it ,save it , or delete it 
 - Retrieve related names to your fields code 
-- Trigger sensitive DataHelp to select from by pressing F1 
-- Trigger sensitive Help by pressing F12  
+- Trigger sensitive DataHelp to select fromby pressing F1 
+- Trigger sensitive Help by pressing F12 
 - Validate your entry by restrict it to predefined type(Numeric-Alphabetic-AlphaNumeric-Date-Decimal) or to your defined characters 
-- Notify you with red forecolor if  your entry is not proper 
+- Notify you with red forecolor if your entry is not proper 
 - Format data by define decimal places for numeric entry , or define letter case for charactes entry 
 - Change button image according to mouse movement or focus change 
 - Support MultiLanguage Application , by populate form labels with predefined translation automatically 
-- Support Eastern Language , we support right to left application by changing alignment to right and orientation by flip form horizontally 180   
+- Support Eastern Language , we support right to left application by changing alignment to right and orientation by flip form horizontally 180 
 - Enable you navigate through controls with Return key as with tab key
 
 **Example:**
@@ -66,61 +66,61 @@ after this few lines you will get full automated controling on your form without
 
 
 # **Convention**
------
-There are Two  Rules you must know about DC.DataManger
 
-1. ` `Textbox Controls which located in your data form must have the same names as their Fields names in related table and Columns Controls which involved in your datagrid must have the same names as their Fields names in related table for details
+There are Two Rules you must know about DC.DataManger
+
+1. Textbox Controls which located in your data form must have the same names as their Fields names in related table and Columns Controls which involved in your datagrid must have the same names as their Fields names in related table for details
 1. Textbox Controls which located in your data form and not have related Field in related table must begin with "x" or "X" character , you can not name related Textbox Control with "X" or "x" prefix
 
 
 
- 
-# **System Requirements -----**
-DC.DataManger runs as a COM class for Developing with Visual Basic.Net under Microsoft Windows 98/NT/ 2000 or Windows XP. 
-# **Installing DC.DataManger-----**
-The DC.DataManger setup program will automatically register the DC\_DataManger10.dll file on your system. 
+
+# **System Requirements**
+DC.DataMangerruns as a COM class for Developing with Visual Basic.Net underMicrosoft Windows 98/NT/ 2000 or Windows XP. 
+# **Installing DC.DataManger**
+The DC.DataManger setup program will automatically register theDC\_DataManger10.dll file on your system. 
 
 There is no need to manually run RegSvr32.exe on your development system. 
 # **Including DC.DataManger**
------
+
 To include DC.DataManger in your project 
 
 1. From Project menu select add reference 
-1. Push Browse button to locate your DC\_DataManger10.DLL file which by default located in [c:\windows\system32](file:///c:/windows/system32)  , now the specific DLL included in your references
+1. Push Browse button to locate your DC\_DataManger10.DLL file which by default located in [c:\windows\system32](file:///c:/windows/system32) , now the specific DLL included in your references
 1. Be sure that Micorsoft DataGrid Control Vresion 6.0 (OLEDB) is included in your Toolbox , if not then right click Toolbox 
 1. From shortcut menu select customize Toolbox
 1. From customize Toolbox Dialog ,scroll down and check Micorsoft DataGrid Control Version 6.0 (OLEDB)
 
 
-# **Deploying DC.DataManger Applications -----**
-The only file needs to be distributed with DC.DatManger COM applications is DC\_DataManger10.dll
+# **Deploying DC.DataManger Applications**
+The only file needs to be distributed withDC.DatManger COM applications is DC\_DataManger10.dll
 
 this file should be copied to the WinSystem directory which by default is C:\Windows\System32 
 
 **Note :** 
 
-If you deploy a translated application with your local language , you must deploy DCDM10\_Lang.dll which located in your system directory which is by default [C:\Windows\System32\](file:///C:/Windows/System32/)  and place it in end user system directory
+If you deploy a translated application with your local language , you must deploy DCDM10\_Lang.dll which located in your system directory which is by default [C:\Windows\System32\](file:///C:/Windows/System32/) and place it in end user system directory
 ## **How to Create a DSN** 
------
+
 1- Open Windows’ ODBC Data Source Administrator as follows:
-`    `In Windows 95, 98, or NT, choose Start > Settings > Control Panel, then double-click the ODBC Data     
-`    `Sources icon. Depending on your system, the icon could also be called ODBC or 32bit ODBC.
-`    `in Windows 2000, choose Start > Settings > Control Panel > Administrative Tools > Data Sources.
-`    `In Windows XP, choose Start > Control Panel > Performance and Maintenance > Administrative Tools >   
-`    `Data Sources (ODBC).
+In Windows 95, 98, or NT, choose Start > Settings > Control Panel, then double-click the ODBC Data 
+Sources icon. Depending on your system, the icon could also be called ODBC or32bit ODBC.
+in Windows 2000, choose Start > Settings > Control Panel > Administrative Tools > DataSources.
+In Windows XP, choose Start > Control Panel > Performance and Maintenance > Administrative Tools > 
+Data Sources (ODBC).
 
 
-2 - Click the System DSN tab.
-`    `The tab displays the list of DSNs currently on your system. 
+2- Click the SystemDSNtab.
+The tab displays the list of DSNs currently on your system. 
 
 3- Click Add to add a new DSN to the list.
-`    `The Create New Data Source dialog box appears, listing all the drivers currently loaded on your system. 
+The Create New Data Source dialog box appears, listing all the drivers currently loaded on your system. 
 
 4- Select a driver from the list, then click Finish
 
 **Example:**
 
-If your database is a Microsoft Access file, select Microsoft Access Driver (\*.mdb). If a driver for your product does not appear in the list, you’ll have to download the driver from a vendor’s website and install it. 
+If your database is a Microsoft Access file, select Microsoft Access Driver (\*.mdb). If a driver for your product does not appear in the list, you’llhave to download the driver from a vendor’s website and install it. 
 
 In the dialog box that appears, enter a name for the DSN and specify the connection parameters.
 
@@ -132,12 +132,12 @@ The new DSN is added to your list of system DSNs.
 
 
 # **InitForm**
-# -----
+# 
 Prepare form to know every thing about the form and its controls and all binding data . so it must be the first assignment in your code . an errors may occurs if you do not
 # **syntax:**
 Function InitForm(ByRef dm\_DSN As ADODB.Connection, ByRef dm\_Form As System.Windows.Forms.Form, ByRef dm\_MasterTable As ADODB.Recordset, Optional ByRef dm\_Grid As AxMSDataGridLib.AxDataGrid = Nothing, Optional ByRef dm\_DetailTable As ADODB.Recordset = Nothing)
 
-dm\_DSN  is a reference to your DSN connection
+dm\_DSN is a reference to your DSN connection
 
 dm\_Form is a reference to your form which passed as 'Me' keyword
 
@@ -167,7 +167,7 @@ DM.InitForm(CN, Me, oMaster, AxDataGrid1, oDetails)
 
 End Sub
 # **KeyFields**
-# -----
+# 
 it assigns the fields in your Recordset which not allowed to duplicate
 
 **Syntax:**
@@ -182,12 +182,12 @@ multi fields can concatenated by plus sign '+'
 
 DM.KeyFields("Flag+OrderId")
 # **KeyLeaveField**
-# -----
-` `it assigns the fields in your Recordset which will retieve new data when focus chang away from it
+
+it assigns the fields in your Recordset which will retieve new data when focus chang away from it
 
 **Syntax:**
 
-Function  KeyLeaveField(ByRef dm\_MasterTable As ADODB.Recordset, ByVal str\_KeyLeaveField As String, Optional ByVal n\_ZeroPad As Byte = 0)
+Function KeyLeaveField(ByRef dm\_MasterTable As ADODB.Recordset, ByVal str\_KeyLeaveField As String, Optional ByVal n\_ZeroPad As Byte = 0)
 
 ![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
 
@@ -195,15 +195,15 @@ Function  KeyLeaveField(ByRef dm\_MasterTable As ADODB.Recordset, ByVal str\_Ke
 
 n\_ZeroPad parameter padding data with "0" character
 
-this mean that '34' with  n\_ZeroPad is 4 will be '0034' 
+this mean that '34' with n\_ZeroPad is 4 will be '0034' 
 
 this is useful for indexing and searching purposes if you want , remember that is an optional parameter
 
 **Example:**
 
 DM.KeyLeaveField(oMaster, "OrderId", 5)
-# **SetLink -----**
-It assigns the fields in your Master Recordset which are linked to related fields in Details Recordset
+# **SetLink**
+It assigns the fields in your Master Recordset which are linked to related fields inDetails Recordset
 
 **Syntax:**
 
@@ -217,8 +217,8 @@ Function Sub SetLink(ByVal str\_MasterFields As String, ByVal str\_DetailFields 
 
 DM.SetLink("Flag+OrderId", "Flag+OrderId")
 
-e 
-# **AddRelatedValue -----**
+
+# **AddRelatedValue**
 Retrieve the related value to your field code 
 
 assume you save Cust\_Code in your master recordset 
@@ -235,7 +235,7 @@ Function AddRelatedValue(ByRef str\_Table As String, ByVal str\_Key As String, B
 
 n\_ZeroPad parameter padding data with "0" character
 
-this mean that '34' with  n\_ZeroPad is 4 will be '0034' 
+this mean that '34' with n\_ZeroPad is 4 will be '0034' 
 
 this is useful for indexing and searching purposes if you want , remember that is an optional parameter
 
@@ -246,7 +246,7 @@ DM.AddRelatedValue("Customers", "CustomerID", "CustomerID", "CustomerName", "xCu
 
 
 
-# **AddGridRelatedValue -----**
+# **AddGridRelatedValue**
 It retrieve the related value to your grid field code
 
 assume you save Productt\_Code in your Detail recordset
@@ -263,7 +263,7 @@ Function AddGridRelatedValue(ByVal str\_Table As String, ByVal str\_TableKey As 
 
 n\_ZeroPad parameter padding data with "0" character
 
-this mean that '34' with  n\_ZeroPad is 4 will be '0034' 
+this mean that '34' with n\_ZeroPad is 4 will be '0034' 
 
 this is useful for indexing and searching purposes if you want , remember that is an optional parameter
 
@@ -271,10 +271,10 @@ this is useful for indexing and searching purposes if you want , remember that i
 
 DM.AddGridRelatedValue("Products", "ProductID", "ProductID", "ProductName", "ProductName", 2)
 # **FlagField**
------
+
 Sometimes you use table which involve multi tables within , as "Personal" table which can involve "Customers", "Suppliers" , "Debits" , "Credits" with different flag key 
 
-you can assign value "1" for Customers ,  assign value "2" for Suppliers and so on
+you can assign value "1" for Customers , assign value "2" for Suppliers and so on
 
 the rest of fields is the same.
 
@@ -290,11 +290,8 @@ DM.FlafField("Flag","Flag","2")
 
 
 
-
-
-
 # **How to select some fields**
------
+
 Sometimes you want to include some fields of your detail table , not all its fields
 the next example do that 
 
@@ -305,10 +302,8 @@ oDetails.Open("select flag , billno , custno , custname , price from OrderDetail
 **That is all !**
 
 
-
-
 # **Search**
------
+
 Easily to search your recordset , add button in your form and notify [Manipulation Buttons ](#chmtopic34)Function with its name
 
 1. Begin search by clicking search button , all form controls will be empty , now you get in Search Mode
@@ -317,7 +312,7 @@ Easily to search your recordset , add button in your form and notify [Manipulati
 1. Return to Normal Mode by click search button twice
 
 ![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
-# **PopulateForm -----**
+# **PopulateForm**
 it populate your form and its grid with data
 
 it recomnded to be last assignment in your Form\_Load event 
@@ -329,7 +324,7 @@ Function PopulateForm(ByRef dm\_Form As System.Windows.Forms.Form, ByRef dm\_Mas
 **Example:**
 
 DM.PopulateForm(Me, oMaster, AxDataGrid1, oDetails)
-# **NumericFields -----**
+# **NumericFields**
 It restrict data entry to only valid entry 
 
 valid entry may be one or more of allowed character which is"0123456789" 
@@ -345,7 +340,7 @@ multi fields can concatenated by comma ","
 **Example:**
 
 DM.NumericFields("CustomerID", "OrderId", "ShipVia")
-# **AlphabeticFields -----**
+# **AlphabeticFields**
 It restrict data entry to only valid entry 
 
 valid entry may be one or more of allowed character which is"abcdefghijklmnopqrstuvwxyz" additional to upper case "ABCDEFGHIJKLMNOPQRSTUVWXYZ" 
@@ -361,10 +356,10 @@ multi fields can concatenated by comma ","
 **Example:**
 
 DM.NumericFields("FirstName", "FamilyName")
-# **AlphaNumericFields -----**
+# **AlphaNumericFields**
 It restrict data entry to only valid entry 
 
-valid entry may be one or more of allowed character which is"abcdefghijklmnopqrstuvwxyz" and  upper case "ABCDEFGHIJKLMNOPQRSTUVWXYZ" 
+valid entry may be one or more of allowed character which is"abcdefghijklmnopqrstuvwxyz" and upper case "ABCDEFGHIJKLMNOPQRSTUVWXYZ" 
 
 additional to numeric characters "0123456789"
 
@@ -379,7 +374,7 @@ multi fields can concatenated by comma ","
 **Example:**
 
 DM.NumericFields("Address")
-# **DateFields -----**
+# **DateFields**
 It restrict data entry to only valid entry 
 
 valid entry may be one or more of allowed character which is"0123456789" additional to "/-\" characters
@@ -392,7 +387,7 @@ this is an invalid entry , so you will notify by changing forecolor to red
 
 **Syntax:**
 
-Function DateFields(ByVal ParamArray str\_DateFields() As String)
+FunctionDateFields(ByVal ParamArray str\_DateFields() As String)
 
 **Note:**
 
@@ -401,7 +396,7 @@ multi fields can concatenated by comma ","
 **Example:**
 
 DM.DateFields("OrderDate")
-# **DecimalFields -----**
+# **DecimalFields**
 It restrict data entry to only valid entry 
 
 valid entry may be one or more of allowed character which is"0123456789" additional to decimal point '.'
@@ -425,26 +420,26 @@ multi fields can concatenated by comma ","
 **Example:**
 
 DM.DecimalFields("Freight")
-# **SpecialChars -----**
+# **SpecialChars**
 It restrict data entry to only valid entry 
 
-valid entry may be one or more of  charcters which is contained in its parameter
+valid entry may be one or more of charcters which is contained in its parameter
 
 **Syntax:**
 
-Function  SpecialChars(ByVal str\_Chars As String)
+Function SpecialChars(ByVal str\_Chars As String)
 
 **Example:**
 
 DM.SpecialChars ("YyNn")
-# **SpecialCharsFields -----**
+# **SpecialCharsFields**
 It restrict data entry to only valid entry 
 
-valid entry may be one or more of  charcters which is contained in [SpecialChars](#chmtopic25) function 
+valid entry may be one or more of charcters which is contained in [SpecialChars](#chmtopic25) function 
 
 **Syntax:** 
 
-Function  SpecialCharsFields(ByVal ParamArray 
+Function SpecialCharsFields(ByVal ParamArray 
 
 str\_SpecialFields() As String)
 
@@ -455,7 +450,7 @@ multi fields can concatenated by comma ","
 **Example:**
 
 DM.SpecialCharsFields ("Married")
-# **RequiredFields -----**
+# **RequiredFields**
 it assigns the fields in your Recordset which can not be empty
 
 **Syntax:**
@@ -469,12 +464,12 @@ multi fields can concatenated by plus sign '+'
 **Example:**
 
 DM.RequiredFields("OrderId+OrderDate+CustomerId")
-# **LowerCaseFields -----**
+# **LowerCaseFields**
 It converts all characters to lower case
 
 **Syntax:**
 
-Function  LowerCaseFields(ByVal ParamArray str\_LowerCaseFields() As String)
+Function LowerCaseFields(ByVal ParamArray str\_LowerCaseFields() As String)
 
 **Note:**
 
@@ -483,12 +478,12 @@ multi fields can concatenated by comma ","
 **Example:**
 
 DM.LowerCaseFields ("SupplierName")
-# **UpperCaseFields -----**
+# **UpperCaseFields**
 It converts all characters to upper case
 
 **Syntax:**
 
-Function  UpperCaseFields(ByVal ParamArray str\_UpperCaseFields() As String)
+Function UpperCaseFields(ByVal ParamArray str\_UpperCaseFields() As String)
 
 **Note:**
 
@@ -497,22 +492,22 @@ multi fields can concatenated by comma ","
 **Example:**
 
 DM.UpperCaseFields ("ProductName")
-# **DecimalPlaces -----**
-it formats number by making it in decimal state with n places which you  define in your function 
+# **DecimalPlaces**
+it formats number by making it in decimal state with n places which you define in your function
 
 **Syntax:**
 
-Function DecimalPlaces(ByVal n\_DecimalPlaces As Byte)
+FunctionDecimalPlaces(ByVal n\_DecimalPlaces As Byte)
 
 **Example:**
 
 DM.DecimalPlaces(2)
-# **FirstCharOnlyFields -----**
+# **FirstCharOnlyFields**
 It converts only First character to upper case
 
 **Syntax:**
 
-Function FirstCharOnlyFields(ByVal ParamArray str\_FirstCharOnlyFields() As String)
+FunctionFirstCharOnlyFields(ByVal ParamArray str\_FirstCharOnlyFields() As String)
 
 **Note:**
 
@@ -521,12 +516,12 @@ multi fields can concatenated by comma ","
 **Example:**
 
 DM.FirstCharOnlyFields ("CustomerName")
-# **FirstCharOfWordsFields -----**
-It converts  First character of every words to upper case
+# **FirstCharOfWordsFields**
+It converts First character of every words to upper case
 
 **Syntax:**
 
-Function  FirstCharOfWordsFields(ByVal ParamArray str\_FirstCharOfWordsFields() As String)
+Function FirstCharOfWordsFields(ByVal ParamArray str\_FirstCharOfWordsFields() As String)
 
 **Note:**
 
@@ -535,14 +530,14 @@ multi fields can concatenated by comma ","
 **Example:**
 
 DM.FirstCharOfWordsFields("CustomerName")
-# **PrepareImageButtons -----**
+# **PrepareImageButtons**
 Your Data Form have [Navigation](#chmtopic34) & [Manipulation](#chmtopic35) Buttons 
 
-you can assign changeable icons for each button , additionally ,you can assign a motion for each button if you put third parameter to true  ,all you need is
+you can assign changeable icons for each button , additionally ,you can assign a motion for each button if you put third parameter to true ,all you need is
 
 - Buttons without Motion
 
-![](file:///D:/Documents%20and%20Settings/MyAccount/My%20Documents/ImageButtons.gif)    
+![](file:///D:/Documents%20and%20Settings/MyAccount/My%20Documents/ImageButtons.gif) 
 
 - Buttons with Motion
 
@@ -551,19 +546,19 @@ you can assign changeable icons for each button , additionally ,you can assign a
 1. Declare an array with 27 element 
 1. Assign 3 icons for each button 
 
-`         `First icon for MouseLeave state 
+First icon for MouseLeave state 
 
-`        `second icon for MoveOver state
+second icon for MoveOver state
 
-`        `third icon for MoveDown state
+third icon for MoveDown state
 
-`   `3. Populate your array respectivly with icons as this sequence
+3. Populate your array respectivly with icons as this sequence
 
-`      `FirstButton\_MouseLeave , FirstButton\_MouseOver, FirstButton\_MouseDown
+FirstButton\_MouseLeave , FirstButton\_MouseOver, FirstButton\_MouseDown
 
-`    `PreviousButton\_MouseLeave , PreviousButton\_MouseOver, PreviousButton\_MouseDown
+PreviousButton\_MouseLeave , PreviousButton\_MouseOver, PreviousButton\_MouseDown
 
-` `NextButton\_MouseLeave , NextButton\_MouseOver, NextButton\_MouseDown
+NextButton\_MouseLeave , NextButton\_MouseOver, NextButton\_MouseDown
 
 LastButton\_MouseLeave , LastButton\_MouseOver, LastButton\_MouseDown
 
@@ -590,12 +585,12 @@ where aImage is your array hold icons
 third parameter idicate that you wih to show motion with each button
 
 
-# **NavigationButtons -----**
+# **NavigationButtons**
 Assign Navigation Buttons names so that DC DataManger do all required with it
 
 **Note:**
 
-Navigation Buttons are Buttons which enable you navigate through recordset by moving it first , previous . next and last .
+Navigation Buttons are Buttons which enable you navigate through recordset by moving it first , previous . next and last.
 
 ![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.004.png)
 
@@ -606,7 +601,7 @@ Public Sub NavigationButtons(ByVal dm\_First As String, ByVal dm\_Previous As St
 **Example:**
 
 DM.NavigationButtons("FirstButton", "PrevButton", "NextButton", "LastButton")
-# **ManipulationButtons -----**
+# **ManipulationButtons**
 Assign Manipulation Buttons names so that DC DataManger do all required with it
 
 **Note:**
@@ -622,21 +617,21 @@ Function ManipulationButtons(ByVal dm\_Save As String, ByVal dm\_New As String, 
 **Example:**
 
 DM.ManipulationButtons("OkButton", "NewButton", "DeleteButton", "ExitButton", "SearchButton")
-# **Sensitive F1 DataHelp -----**
-When you [AddRelatedValue](#chmtopic14) and your focus is located in the control defined in str\_Control (which is control came) parameter you get 2 magic advantages.
+# **Sensitive F1 DataHelp**
+When you [AddRelatedValue](#chmtopic14)and your focus is located in the control defined in str\_Control (which is control came)parameter you get 2 magic advantages.
 
 1. When you leave from this control you will retrieve respected value related to this control value 
 1. When you press F1 Key this will trigger DataHelp Browser filled with the table defined in str\_Table parameter , you can select any row by double click it , this will close DataHelp Browser and assigned the data selected to the control defined in str\_RetControl parameter
 
 ![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
 
-When you [AddGridRelatedValue](#chmtopic15) and your focus is located in the column defined in str\_Column (which is Column name) parameter you get 2 magic advantages.
+When you [AddGridRelatedValue](#chmtopic15)and your focus is located in the column defined in str\_Column (which is Column name)parameter you get 2 magic advantages.
 
 1. When you leave from this control you will retrieve respected value related to this control value
 1. When you press F1 Key this will trigger DataHelp Browser filled with the table defined in str\_Table parameter , you can select any row by double click it , this will close DataHelp Browser and assigned the data selected to the column defined in str\_GridRetColumn parameter
 
 
-# **Sensitive F12 Help -----**
+# **Sensitive F12 Help**
 When you press F12 Key , this trigger a sensitive help ,this require
 
 1. Create a new table , name it "Help" and put it in your database 
@@ -653,7 +648,7 @@ When you press F12 Key , this trigger a sensitive help ,this require
 
 4. Fill Id Field with your control name 
 
-5. Fill Id Field with DataGrid name followed with underscore character "\_" , which will be something like this  
+5. Fill Id Field with DataGrid name followed with underscore character "\_" , which will be something like this 
 
 "axDatagrid\_ProductId"
 
@@ -669,7 +664,7 @@ To change your form text put form name in both field tag and id
 
 
 # **TranslateForm**
------
+
 We support Multi Language Applications , you can use same application with different languages
 
 All you need is:
@@ -686,7 +681,7 @@ All you need is:
 
 3. Fill Tag field with your Form Name
 
-4. Fill Id Field with your Label  name
+4. Fill Id Field with your Label name
 
 5. Fill Language1 field with your first language translation
 
@@ -715,7 +710,7 @@ Example of French Translation
 
 
 # **FlipForm**
------
+
 We support eastern languages Arabic , Chinese and so on 
 
 so we support right to left alignment and orientation , we rotate form horizontally 180
@@ -740,8 +735,8 @@ what amazing !
 
 
 # **Right2Left**
------
-we support eastern languages so we align all your text right  if you want
+
+we support eastern languages so we align all your text right if you want
 
 **Syntax:**
 
@@ -756,7 +751,7 @@ DM.Right2Left(True)
 
 
 
-# **EnableReturnKey -----**
+# **EnableReturnKey**
 Enable you navigate through controls with Return key as with tab key
 
 **Syntax:**
@@ -767,7 +762,7 @@ Function EnableReturnKey(ByVal Mode As Boolean)
 
 DM.EnableReturnKey(True)
 # **Configuration Utility**
------
+
 We supply you with Configuration Utility which enable you to assign your own language used with DC.DataManger 
 
 ![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.008.png)
@@ -776,13 +771,13 @@ We supply you with Configuration Utility which enable you to assign your own lan
 
 
 # Tutorial
------
+
 This tutorial describe most of features supported by DC.DataManger
 
 also you can refer to the project example which installed by default into C:\Program Files\Dynamic Components\Data Manger\Tutorial\
 
 
-
+```vb
 Dim DM As New DynamicComponents.DataManger()
 
 Dim aImage(26) As String
