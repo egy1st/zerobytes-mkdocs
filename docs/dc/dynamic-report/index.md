@@ -2,26 +2,26 @@
 ====================
 
 
-# **System Requirements **
+## **System Requirements **
 DC.DynamicReportruns as a COM class for included in any developing langauge support COM based application as Visual Basic , Visual C++ , Borland C++ , Delphi and others ..
-# **Installing DC.DynamicReport**
+## **Installing DC.DynamicReport**
 The DC.DynamicReport setup program will automatically register theDC\_DynamicReport10.dll file on your system. 
 
 There is no need to manually run RegSvr32.exe on your development system. 
-# **Including DC.DynamicReport**
+## **Including DC.DynamicReport**
 -----
 To include DC.DynamicReport in your project
 
 1. From Project menu select add reference 
 1. Push Browse button to locate your DC\_DynamicReport10.DLL file which by default located in [c:\windows\system32](file:///c:/windows/system32) , now the specific DLL included in your references
-# **Deploying DC.DynamicReport**
+## **Deploying DC.DynamicReport**
 There are two only files need to be distributed withDC.Num2TextCOM based applications
 
 - DC\_Dynamic Report10.dll
 - DC\_DynamicReport\_Theme.dat
 
 this files should be copied to the WinSystem directory which by default is C:\Windows\System32 
-# **InitReport Function**
+## **InitReport Function**
 InitReport Function , must be your first assignment , an error may occur if you do not
 
 We support eastern languages in all of our components , so Dynamic Report comes with support for right to left orientation
@@ -37,7 +37,7 @@ oRep.InitReport(False)
 
 
 
-# **ReadTheme Function**
+## **ReadTheme Function**
 ReadTheme function enables you to select from 7 diffrent themes 
 by chanhing theme you change whole appearance of report**
 
@@ -59,7 +59,7 @@ oRep.ReadTheme(DynamicComponents.DynamicReport.Theme\_ID.Classic) ' if ignored i
 
 
 
-# **LogoImage Function**
+## **LogoImage Function**
 LogoImage enables you set your company logo
 
 **Syntax:**
@@ -74,7 +74,7 @@ oRep.LogoImage("Logo.bmp", "C:\Images\")
 
 
 
-# **SetTitle Function**
+## **SetTitle Function**
 SetTitle enables you set the title of the report
 
 **Syntax:**
@@ -86,7 +86,7 @@ oRep.SetTitle("Customers List")
 
 
 
-# **SetReportHeader Function**
+## **SetReportHeader Function**
 SetReportHeader enables you set your report header lines , you can add as many lines as you want
 
 **Syntax:**
@@ -98,7 +98,7 @@ oRep.SetReportHeader("This is Dynamic Report v1.0", "It is powered by EgyFirst i
 
 
 
-# **GroupBy Function**
+## **GroupBy Function**
 GroupBy function enables you set grouping data , you can add as many lines as you want
 
 **Syntax:**
@@ -116,7 +116,7 @@ oRep.GroubBy("OrderID", True, True)
 
 
 
-# **SumFields Function**
+## **SumFields Function**
 SumFields function enables you to sum defined fields** 
 
 **Syntax:**
@@ -137,7 +137,7 @@ oMaster.Open("Selelct \* from orders", CN, oMaster.CursorType.adOpenKeyset, oMas
 oRep.SumFields(oMaster, "Quantity","Value")
 
 
-# **SetCaption Function**
+## **SetCaption Function**
 SetCaption function enables you set caption for fields which may differ from its names
 this mean a field named "ID" may get a new caption like "Customer ID"
 
@@ -150,7 +150,7 @@ oRep.SetCaption("Order ID", "Product ID", "Product Name", "Unit Price", "Quantit
 
 
 
-# **SetReportFooter Function**
+## **SetReportFooter Function**
 SetReportFooter enables you set your report footer lines , you can add as many lines as you want
 
 **Syntax:**
@@ -162,7 +162,7 @@ oRep.SetReportFooter("This is your report footer Section", "you can add here as 
 
 
 
-# **PopulateReport Function**
+## **PopulateReport Function**
 PopulateReport function is the function responsible for viewing report , so it must be your last assignment
 
 **Syntax:**
