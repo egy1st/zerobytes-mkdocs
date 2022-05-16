@@ -1,12 +1,6 @@
----
-title: 'ماذا ستتعلم فى هذا الكورس'
-description: 'تعلم ميكروسوفت اكسيل 2016 من زيروبايتس - السهل الممتنع'
-sidebar: 'excel'
-videoid: ''
-prev: '/excel/'
-next: '/excel/'
-googleid: '<script data-ad-client="ca-pub-8590711166907026" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>'
----
+<html dir="rtl">
+خطوة بخطوة تعلم ميكروسوفت اكسيل
+================================
 
 ## فى هذا الكورس
 - تعلم المبادئ الاساسية للتعامل مع برنامج ميكروسوفت اكسيل
@@ -32,7 +26,7 @@ googleid: '<script data-ad-client="ca-pub-8590711166907026" async src="https://p
 - [على منصة يودمى التعليمية](https://www.udemy.com/course/zerobytes-excel101)
 - [على سيرفر زيروبايتس](https://excel.zerobytes.one/)
 
-
+</html>
 
 
 
