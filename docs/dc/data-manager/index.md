@@ -648,21 +648,22 @@ When you press F12 Key , this trigger a sensitive help ,this require
 |Id|Text|50|
 |Description|Text|50|
 |Contents|Memo||
-`    `3. Fill Tag field with your [Form Tag](JavaScript:popup.TextPopup\(popuptxt1,popupfont1,9,9,-1,-1\))
 
-`    `4. Fill Id Field with your control name 
+3. Fill Tag field with your [Form Tag](JavaScript:popup.TextPopup\(popuptxt1,popupfont1,9,9,-1,-1\))
 
-`   `5. Fill Id Field with DataGrid name followed with underscore character "\_" , which will be something like this  
+4. Fill Id Field with your control name 
 
-`       `"axDatagrid\_ProductId"
+5. Fill Id Field with DataGrid name followed with underscore character "\_" , which will be something like this  
 
-`    `6. Fill Description field with your control Description
+"axDatagrid\_ProductId"
 
-`    `7. Fill Contents field with your supported help for this control
+6. Fill Description field with your control Description
+
+7. Fill Contents field with your supported help for this control
 
 **Note:**
 
-`       `To change your form text put form name in both field tag and id
+To change your form text put form name in both field tag and id
 
 ![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.005.png)
 
@@ -682,15 +683,15 @@ All you need is:
 |Id|Text|50|
 |Language1|Text|50|
 |Language2|Text|50|
-`    `3. Fill Tag field with your Form Name
 
-`    `4. Fill Id Field with your Label  name
+3. Fill Tag field with your Form Name
 
-`    `5. Fill Language1 field with your first language translation
+4. Fill Id Field with your Label  name
 
-`    `6.  Fill Language2  field with your second  language translation and so on , you can add many    
+5. Fill Language1 field with your first language translation
 
-`         `languages as you like , no limitation !
+6. Fill Language2 field with your second language translation and so on , you can add many 
+languages as you like , no limitation !
 
 **Note:**
 
@@ -778,7 +779,7 @@ We supply you with Configuration Utility which enable you to assign your own lan
 -----
 This tutorial describe most of features supported by DC.DataManger
 
-also you can refer to the project  example which installed by default into C:\Program Files\Dynamic Components\Data Manger\Tutorial\
+also you can refer to the project example which installed by default into C:\Program Files\Dynamic Components\Data Manger\Tutorial\
 
 
 
@@ -905,4 +906,4 @@ aImage(25) = "SearchOver.ico"
 aImage(26) = "SearchDown.ico"
 
 End Sub
-
+```

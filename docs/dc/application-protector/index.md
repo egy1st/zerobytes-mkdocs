@@ -137,7 +137,7 @@ Public Sub SetLicense(ByVal int\_DaysLimit As Integer )
 
 SetLicense(15)
 
- **ShowAuthor Function*
+ **ShowAuthor Function**
 
 This function is the heart of  your protection and it is responsible to popup the protection dialog box this function must be called at the end end of your protection code block
 
@@ -188,7 +188,7 @@ just remember that there are 50 millions Encrypted algorithms available for you 
 where first algorithms must be between 1000 and 7000     ===>(7000 - 1000) ===> 6000 
 and second algorithms must be between 10 and 90            ===>(90 - 10) ===> 80 
 and third algorithms must be between 10 and 90               ===>(90 - 10) ===> 80 
-This is (6000 *80 *80) ===> 4,800,000 different combination
+This is (6000 * 80 * 80) ===> 4,800,000 different combination
 
 
 Tutorial
@@ -230,3 +230,4 @@ MyProtection.[SetLicense](#chmtopic10)( 30)   // may be  ignored , since it i
 MyProtection.[ShowAuthor](#chmtopic11)()
 
 End Sub
+```
