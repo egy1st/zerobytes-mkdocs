@@ -1,5 +1,5 @@
 <style>
-p.rtl {
+div {
   direction: rtl;
 }
 </style>
