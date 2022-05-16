@@ -269,7 +269,7 @@ This tutorial describe most of features supported by DC.DataEntryValidator
 also you can refer to the project example which installed by default into C:\Program Files\Dynamic Components\DataEntryValidator\Tutorial\
 
 
-
+``` vb
 Dim DV As New DynamicComponents.DataEntryValidator()
 
 Dim CN As New ADODB.Connection()
