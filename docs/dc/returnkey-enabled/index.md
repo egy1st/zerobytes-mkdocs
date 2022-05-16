@@ -1,9 +1,8 @@
 ﻿## **DynamicComponents - ReturnKeyEnable**
 
-Powered by ![](images/Aspose.Words.73bbce01-875a-4fb9-be3b-af906f986d16.001.png)
 
-
-## **Overview**
+Overview
+---------
 
 DC.ReturnKeyEnable is a COM based component that enables you navigate thriugh form controls using Retun key as with Tab Key
 
