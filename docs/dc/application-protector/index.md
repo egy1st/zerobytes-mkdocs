@@ -200,7 +200,7 @@ also you can refer to the project example which installed by default into C:\Pro
 
 This code must be in first form loaded in your project 
 
-```
+``` vb
 Private Sub TestForm\_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 
 Dim MyProtection As New DynamicComponents.AppProtector()
