@@ -7,11 +7,12 @@ Overview
 
 DC.FormTranslator is a COM based component that allows you Support MultiLanguage Application , by populate form labels with predefined translation automatically
 
-DC.FormTranslator may be used with any developing language support COM based application like Visual Basic,Visual C++,Borland C++,Delphi and others ..
+DC.FormTranslator may be used with any developing language support COM based application like Visual Basic,Visual C++,Borland C++,Delphi, etc.
 
 EgyFirst has done a lot of work for you. no need to waste time , designing your form again to support multi languages and eastern languages application 
 you design one form and we design the other by translating it for you
-# **Features**
+
+## **Features**
 If you develop multi language application or eastern language application , you must get DC.FormTranslator
 Only one Line to add in your Form\_Load event and we will translate the form with all its labels for you 
 
@@ -22,7 +23,7 @@ It is recommended to use DC.FormFlipper with DC.FormTranslator
 
 Dim FT as DynamicComponents.FormTranslator()
 
-FT.[TranslateForm](#chmtopic8)(Me, CN, 2) 'Trnslate form into French 
+FT.[TranslateForm](##chmtopic8)(Me, CN, 2) 'Trnslate form into French 
 
 where CN is your DSN , and parameter 2 is language id , here it refer to French language
 
@@ -37,15 +38,15 @@ where CN is your DSN , and parameter 2 is language id , here it refer to French 
 \2) Second image show form after translating it into french
 
 ![](images/Aspose.Words.d68589ff-bca5-455c-9b10-b6946f286dbf.003.png)
-# **System Requirements**
+## **System Requirements**
 DC.FormTranslator runs as a COM class for Developing with Visual Basic.Net underMicrosoft Windows 98/NT/ 2000 or Windows XP. 
 
 
-# **Installing DC.FormTranslator-----**
+## **Installing DC.FormTranslator-----**
 The DC.FormTranslator setup program will automatically register theDC\_FormTranslator10.dll file on your system. 
 
 There is no need to manually run RegSvr32.exe on your development system. 
-# **Including DC.FormTranslator**
+## **Including DC.FormTranslator**
 
 To include DC.FormTranslator in your project 
 
@@ -53,11 +54,11 @@ To include DC.FormTranslator in your project
 1. Push Browse button to locate your DC\_FormTranslator10.DLL file which by default located in [c:\windows\system32](file:///c:/windows/system32) , now the specific DLL included in your references
 
 
-# **Deploying DC.FormTranslator Applications**
+## **Deploying DC.FormTranslator Applications**
 The only file needs to be distributed withDC.FormTranslator COM applications is DC\_FormTranslator10.dll
 
 this file should be copied to the WinSystem directory which by default is C:\Windows\System32 
-# **TranslateForm**
+## **TranslateForm**
 
 We support Multi Language Applications , you can use same application with different languages
 
@@ -102,7 +103,7 @@ Example of French Translation
 
 
 
-# Tutorial
+## Tutorial
 
 This tutorial describe most of features supported by DC.FormTranslator
 
