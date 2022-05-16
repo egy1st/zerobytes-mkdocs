@@ -2,28 +2,28 @@
 =================
 
 
-# **System Requirements -----**
+## **System Requirements**
 DC.ImageButton runs as a COM class for Developing with Visual Basic.Net underMicrosoft Windows 98/NT/ 2000 or Windows XP. 
 
 
-# **Installing DC.ImageButton-----**
+## **Installing DC.ImageButton**
 The DC.ImageButton setup program will automatically register theDC\_Image Button10.dll file on your system. 
 
 There is no need to manually run RegSvr32.exe on your development system. 
-# **Including DC.ImageButton**
------
+## **Including DC.ImageButton**
+
 To include DC.ImageButton in your project 
 
 1. From Project menu select add reference 
 1. Push Browse button to locate your DC\_ImageButton10.DLL file which by default located in [c:\windows\system32](file:///c:/windows/system32) , now the specific DLL included in your references
 
 
-# **Deploying DC.ImageButton Applications** 
------
+## **Deploying DC.ImageButton Applications** 
+
 The only file needs to be distributed withDC.FormFlipper COM applications is DC\_FormFlipper10.dll
 
 this file should be copied to the WinSystem directory which by default is C:\Windows\System32 
-# **PrepareImageButtons -----**
+## **PrepareImageButtons**
 This function enables you to assign icons path for button image , additionally ,you can assign a motion for each button if you put second parameter to true 
 
 **Syntax:**
@@ -53,8 +53,8 @@ and you detrmine your buttons to has a motion action
 ![](images/Aspose.Words.0607795d-0f5c-44d4-95ed-bee8978b477f.003.png)
 
 
-# **AddImageButton**
------
+## **AddImageButton**
+
 Assign icons for every button state , when mouse over , mouse down , mouse up 
 
 **Syntax:**
@@ -78,10 +78,8 @@ IB.AddImageButton(Me.LastButton, "last.ico", "lastover.ico", "lastdown.ico")
 
 - Buttons without Motion
 
-![](file:///G:/Programms%20on%20D/Image%20Button/Help/ImageButtons.gif) 
+![](images/Aspose.Words.0607795d-0f5c-44d4-95ed-bee8978b477f.002.png) 
 
 - Buttons with Motion
 
-![](file:///G:/Programms%20on%20D/Image%20Button/Help/ImageButtons2.gif)
-
-
+![](images/Aspose.Words.0607795d-0f5c-44d4-95ed-bee8978b477f.003.png)
