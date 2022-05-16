@@ -25,7 +25,7 @@ in Arabic will be:
 **the most useful use** DC.Num2Text **is with Cheque Production Systems and finical reports in business application .**
 
 EgyFirst has done a lot of work for you. You define your number and we translate it to your preferred language. 
-# **Features -----**
+## **Features**
 for Now DC.Num2Text can convert your number into 4 languages (Arabic-English-French-German)
 
 **but we** are looking to get feedback from our customers and we will prioritise the our development efforts based on customer requirements.
@@ -38,26 +38,26 @@ Dim oTextNum As New DynamicComponents.Num2Text()
 
 dim strNum as string
 
-strNum = oTextNum.[TranslateNumber](#chmtopic8)("159584.58", Num2Text.Language\_ID.English) // translate into English
+strNum = oTextNum.[TranslateNumber](##chmtopic8)("159584.58", Num2Text.Language\_ID.English) // translate into English
 
 
-# **System Requirements -----**
+## **System Requirements**
 DC.Num2Textruns as a COM class for included in any developing langauge support COM based application as Visual Basic , Visual C++ , Borland C++ , Delphi and others ..
-# **Installing DC.Num2Text-----**
+## **Installing DC.Num2Text**
 The DC.Num2Text setup program will automatically register theDC\_Num2Text10.dll file on your system. 
 
 There is no need to manually run RegSvr32.exe on your development system. 
-# **Including DC.Num2Text**
------
+## **Including DC.Num2Text**
+
 To include DC.Num2Text in your project 
 
 1. From Project menu select add reference 
 1. Push Browse button to locate your AppProtector10.DLL file which by default located in [c:\windows\system32](file:///c:/windows/system32) , now the specific DLL included in your references
-# **Deploying DC.Num2Text-----**
+## **Deploying DC.Num2Text**
 The only file needs to be distributed withDC.Num2TextCOM based applications is DC\_Num2Text10.dll
 
 this file should be copied to the WinSystem directory which by default is C:\Windows\System32 
-# **TranslateNumber Function-----**
+## **TranslateNumber Function**
 TranslateNumber is the function responsible for translating numbers into proper language
 
 **Syntax:**
@@ -79,8 +79,8 @@ dim strNum = TranslateNumber ("49562854",3) // translate into French language
 
 
 
-# **SetCurrency Function**
------
+## **SetCurrency Function**
+
 SetCurrency function enables you customize your currency 
 
 default currency used by English language is Dollar , while Euro is default currency for French and German Languages , and ![](images/Aspose.Words.b3394690-9aa4-4836-a76e-f075b60016c5.003.png) is default currency for Arabic Language
@@ -99,14 +99,14 @@ first parameter str\_CurrencyUnitPlural is your customized currency in plural
 
 SetCurrency("pound","piaster","pounds","piasters") 
 
-when you use [TtranslateNumber](#chmtopic8) function , result may be something like that
+when you use [TtranslateNumber](##chmtopic8) function , result may be something like that
 four hundreds and twenty one pounds and twenty three piasters
 
 
 
 
-# Tutorial
------
+## Tutorial
+
 This tutorial describe all features supported by DC.Num2Text
 
 also you can refer to the project example which installed by default into C:\Program Files\Dynamic Components\Num2Text\Tutorial\
@@ -119,6 +119,6 @@ dim strNum as string
 
 oTextNum.SetCurrency("Dollar", "Cent", "Dollars", "Cents")
 
-strNum = oTextNum.[TranslateNumber](#chmtopic8)("159584.58", DynamicComponents.Num2Text.Language\_ID.English) // translate into English
+strNum = oTextNum.[TranslateNumber](##chmtopic8)("159584.58", DynamicComponents.Num2Text.Language\_ID.English) // translate into English
 ```
 
