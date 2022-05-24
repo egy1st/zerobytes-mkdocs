@@ -7,3 +7,7 @@
 
 
 > Feb, 7<sup>th</sup> 2022: [README](https://readme.com/) approved my API to be hosted for free on the paid plan. Thank you README. You can test the Number2Words API at [https://number2words.readme.io/](https://number2words.readme.io/)
+
+
+
+> Feb, 3 2022: DenMune clustering algorithm is submitted to Scikit learn contribute to be part of it. [acceptance still in progress](https://github.com/scikit-learn-contrib/scikit-learn-contrib/issues/52)
