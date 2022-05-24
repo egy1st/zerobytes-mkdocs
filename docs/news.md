@@ -10,4 +10,4 @@
 
 
 
-> Feb, 3 2022: DenMune clustering algorithm is submitted to Scikit learn contribute to be part of it. [acceptance still in progress](https://github.com/scikit-learn-contrib/scikit-learn-contrib/issues/52)
+> Feb, 3<sup>th</sup> 2022: DenMune clustering algorithm is submitted to Scikit learn contribute to be part of it. [acceptance still in progress](https://github.com/scikit-learn-contrib/scikit-learn-contrib/issues/52)
