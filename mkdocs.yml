@@ -13,6 +13,7 @@ nav:
         - About me: about.md
         - My CV: cv.md
         - Contact me: contact.md
+    - News: news.md    
     
 site_dir: public
 edit_uri: edit/main/docs/

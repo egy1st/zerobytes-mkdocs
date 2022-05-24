@@ -12,6 +12,7 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
 - [DenMune: Documentation](https://docs.zerobytes.one)
 - [MS Excel: Interactive Training](https://quiz.zerobytes.one/)
 - [Counting in 13 Languages including Arabic, English & Chinese](https://api.zerobytes.one/number2words/demo/)
+- [SQL for Data Analytics: An interactive Project](https://deepnote.com/workspace/zerobytes-53a2-d17b46ba-00b7-41a6-bdcc-79d0ff9e1037/project/Introduction-to-SQL-82a421bb-fac8-45a1-8c6a-2a7fb7cd35c7/%2FREADME.ipynb)
 
 
 # ZeroBytes: Who, How, and for Whom
