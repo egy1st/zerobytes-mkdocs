@@ -5,9 +5,9 @@ copyright: These bytes offered to you by Mohamed Abbas
 
 nav:
     - Home: index.md
-    - Machine Learning: ml/index.md
+    - ML: ml/index.md
     - Courses: courses/index.md
-    - Dynamic Components: dc/index.md
+    - DC: dc/index.md
     - Certificates: certificates/index.md
     - Me:
         - About me: about.md
