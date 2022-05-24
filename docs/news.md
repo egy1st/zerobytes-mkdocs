@@ -12,9 +12,9 @@
 
 
 
-> **Feb, 3<sup>th</sup> 2022**
+> **Feb, 3<sup>rd</sup> 2022**
 >
-> DenMune clustering algorithm is submitted to Scikit learn contribute to be part of it.
+> DenMune clustering algorithm is submitted to [Scikit learn contribute](https://github.com/scikit-learn-contrib/scikit-learn-contrib) to be part of SKlearn.
 >
 >  [Acceptance still in progress](https://github.com/scikit-learn-contrib/scikit-learn-contrib/issues/52)
 
