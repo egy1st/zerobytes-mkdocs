@@ -31,7 +31,7 @@ Completed by: Mohamed Abbas by November 23, 2019
 
 6 weeks of study, 2-4 hours per week
 
-Grade Achieved: 9241%
+Grade Achieved: 92.41%
 
 [View this certificate](https://www.coursera.org/account/accomplishments/certificate/AKM5KLMVFQGE)
 
@@ -45,7 +45,7 @@ Completed by: Mohamed Abbas by November 28, 2019
 
 6 weeks of study, 2-4 hours per week
 
-Grade Achieved: 9533%
+Grade Achieved: 95.33%
 
 [View this certificate](https://www.coursera.org/account/accomplishments/certificate/2U8U53HZCQJG)
 
@@ -59,7 +59,7 @@ Completed by: Mohamed Abbas by December 3, 2019
 
 6 weeks of study, 2-4 hours/week
 
-Grade Achieved: 9176%
+Grade Achieved: 91.76%
 
 [View this certificate](https://www.coursera.org/account/accomplishments/certificate/Q8A4TXZZVHSF)
 
@@ -73,6 +73,6 @@ Completed by: Mohamed Abbas by December 9, 2019
 
 6 weeks of study, 2-4 hours per week
 
-Grade Achieved: 9909%
+Grade Achieved: 99.09%
 
 [View this certificate](https://www.coursera.org/account/accomplishments/certificate/VRLNA2E7ASB2)
