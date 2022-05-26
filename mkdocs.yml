@@ -29,6 +29,7 @@ theme:
     
 extra_javascript:
     - js/analytics.js
+    - js/adsense.js
        
 markdown_extensions:
   - toc
