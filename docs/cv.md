@@ -99,7 +99,12 @@ Facebook: https://www.facebook.com/ZeroBytes.One
   - Microsoft Office (MS Excel, MS Access,  MS Word and PowerPoint) 
   -  PHP, Java and Visual Object 
 
+  ## Academic Profile
   
+  - https://publons.com/researcher/3277275/mohamed-ali-abbas/
+  - https://scholar.google.com/citations?user=b0ld6nwAAAAJ&hl=en
+  - https://www.researchgate.net/profile/Mohamed-Abbas-20
+  - https://orcid.org/my-orcid?orcid=0000-0003-0197-4299
 
   
 
