@@ -15,9 +15,9 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
 - [SQL for Data Analytics: An interactive Project](https://deepnote.com/workspace/zerobytes-53a2-d17b46ba-00b7-41a6-bdcc-79d0ff9e1037/project/Introduction-to-SQL-82a421bb-fac8-45a1-8c6a-2a7fb7cd35c7/%2FREADME.ipynb)
 
 
-# ZeroBytes: Who, How, and for Whom
+# ZeroBytes: Why, How, and for Whom
 
-`Who:` *Obviously, there is a trade-off between gaining knowledge and the costly time and money to obtain these knowledge. In ZeroBytes we believe that knowledge should be available to learner in premium, but at no cost.*
+`Why:` *Obviously, there is a trade-off between gaining knowledge and the costly time and money to obtain these knowledge. In ZeroBytes we believe that knowledge should be available to learner in premium, but at no cost.*
 
 `How`: *When Free means Premium. When less means More. This is the most complex formula we master in ZeroBytes. We just started.. There are many things that seem impossible only so long as one does not attempt them.*
 
