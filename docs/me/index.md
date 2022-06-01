@@ -2,12 +2,10 @@
 
 - Want to know more about me?
 
-    - [About Me](about.md)
-    - [Contact Me](contact.md)
-    - [My CV](cv.md)
-    - [Me as an Academic Reviewer](reviewer.md)
-
-
-
-
+    - [Me: About](about.md)
+    - [Me: An Academic Author](author.md)
+    - [Me: An  Academic Reviewer](reviewer.md)
+    - [Me: An  instructor](instructor.md)
+    - [Me: CV](cv.md) 
+    - [Me: Contact](contact.md)
 

@@ -1,8 +1,8 @@
 # Mohamed Ali Abbas
-### Senior  Data Analyst  & Acadmic Instructor 
+### Senior  Data Analyst  & Academic Instructor 
 
-|![](https://raw.githubusercontent.com/egy1st/images/main/cv/Photo-011.jpg) | <!--Experienced Data Analyst with a demonstrated history of working in the government administration industry.  Skilled in Python, C++ and Statistical Data Analysis. Strong information technology professional with a MSc in Computer Science and PhD in Information Technology.  Focused in data mining, machine learning and pattern recognition. A Recognized Instructor in many reputable organizations.--> |
-| ------------------------------------ | ----------------------------- |
+| ![](https://raw.githubusercontent.com/egy1st/images/main/cv/Photo-011.jpg) | Experienced Data Analyst with a demonstrated history of working in the government administration industry.  Skilled in Python, C++ and Statistical Data Analysis. Strong information technology professional with a MSc in Computer Science and PhD in Information Technology.  Focused in data mining, machine learning and pattern recognition. A Recognized Instructor in many reputable organizations. |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ## Contact
 
@@ -66,7 +66,7 @@ Facebook: https://www.facebook.com/ZeroBytes.One
   | ---------------- | ----------------------------------------------- |
 
 
-  Thirteen badges from IBM, prove me as a recognized data scientist and machine learning expert. My profile at: [Credly]() https://www.credly.com/users/mohamed-abbas.1f43f901/badges)
+  Thirteen badges from IBM, prove me as a recognized data scientist and machine learning expert. My profile at: [Credly](https://www.credly.com/users/mohamed-abbas.1f43f901/badges)
 
    So, I am looking for a creative، challenging, growth-oriented position and I am eager to start the next stage in my career.
 
@@ -74,9 +74,9 @@ Facebook: https://www.facebook.com/ZeroBytes.One
 
    ## Languages
 
-  | Arabic | ***Native Mother Tongue***   |
-  | ---------------- | ---------------------------------------------- |
-  | **English** | *Excellent* <br /> `Reading, Writing and communication` |
+| Arabic | ***Native Mother Tongue***   |
+| ---------------- | ---------------------------------------------- |
+| **English** | *Excellent* <br /> `Reading, Writing and communication` |
 
 
 
@@ -86,7 +86,7 @@ Facebook: https://www.facebook.com/ZeroBytes.One
   - Power BI and Tableau
   -  Statistics, Scikit-Learn and PyTorch
   -  C++, C# and  Visual Basic
-  - React, Svelte, Vue and JavaScript
+  - React, Svelte, and JavaScript
   - Microsoft Office (MS Excel, MS Access,  MS Word and PowerPoint) 
   -  PHP, Java and Visual Object 
 
@@ -99,8 +99,9 @@ Facebook: https://www.facebook.com/ZeroBytes.One
 
 ## Profession Profile
 
-- [Accredition & Badges](https://www.credly.com/users/mohamed-abbas.1f43f901/badges)
+- [Accreditation & Badges](https://www.credly.com/users/mohamed-abbas.1f43f901/badges)
+- [Kaggle profile](https://www.kaggle.com/egyfirst)
 - [Data Camp profile](https://www.datacamp.com/profile/egy1st)
 
-  
+
 
