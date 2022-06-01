@@ -9,7 +9,8 @@ nav:
     - Courses: courses/index.md
     - DC: dc/index.md
     - Certificates: certificates/index.md
-    - Me: me/index.md
+    - Me:
+        - All about me/index.md
         - About me: me/about.md
         - My CV: me/cv.md
         - Reviewer Profile: me/review.md
