@@ -106,5 +106,10 @@ Facebook: https://www.facebook.com/ZeroBytes.One
   - https://www.researchgate.net/profile/Mohamed-Abbas-20
   - https://orcid.org/my-orcid?orcid=0000-0003-0197-4299
 
+## Profession Profile
+
+- https://www.datacamp.com/profile/egy1st
+- 
+
   
 
