@@ -100,7 +100,7 @@ Facebook: https://www.facebook.com/ZeroBytes.One
   -  PHP, Java and Visual Object 
 
   ## Academic Profile
-  
+
   - https://publons.com/researcher/3277275/mohamed-ali-abbas/
   - https://scholar.google.com/citations?user=b0ld6nwAAAAJ&hl=en
   - https://www.researchgate.net/profile/Mohamed-Abbas-20
@@ -108,8 +108,8 @@ Facebook: https://www.facebook.com/ZeroBytes.One
 
 ## Profession Profile
 
+- https://www.credly.com/users/mohamed-abbas.1f43f901/badges
 - https://www.datacamp.com/profile/egy1st
-- 
 
   
 
