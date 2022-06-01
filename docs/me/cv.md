@@ -101,6 +101,7 @@ Facebook: https://www.facebook.com/ZeroBytes.One
 
   ## Academic Profile
 
+  - [](https://publons.com/researcher/3277275/mohamed-ali-abbas/)
   - https://publons.com/researcher/3277275/mohamed-ali-abbas/
   - https://scholar.google.com/citations?user=b0ld6nwAAAAJ&hl=en
   - https://www.researchgate.net/profile/Mohamed-Abbas-20
