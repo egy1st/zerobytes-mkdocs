@@ -9,10 +9,11 @@ nav:
     - Courses: courses/index.md
     - DC: dc/index.md
     - Certificates: certificates/index.md
-    - Me:
-        - About me: about.md
-        - My CV: cv.md
-        - Contact me: contact.md
+    - Me: me/index.md
+        - About me: me/about.md
+        - My CV: me/cv.md
+        - Reviewer Profile me/review.md
+        - Contact me: me/contact.md
     - News: news.md 
     - Coupons: coupons.md     
     
