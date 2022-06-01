@@ -3,7 +3,7 @@
 Senior  Data Analyst  & Acadmic Instructor 
 
 | ![](https://raw.githubusercontent.com/egy1st/images/main/cv/Photo-011.jpg) | <!--Experienced Data Analyst with a demonstrated history of working in the government administration industry.  Skilled in Python, C++ and Statistical Data Analysis. Strong information technology professional with a MSc in Computer Science and PhD in Information Technology.  Focused in data mining, machine learning and pattern recognition. A Recognized Instructor in many reputable organizations.--> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ------------------------------------ | ----------------------------- |
 
 ## Contact
 
@@ -24,10 +24,6 @@ Likedin: https://www.linkedin.com/in/mohabbas
 Facebook: https://www.facebook.com/ZeroBytes.One
 
 ```
-
-
-
-
 
 ## Work Experience
 

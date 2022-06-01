@@ -10,10 +10,10 @@ nav:
     - DC: dc/index.md
     - Certificates: certificates/index.md
     - Me:
-        - All about me/me/index.md
+        - All about me: /me/index.md
         - About me: me/about.md
         - My CV: me/cv.md
-        - Reviewer Profile: me/review.md
+        - Reviewer Profile: me/reviewer.md
         - Contact me: me/contact.md
     - News: news.md 
     - Coupons: coupons.md     
