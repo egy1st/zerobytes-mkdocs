@@ -75,7 +75,7 @@ Facebook: https://www.facebook.com/ZeroBytes.One
   | ---------------- | ----------------------------------------------- |
 
 
-  Thirteen badges from IBM, prove me as a recognized data scientist and machine learning expert. My profile at:  https://www.credly.com/users/mohamed-abbas.1f43f901/badges
+  Thirteen badges from IBM, prove me as a recognized data scientist and machine learning expert. My profile at: [Credly]() https://www.credly.com/users/mohamed-abbas.1f43f901/badges)
 
    So, I am looking for a creative، challenging, growth-oriented position and I am eager to start the next stage in my career.
 
@@ -103,13 +103,13 @@ Facebook: https://www.facebook.com/ZeroBytes.One
 
   - [Publons profile](https://publons.com/researcher/3277275/mohamed-ali-abbas/)
   - [Google scholar profile](https://scholar.google.com/citations?user=b0ld6nwAAAAJ&hl=en)
-  - https://www.researchgate.net/profile/Mohamed-Abbas-20
-  - https://orcid.org/my-orcid?orcid=0000-0003-0197-4299
+  - [Research Gate profile](https://www.researchgate.net/profile/Mohamed-Abbas-20)
+  - [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-0197-4299)
 
 ## Profession Profile
 
-- https://www.credly.com/users/mohamed-abbas.1f43f901/badges
-- https://www.datacamp.com/profile/egy1st
+- (Accredition & Badges](https://www.credly.com/users/mohamed-abbas.1f43f901/badges)
+- (Data Camp profile](https://www.datacamp.com/profile/egy1st)
 
   
 
