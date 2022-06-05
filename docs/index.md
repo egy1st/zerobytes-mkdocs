@@ -13,6 +13,7 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
 - [MS Excel: Interactive Training](https://quiz.zerobytes.one/)
 - [Counting in 13 Languages including Arabic, English & Chinese](https://api.zerobytes.one/number2words/demo/)
 - [SQL for Data Analytics: An interactive Project](https://deepnote.com/workspace/zerobytes-53a2-d17b46ba-00b7-41a6-bdcc-79d0ff9e1037/project/Introduction-to-SQL-82a421bb-fac8-45a1-8c6a-2a7fb7cd35c7/%2FREADME.ipynb)
+- [ZeroBytes BootCamp](https://bootcamp.zerobytes.one)
 
 
 # ZeroBytes: Why, How, and for Whom
@@ -61,10 +62,10 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
       | DC Image Button          | Assign different icon images for each button state on the fly without any line of code. | [Docs](https://www.zerobytes.one/dc/image-button/)          | [GitHub](https://github.com/egy1st/image-button)          |
       | DC Help Authority        | put the finish touch to your application by adding sensitive help to every control in your form , any column in your grid when you press F12 key this will trigger your sensitive help for focused control or column | [Docs](https://www.zerobytes.one/dc/help-authority/)        | [GitHub](https://github.com/egy1st/help-authority)        |
       | DC Form Translator       | If you develop multi language application or eastern language application. Only one Line to add in your Form_Load event and we will translate the form with all its labels for you. | [Docs](https://www.zerobytes.one/dc/form-translator/)       | [GitHub](https://github.com/egy1st/form-translator)       |
-     | DC Form Flipper          | If you develop multi language application or eastern language application. Only one Line to add in your Form_Load event and we will flip the form with all its controls for you additionally , you can define alignment (Right 2 Left or Left 2 right) | [Docs](https://www.zerobytes.one/dc/form-flipper/)          | [GitHub](https://github.com/egy1st/form-flipper)          |
-     | DC Data-Entry Validator  | Notify you with red forecolor when your entry is not proper , so there is some thing wrong with data entry in that Textbox. Also, format data by define decimal places for numeric entry , or define letter case for characters entry. | [Docs](https://www.zerobytes.one/dc/data-entry-validator/)  | [GitHub](https://github.com/egy1st/data-entry-validator)  |
-     | DC Return-key Enabled    | Only one line of code and you can move easily through your form controls without any additional programming code. | [Docs](https://www.zerobytes.one/dc/returnkey-enabled/)     | [GitHub](https://github.com/egy1st/returnkey-enabled)     |
-     | DC Num2Text              | Convert any digits number to the equivalent words in 13 languages. A .NET integrated library. | [Docs](https://www.zerobytes.one/dc/num2text/)              | [GitHub](https://github.com/egy1st/number2text)           |
+       | DC Form Flipper          | If you develop multi language application or eastern language application. Only one Line to add in your Form_Load event and we will flip the form with all its controls for you additionally , you can define alignment (Right 2 Left or Left 2 right) | [Docs](https://www.zerobytes.one/dc/form-flipper/)          | [GitHub](https://github.com/egy1st/form-flipper)          |
+       | DC Data-Entry Validator  | Notify you with red forecolor when your entry is not proper , so there is some thing wrong with data entry in that Textbox. Also, format data by define decimal places for numeric entry , or define letter case for characters entry. | [Docs](https://www.zerobytes.one/dc/data-entry-validator/)  | [GitHub](https://github.com/egy1st/data-entry-validator)  |
+       | DC Return-key Enabled    | Only one line of code and you can move easily through your form controls without any additional programming code. | [Docs](https://www.zerobytes.one/dc/returnkey-enabled/)     | [GitHub](https://github.com/egy1st/returnkey-enabled)     |
+       | DC Num2Text              | Convert any digits number to the equivalent words in 13 languages. A .NET integrated library. | [Docs](https://www.zerobytes.one/dc/num2text/)              | [GitHub](https://github.com/egy1st/number2text)           |
 
   
 
