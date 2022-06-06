@@ -4,7 +4,7 @@
 
 **June, 6<sup>th</sup> 2022**
 
-[Repl.it](https://replit.com/) allowed me to create team to educate members of zerobytes for unlimited number of users. Thanks Replit. This step means a lot for me.
+[Replit.com](https://replit.com/) allowed me to create my team on their powerful Edu Institution plan which allows  unlimited number of learners. Thanks Replit. This step means a lot for me.
 
 
 
