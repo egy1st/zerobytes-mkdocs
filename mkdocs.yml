@@ -15,8 +15,7 @@ nav:
         - My CV: me/cv.md
         - Reviewer Profile: me/reviewer.md
         - Contact me: me/contact.md
-    - News: news.md 
-    - Coupons: coupons.md     
+    - News: news.md   
     
     
 site_dir: public
