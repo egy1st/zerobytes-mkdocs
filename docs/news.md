@@ -10,7 +10,7 @@
 
 **June, 6<sup>th</sup> 2022**
 
->I forked a JavaScript project on GitHub. This project suits perfectly my needs for a quiz framework. Thanks [stevecopley](https://github.com/stevecopley/quiz), you did a really amazing quiz project that make use of plain JavaScript and markdown.
+>I forked a JavaScript project on GitHub. This project suits perfectly my needs for a quiz framework. Thanks [stevecopley](https://github.com/stevecopley/quiz), you did a really amazing quiz project which makes use of plain JavaScript and markdown.
 
 
 
