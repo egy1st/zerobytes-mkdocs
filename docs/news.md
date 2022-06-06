@@ -3,6 +3,13 @@
 ## 2022
 
 **June, 6<sup>th</sup> 2022**
+![](https://res.cloudinary.com/zerobytes/image/upload/v1654481055/zerobytes/main/Screenshot_8_x8mtha.png)
+
+An image worth thousand of words. That is it. Enjoy the speed.
+
+
+
+**June, 6<sup>th</sup> 2022**
 
 [Replit.com](https://replit.com/) allowed me to create my team on their powerful Edu Institution plan which allows  unlimited number of learners. Thanks Replit. This step means a lot for me.
 
