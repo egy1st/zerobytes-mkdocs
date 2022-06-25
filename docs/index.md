@@ -18,11 +18,11 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
 
 # ZeroBytes: Why, How, and for Whom
 
-`Why:` *Obviously, there is a trade-off between gaining knowledge and the costly time and money to obtain these knowledge. In ZeroBytes we believe that knowledge should be available to learner in premium, but at no cost.*
+`Why:` *Obviously, there is a trade-off between gaining knowledge and the costly time and money to obtain these knowledge. I believe that knowledge should be available to learner in premium, but at no cost.*
 
-`How`: *When Free means Premium. When less means More. This is the most complex formula we master in ZeroBytes. We just started.. There are many things that seem impossible only so long as one does not attempt them.*
+`How`: *When Free means Premium. When less means More. This is the most complex formula I try to master in ZeroBytes. It is just a start, The more to come next.
 
-`Whom`: "Our mission is to make the Arab world a better place to learn, gain knowledge and apply these knowledge to solve real-life problems that is result in leading a better life.*
+`Whom`: I aim to make the Arab world a better place to learn, gain knowledge and apply these knowledge to solve real-life problems that is result in leading a better life.*
 
 
 # All Projects are Open Source
