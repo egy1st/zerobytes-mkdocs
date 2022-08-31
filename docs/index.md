@@ -6,7 +6,7 @@ If you are asking yourself, why this website called zero bytes, then let me tell
 
 Keep up with the future with in-demand data science knowledge. Top companies need data science skills. Learn at your own pace, Where Free means Premium.
 
-- [Tarteel ترتيل](https://www.tarteel.net)
+- [Tarteel ترتيل](https://tarteel.net)
 - [connecTED English](http://ted.zerobytes.one)
 - [MS Excel: step by step](https://excel.zerobytes.one)
 - [DenMune: Density-based clustering](https://github.com/egy1st/denmune-clustering-algorithm)
