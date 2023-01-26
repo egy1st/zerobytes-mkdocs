@@ -14,7 +14,7 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
 - [Counting in 13 Languages including Arabic, English & Chinese](https://number2text.com)
 - [SQL for Data Analytics: An interactive Project](https://deepnote.com/workspace/zerobytes-53a2-d17b46ba-00b7-41a6-bdcc-79d0ff9e1037/project/Introduction-to-SQL-82a421bb-fac8-45a1-8c6a-2a7fb7cd35c7/%2FREADME.ipynb)
 - [Ro2ya, A digital agency that care about your business success](https://ro2yaagency.com)
-- [Courses hub that connects trainers of passion to teach with trainee of passion to learn](https://courseshubeg.com)
+- [Courseshub connects trainers of passion to teach with trainee of passion to learn](https://courseshubeg.com)
 
 
 # ZeroBytes (by EGY1ST.org): Why, How, and for Whom
