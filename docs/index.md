@@ -1,23 +1,23 @@
-# Welcome to ZeroBytes.One
+# Welcome to EGY1ST.org
 
-If you are asking yourself, why this website called zero bytes, then let me tell you a secret "I just create zeros to give you the power to create complete bytes". In a nutshell, Zero Bytes is a journey from 0 ==> 1, from NULL to totally Full, from ***no***thing to ***some***thing, from **0**000 0000  ==>  0000 000**1** 
+If you are asking yourself, why these bytes called zero bytes, then let me tell you a secret "I just create zeros to give you the power to create complete bytes". In a nutshell, Zero Bytes is a journey from 0 ==> 1, from NULL to totally Full, from ***no***thing to ***some***thing, from **0**000 0000  ==>  0000 000**1** 
 
 ## What Will You Get From These Bytes?
 
 Keep up with the future with in-demand data science knowledge. Top companies need data science skills. Learn at your own pace, Where Free means Premium.
 
 - [Tarteel ترتيل](https://tarteel.net)
-- [connecTED English](http://ted.zerobytes.one)
-- [MS Excel: step by step](https://excel.zerobytes.one)
+- [connecTED English](https://connectedenglish.net)
+- [MS Excel: step by step](https://zerobytes.one)
 - [DenMune: Density-based clustering](https://github.com/egy1st/denmune-clustering-algorithm)
-- [DenMune: Documentation](https://docs.zerobytes.one)
-- [MS Excel: Interactive Training](https://quiz.zerobytes.one/)
-- [Counting in 13 Languages including Arabic, English & Chinese](https://api.zerobytes.one/number2words/demo/)
+- [DenMune: Documentation](https://docs.egy1st.org)
+- [Counting in 13 Languages including Arabic, English & Chinese](https://number2text.com)
 - [SQL for Data Analytics: An interactive Project](https://deepnote.com/workspace/zerobytes-53a2-d17b46ba-00b7-41a6-bdcc-79d0ff9e1037/project/Introduction-to-SQL-82a421bb-fac8-45a1-8c6a-2a7fb7cd35c7/%2FREADME.ipynb)
-- [ZeroBytes BootCamp](https://bootcamp.zerobytes.one)
+- [Ro2ya, A digital agency that care about your business success](https://ro2yaagency.com)
+- [Courses hub that connects trainers of passion to teach with trainee of passion to learn](https://courseshubeg.com)
 
 
-# ZeroBytes: Why, How, and for Whom
+# ZeroBytes (by EGY1ST.org): Why, How, and for Whom
 
 `Why:` Obviously, there is a trade-off between gaining knowledge and the costly time and money to obtain these knowledge. I believe that knowledge should be available to learner in premium, but at no cost.
 
