@@ -39,7 +39,7 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
     
       `(8543.21 in digits) will be (eight thousand, five hundred and forty-three $ and twenty-one ¢ in words)`
     
-    - **Demo Website**: [https://api.zerobytes.one/number2words/demo/](https://api.zerobytes.one/number2words/demo/)
+    - **Demo Website**: [https://number2text/demo.html](https://number2text.com/demo.html)
     
     - **GitHub source code**: [https://github.com/egy1st/Number2Words](https://github.com/egy1st/Number2Words)
   
