@@ -30,7 +30,7 @@ Keep up with the future with in-demand data science knowledge. Top companies nee
 - **<u>Connected English</u>**
 
     > - **Description**: A new way to learn English using TED talks. This premium and innovative method offers many benefits to learners. They gain new knowledge from TED takes, learn new words and how they are connected in sentences, and choose which level to address.
-    > - **Demo Website**: [http://ted.zerobytes.one/](http://ted.zerobytes.one/)
+    > - **Demo Website**: [https://connectedenglish.net/](https://connectedenglish.net)
     > - **GitHub source code**: [https://github.com/egy1st/connected-english](https://github.com/egy1st/connected-english)
 
 - **<u>Number2Words</u>**
