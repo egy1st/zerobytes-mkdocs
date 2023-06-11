@@ -1,4 +1,4 @@
-# Welcome to 01.ZeroBytes.one
+# Welcome to EGY1ST (01.ZeroBytes.one)
 __An Open Source Projects by Dr. Mohamed Ali Abbas__
 
 If you are asking yourself, why these bytes called zero bytes, then let me tell you a secret "I just create zeros to give you the power to create complete bytes". In a nutshell, Zero Bytes is a journey from 0 ==> 1, from NULL to totally Full, from ***no***thing to ***some***thing, from **0**000 0000  ==>  0000 000**1** 
