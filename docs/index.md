@@ -34,13 +34,13 @@ Examined 2 million experiments for Ph.D., demonstrating research abilities. Buil
 
 ## Projects
 
-- **DenMune (Python, Scikit-learn)**: Novel clustering algorithm contribution to Scikit-learn-Contrib. 150000+ uses, twice awarded by Alexandria University.
+- **[DenMune](https://github.com/scikit-learn-contrib/denmune-clustering-algorithm) (Python, Scikit-learn)**: Novel clustering algorithm contribution to Scikit-learn-Contrib. 150000+ uses, twice awarded by Alexandria University.
 
-- **Number2Words (PHP)**: API that converts numbers to words in 13 languages, serving 500-1000 API calls daily.
+- **[Number2Words](https://rapidapi.com/egy1st/api/number2words4) (PHP)**: API that converts numbers to words in 13 languages, serving 500-1000 API calls daily.
 
-- **Tarteel (Flask)**: Ayat Al-Quran Al-Kareem memorization web app.
+- **[Tarteel](http://tarteel.net) (Flask)**: Ayat Al-Quran Al-Kareem memorization web app.
 
-- **ConnecTED English (Flask)**: Innovative English learning web app using TED.
+- **[ConnecTED English](https://github.com/egy1st/connected-english) (Flask)**: Innovative English learning web app using TED.
 
 ## Awards & Honors
 
@@ -48,7 +48,7 @@ Examined 2 million experiments for Ph.D., demonstrating research abilities. Buil
 
 - Alexandria University Research Excellence Award (2021) - Granted for research published in Pattern Recognition journal, €15,000 prize 
 
-- IBM Data Science Professional Certificate (2020) - Earned 13 distinct badges demonstrating data science abilities
+- IBM Data Science Professional Certificate (2020) - Earned 10 distinct badges demonstrating data science abilities
 
 ## Skills
 
@@ -88,10 +88,11 @@ Here is an elegant stylish version with the profile links:
 
 ### Academic & Research
 
+- [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-0197-4299) - Researcher ID
 - [ResearchGate](https://www.researchgate.net/profile/Mohamed-Abbas-20) - Research profile
 - [Web of Science](https://www.webofscience.com/wos/author/record/2054400) - Publication profile
 - [Google Scholar](https://scholar.google.com/citations?user=b0ld6nwAAAAJ&hl=en) - Citation profile
-- [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-0197-4299) - Researcher ID
+- [Semantic Scholar](https://www.semanticscholar.org/author/Mohamed-Ali-Abbas/2057813530) Semantic profile
 
 ### Technical
 
@@ -105,7 +106,8 @@ Here is an elegant stylish version with the profile links:
 - [Formative](https://www.credential.net/faa22891-ae26-4111-ada4-72873d8ad4c4) - Certified educator 
 
 
-### IBM Badges
+
+## IBM Badges
 
 ![Data Science Orientation](https://images.credly.com/size/110x110/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)![Python for Data Science and AI](https://images.credly.com/size/110x110/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png)![Tools for Data Science](https://images.credly.com/size/110x110/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png)![Data Science Methodology](https://images.credly.com/size/110x110/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png)
 
