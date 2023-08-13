@@ -2,7 +2,7 @@
 
 ### Researcher, Analyst, & Training Specialist
 
-Alexandria, Egypt | +20-0100-7500-290 | maa@egy1st.org | [LinkedIn](https://www.linkedin.com/in/mohabbas) | [Website](https://egy1st.org)
+Alexandria, Egypt | 20-100-7500-290 | maa@egy1st.org | [LinkedIn](https://www.linkedin.com/in/mohabbas) | [Website](https://egy1st.org)
 
 Examined 2 million experiments for Ph.D., demonstrating research abilities. Built 25 technology projects showcasing programming skills using Python, C++, PHP, Visual Basic, and Flask. Ranked in the top 1% in Kaggle competitions (136/100k). Twice awarded Alexandria University awards for published research in reputable journals. Contributed to 70+ journal reviews for Elsevier. Taught over 3,500 students via online courses and conferences. Expert at extracting insights from data using Python, SQL, and Power BI.
 
@@ -99,6 +99,7 @@ Here is an elegant stylish version with the profile links:
 
 ### Technical
 
+- [Github]( https://github.com/egy1st): Projects (I believe in Open Source)
 - [Credly](https://www.credly.com/users/mohamed-abbas.1f43f901/badges) - Accreditations & badges 
 - [Kaggle](https://www.kaggle.com/egyfirst) - Data science profile
 - [DataCamp](https://www.datacamp.com/profile/egy1st) - Data skills profile
@@ -120,7 +121,6 @@ Here is an elegant stylish version with the profile links:
 
 ![IBM Data Science](https://github.com/egy1st/images/blob/main/certificates/ibm_certificate_coursera.jpg?raw=true)
 
-
 ### Teaching
 Number of DS & IS topics could be taught. These topics include but are not
 limited to:
@@ -137,4 +137,3 @@ limited to:
 - Complexity Theory
 - Discrete Mathematics
 - Problem-Solving
-
