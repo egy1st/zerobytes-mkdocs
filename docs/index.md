@@ -118,3 +118,5 @@ Here is an elegant stylish version with the profile links:
 
 ![Applied Data Science Capstone](https://images.credly.com/size/110x110/images/60f2e1e1-1b74-4dc0-a24b-cd08b460c12d/Applied_Data_Science_Capstone.png)![Data Science Professional Certificate](https://images.credly.com/size/110x110/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png) 
 
+![IBM Data Science](https://github.com/egy1st/images/blob/main/certificates/ibm_certificate_coursera.jpg?raw=true)
+
