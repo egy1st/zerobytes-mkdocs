@@ -124,6 +124,7 @@ Here is an elegant stylish version with the profile links:
 ### Teaching
 Number of DS & IS topics could be taught. These topics include but are not
 limited to:
+
 - Algorithms (Sorting, Search, Encryption & Decryption, etc.)
 - Data Structure
 - Data Engineering
