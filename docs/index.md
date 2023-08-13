@@ -120,3 +120,21 @@ Here is an elegant stylish version with the profile links:
 
 ![IBM Data Science](https://github.com/egy1st/images/blob/main/certificates/ibm_certificate_coursera.jpg?raw=true)
 
+
+### Teaching
+Number of DS & IS topics could be taught. These topics include but are not
+limited to:
+- Algorithms (Sorting, Search, Encryption & Decryption, etc.)
+- Data Structure
+- Data Engineering
+- Data Analysis
+- Machine Learning & Pattern Recognition
+- Database Design
+- MS office, Power BI, SQL, Python, C++, Web Development
+- Programming Languages (C++, Python, JavaScript, VB, C#)
+- Object Oriented Programming
+- Data Visualization (Power BI, Tableau)
+- Complexity Theory
+- Discrete Mathematics
+- Problem-Solving
+
