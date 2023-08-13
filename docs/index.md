@@ -100,16 +100,27 @@ Here is an elegant stylish version with the profile links:
 ### Technical
 
 - [Github]( https://github.com/egy1st): Projects (I believe in Open Source)
+
 - [Credly](https://www.credly.com/users/mohamed-abbas.1f43f901/badges) - Accreditations & badges 
+
 - [Kaggle](https://www.kaggle.com/egyfirst) - Data science profile
+
 - [DataCamp](https://www.datacamp.com/profile/egy1st) - Data skills profile
 
-### Teaching
+  
+## Training 
 
 - [Udemy](https://www.udemy.com/user/mohammad-ali-abbas/) - Online courses
+
+**Recognized Trainer:**
+
+- Egyptian Tax Authority
+- National Training and Education Council
+- National Education Network
+- Professional Academy for Teachers
 - [Formative](https://www.credential.net/faa22891-ae26-4111-ada4-72873d8ad4c4) - Certified educator 
 
-
+  
 
 ## IBM Badges
 
@@ -121,7 +132,7 @@ Here is an elegant stylish version with the profile links:
 
 ![IBM Data Science](https://github.com/egy1st/images/blob/main/certificates/ibm_certificate_coursera.jpg?raw=true)
 
-### Teaching
+## Academic Teaching
 Number of DS & IS topics could be taught. These topics include but are not
 limited to:
 
