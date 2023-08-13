@@ -23,11 +23,14 @@ Examined 2 million experiments for Ph.D., demonstrating research abilities. Buil
 
 ## Education
 
-- **Ph.D. in Information Technology** @ Institute of Graduate Studies and Research, Alexandria _(Seb 2015 – Feb 2022)_
+- **Ph.D. in Information Technology** @ Institute of Graduate Studies and Research, Alexandria
+   _(Seb 2015 – Feb 2022)_
 
-- **MSc in Computer Science** @ Arab Academy for Science and Technology, Alexandria _(Seb 2008 – Feb 2012)_ 
+- **MSc in Computer Science** @ Arab Academy for Science and Technology, Alexandria 
+  _(Seb 2008 – Feb 2012)_ 
 
-- **MBA in Financial Management** @ Arab Academy for Banking and Financial Sciences, Alexandria _(Aug 2009 – Mar 2011)_
+- **MBA in Financial Management** @ Arab Academy for Banking and Financial Sciences, Alexandria
+   _(Aug 2009 – Mar 2011)_
 
 ## Projects
 
@@ -78,3 +81,35 @@ Examined 2 million experiments for Ph.D., demonstrating research abilities. Buil
 - Data Science Professional, IBM & Coursera (Jan 2019)
 
 - TOT, National Training and Education, Professional Academy for Teachers, Egyptian Tax Authority, National Training and Education Council (Oct 2018)
+
+Here is an elegant stylish version with the profile links:
+
+## Profile
+
+### Academic & Research
+
+- [ResearchGate](https://www.researchgate.net/profile/Mohamed-Abbas-20) - Research profile
+- [Web of Science](https://www.webofscience.com/wos/author/record/2054400) - Publication profile
+- [Google Scholar](https://scholar.google.com/citations?user=b0ld6nwAAAAJ&hl=en) - Citation profile
+- [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-0197-4299) - Researcher ID
+
+### Technical
+
+- [Credly](https://www.credly.com/users/mohamed-abbas.1f43f901/badges) - Accreditations & badges 
+- [Kaggle](https://www.kaggle.com/egyfirst) - Data science profile
+- [DataCamp](https://www.datacamp.com/profile/egy1st) - Data skills profile
+
+### Teaching
+
+- [Udemy](https://www.udemy.com/user/mohammad-ali-abbas/) - Online courses
+- [Formative](https://www.credential.net/faa22891-ae26-4111-ada4-72873d8ad4c4) - Certified educator 
+
+
+### IBM Badges
+
+![Data Science Orientation](https://images.credly.com/size/110x110/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)![Python for Data Science and AI](https://images.credly.com/size/110x110/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png)![Tools for Data Science](https://images.credly.com/size/110x110/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png)![Data Science Methodology](https://images.credly.com/size/110x110/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png)
+
+![Databases and SQL for Data Science](https://images.credly.com/size/110x110/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png) ![Data Analysis with Python](https://images.credly.com/size/110x110/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png)![Machine Learning with Python](https://images.credly.com/size/110x110/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png)![Data Visualization with Python](https://images.credly.com/size/110x110/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png)
+
+![Applied Data Science Capstone](https://images.credly.com/size/110x110/images/60f2e1e1-1b74-4dc0-a24b-cd08b460c12d/Applied_Data_Science_Capstone.png)![Data Science Professional Certificate](https://images.credly.com/size/110x110/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png) 
+
