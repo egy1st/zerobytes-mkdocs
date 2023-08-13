@@ -68,11 +68,13 @@ Examined 2 million experiments for Ph.D., demonstrating research abilities. Buil
 
 **Recognized Reviewer** @ Elsevier Information Sciences Journal _(Jun 2019 – Present)_ 
 
-- Completed 35 reviews
+- Completed 36 reviews
+![INS Reviewer](https://raw.githubusercontent.com/egy1st/images/02d536bdd1c176cb49e1a7e1dad3c8025ef42315/certificates/Certificate_INS.jpg)
 
 **Recognized Reviewer** @ Elsevier Pattern Recognition Journal _(Mar 2016 – Present)_
 
 - Completed 28 reviews
+![PR Reviewer](https://raw.githubusercontent.com/egy1st/images/02d536bdd1c176cb49e1a7e1dad3c8025ef42315/certificates/Certificate_PR.jpg)
 
 ## Certifications
 
@@ -89,10 +91,11 @@ Here is an elegant stylish version with the profile links:
 ### Academic & Research
 
 - [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-0197-4299) - Researcher ID
-- [ResearchGate](https://www.researchgate.net/profile/Mohamed-Abbas-20) - Research profile
-- [Web of Science](https://www.webofscience.com/wos/author/record/2054400) - Publication profile
-- [Google Scholar](https://scholar.google.com/citations?user=b0ld6nwAAAAJ&hl=en) - Citation profile
-- [Semantic Scholar](https://www.semanticscholar.org/author/Mohamed-Ali-Abbas/2057813530) Semantic profile
+- [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=36871691600)
+- [ResearchGate](https://www.researchgate.net/profile/Mohamed-Abbas-20) 
+- [Web of Science](https://www.webofscience.com/wos/author/record/2054400) 
+- [Google Scholar](https://scholar.google.com/citations?user=b0ld6nwAAAAJ&hl=en)
+- [Semantic Scholar](https://www.semanticscholar.org/author/Mohamed-Ali-Abbas/2057813530) 
 
 ### Technical
 
