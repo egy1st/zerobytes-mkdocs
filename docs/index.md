@@ -148,3 +148,15 @@ limited to:
 - Discrete Mathematics
 - Problem-Solving
 
+
+##  Publications
+
+[1] M. Abbas, A. El-Zoghabi, A. Shoukry, pyMune: A Python Package for Complex Cluster Detection, Software Impacts (accepted, under production)
+
+[2] M. Abbas, A. El-Zoghabi, A. Shoukry, DenMune: Density peak based clustering using mutual nearest neighbors, Pattern Recognition 109 (2021) 107589. doi:10.1016/j.patcog.2020.107589.
+
+[3] M. Abbas, A. Shoukry, Clustering using shared reference points algorithm based on a sound data model,
+International Journal of Data Engineering(IJDE), Volume 3, Issue (2012) 28–47.
+
+[4] M. Abbas, A. Shoukry, CMune: A clustering using mutual nearest neighbors algorithm, IEEE, 2012.
+doi:10.1109/ISSPA.2012.6310472.
