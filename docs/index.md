@@ -160,4 +160,4 @@ doi:10.1109/ISSPA.2012.6310472.
 
 1. M. Abbas, A. Shoukry, Clustering using shared reference points algorithm based on a sound data model, International Journal of Data Engineering(IJDE), Volume 3, Issue (2012) 28–47.
 
-1. M. Abbas,  Rasha Kashef, A. Shoukry, CSharp: A Clustering Using Shared Reference Points Algorithm, ICDM, 2012.
+1. M. Abbas , R. Kashef,  A. Shoukry,  ICDM 2012. CSHARP: A Clustering Using Shared Reference Points Algorithm, International Conference on Data Mining, Penang, Malaysia, World Academy of Science.
