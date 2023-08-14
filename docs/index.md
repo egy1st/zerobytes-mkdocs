@@ -90,11 +90,11 @@ Here is an elegant stylish version with the profile links:
 
 ### Academic & Research
 
-- [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-0197-4299) - Researcher ID
+- [ORCID](https://orcid.org/0000-0003-0197-4299) - Researcher ID
 - [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=36871691600)
 - [ResearchGate](https://www.researchgate.net/profile/Mohamed-Abbas-20) 
 - [Web of Science](https://www.webofscience.com/wos/author/record/2054400) 
-- [Google Scholar](https://scholar.google.com/citations?user=b0ld6nwAAAAJ&hl=en)
+- [Google Scholar](https://scholar.google.com/citations?user=b0ld6nwAAAAJ)
 - [Semantic Scholar](https://www.semanticscholar.org/author/Mohamed-Ali-Abbas/2057813530) 
 
 ### Technical
@@ -147,3 +147,4 @@ limited to:
 - Complexity Theory
 - Discrete Mathematics
 - Problem-Solving
+
