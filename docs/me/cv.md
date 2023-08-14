@@ -2,7 +2,7 @@
 
 ### Researcher, Analyst, & Training Specialist
 
-Alexandria, Egypt | 20-100-7500-290 | maa@egy1st.org | [LinkedIn](https://www.linkedin.com/in/mohabbas) | [Website](https://egy1st.org)
+Alexandria, Egypt | 20-100-7500-290 | maa@egy1st.org | [LinkedIn](https://www.linkedin.com/in/mohabbas) |  [Github](https://github.com/egy1st)
 
 Examined 2 million experiments for Ph.D., demonstrating research abilities. Built 25 technology projects showcasing programming skills using Python, C++, PHP, Visual Basic, and Flask. Ranked in the top 1% in Kaggle competitions (136/100k). Twice awarded Alexandria University awards for published research in reputable journals. Contributed to 70+ journal reviews for Elsevier. Taught over 3,500 students via online courses and conferences. Expert at extracting insights from data using Python, SQL, and Power BI.
 
@@ -90,25 +90,35 @@ Here is an elegant stylish version with the profile links:
 
 ### Academic & Research
 
-- [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-0197-4299) - Researcher ID
+- [ORCID](https://orcid.org/0000-0003-0197-4299) - Researcher ID
 - [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=36871691600)
 - [ResearchGate](https://www.researchgate.net/profile/Mohamed-Abbas-20) 
 - [Web of Science](https://www.webofscience.com/wos/author/record/2054400) 
-- [Google Scholar](https://scholar.google.com/citations?user=b0ld6nwAAAAJ&hl=en)
+- [Google Scholar](https://scholar.google.com/citations?user=b0ld6nwAAAAJ)
 - [Semantic Scholar](https://www.semanticscholar.org/author/Mohamed-Ali-Abbas/2057813530) 
 
 ### Technical
 
+- [Github]( https://github.com/egy1st): Projects (I believe in Open Source)
 - [Credly](https://www.credly.com/users/mohamed-abbas.1f43f901/badges) - Accreditations & badges 
 - [Kaggle](https://www.kaggle.com/egyfirst) - Data science profile
 - [DataCamp](https://www.datacamp.com/profile/egy1st) - Data skills profile
 
-### Teaching
+  
+## Training 
 
 - [Udemy](https://www.udemy.com/user/mohammad-ali-abbas/) - Online courses
+
+**Certified Trainer:**
+
+- Egyptian Tax Authority
+- National Training and Education Council, PM/0120/12/18
+- National Education Network
+- Professional Academy for Teachers
+- [Oxford Academy](https://oxfordjo.com/members/egy1st/accreditation), Certified Associate Trainer, 31664001222020048CAT
 - [Formative](https://www.credential.net/faa22891-ae26-4111-ada4-72873d8ad4c4) - Certified educator 
 
-
+  
 
 ## IBM Badges
 
@@ -117,4 +127,24 @@ Here is an elegant stylish version with the profile links:
 ![Databases and SQL for Data Science](https://images.credly.com/size/110x110/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png) ![Data Analysis with Python](https://images.credly.com/size/110x110/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png)![Machine Learning with Python](https://images.credly.com/size/110x110/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png)![Data Visualization with Python](https://images.credly.com/size/110x110/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png)
 
 ![Applied Data Science Capstone](https://images.credly.com/size/110x110/images/60f2e1e1-1b74-4dc0-a24b-cd08b460c12d/Applied_Data_Science_Capstone.png)![Data Science Professional Certificate](https://images.credly.com/size/110x110/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png) 
+
+![IBM Data Science](https://github.com/egy1st/images/blob/main/certificates/ibm_certificate_coursera.jpg?raw=true)
+
+## Academic Teaching
+Number of DS & IS topics could be taught. These topics include but are not
+limited to:
+
+- Algorithms (Sorting, Search, Encryption & Decryption, etc.)
+- Data Structure
+- Data Engineering
+- Data Analysis
+- Machine Learning & Pattern Recognition
+- Database Design
+- MS office, Power BI, SQL, Python, C++, Web Development
+- Programming Languages (C++, Python, JavaScript, VB, C#)
+- Object Oriented Programming
+- Data Visualization (Power BI, Tableau)
+- Complexity Theory
+- Discrete Mathematics
+- Problem-Solving
 
