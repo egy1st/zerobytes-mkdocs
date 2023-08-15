@@ -1,76 +1,163 @@
-# Welcome to EGY1ST.org
+# Mohamed Abbas
 
-If you are asking yourself, why these bytes called zero bytes, then let me tell you a secret "I just create zeros to give you the power to create complete bytes". In a nutshell, Zero Bytes is a journey from 0 ==> 1, from NULL to totally Full, from ***no***thing to ***some***thing, from **0**000 0000  ==>  0000 000**1** 
+### Researcher, Analyst, & Training Specialist
 
-## What Will You Get From These Bytes?
+Alexandria, Egypt | 20-100-7500-290 | maa@egy1st.org | [LinkedIn](https://www.linkedin.com/in/mohabbas) |  [Github](https://github.com/egy1st)
 
-Keep up with the future with in-demand data science knowledge. Top companies need data science skills. Learn at your own pace, Where Free means Premium.
+Examined 2 million experiments for Ph.D., demonstrating research abilities. Built 25 technology projects showcasing programming skills using Python, C++, PHP, Visual Basic, and Flask. Ranked in the top 1% in Kaggle competitions (136/100k). Twice awarded Alexandria University awards for published research in reputable journals. Contributed to 70+ journal reviews for Elsevier. Taught over 3,500 students via online courses and conferences. Expert at extracting insights from data using Python, SQL, and Power BI.
 
-- [Tarteel ترتيل](https://tarteel.net)
-- [connecTED English](https://connectedenglish.net)
-- [MS Excel: step by step](https://zerobytes.one)
-- [DenMune: Density-based clustering](https://github.com/egy1st/denmune-clustering-algorithm)
-- [DenMune: Documentation](https://docs.egy1st.org)
-- [Counting in 13 Languages including Arabic, English & Chinese](https://number2text.com)
-- [SQL for Data Analytics: An interactive Project](https://deepnote.com/workspace/zerobytes-53a2-d17b46ba-00b7-41a6-bdcc-79d0ff9e1037/project/Introduction-to-SQL-82a421bb-fac8-45a1-8c6a-2a7fb7cd35c7/%2FREADME.ipynb)
-- [Ro2ya, A digital agency that care about your business success](https://ro2yaagency.com)
-- [Courseshub connects trainers of passion to teach with trainee of passion to learn](https://courseshubeg.com)
+## Experience
 
+**Head of Planning, Organizing, and Information** @ Egyptian Tax Authority _(Aug 2000–Present)_
 
-# ZeroBytes (by EGY1ST.org): Why, How, and for Whom
+- Revamped existing processes and developed a new management process, resulting in a 30% increase in team efficiency
+- Reviewed tens of thousands of accounts over career to spot trends, patterns, and insights in data. 
+- Identified impactful findings through data analysis and visualization, boosting overall revenue by 20%.
+- Presented analysis conclusions and recommendations clearly to leadership.
 
-`Why:` Obviously, there is a trade-off between gaining knowledge and the costly time and money to obtain these knowledge. I believe that knowledge should be available to learner in premium, but at no cost.
+**Computer Instructor** @ Egyptian Tax Authority _(Oct 2019-present)_
 
-`How`: When Free means Premium. When less means More. This is the most complex formula I try to master in ZeroBytes. It is just a start, The more to come next.
+- Designed training materials on Excel, Access, and IT for over 10,000 employees, demonstrating expertise in engaging adult learners.
+- Educated over 3,500 students worldwide via Udemy courses on Microsoft Excel, achieving a 4.5/5 average rating.
+- Delivered over 50 free educational sessions via Zoom and Udemy, reaching more than 5,000 learners on topics like MS Office, programming, and data analysis.
 
-`Whom`: My mission is to make the Arab world a better place to learn, gain knowledge and apply these knowledge to solve real-life problems that is result in leading a better life.
+## Education
 
+- **Ph.D. in Information Technology** @ Institute of Graduate Studies and Research, Alexandria
+   _(Seb 2015 – Feb 2022)_
 
-# All Projects are Open Source
-- **<u>Connected English</u>**
+- **MSc in Computer Science** @ Arab Academy for Science and Technology, Alexandria 
+  _(Seb 2008 – Feb 2012)_ 
 
-    > - **Description**: A new way to learn English using TED talks. This premium and innovative method offers many benefits to learners. They gain new knowledge from TED takes, learn new words and how they are connected in sentences, and choose which level to address.
-    > - **Demo Website**: [http://ted.zerobytes.one/](http://ted.zerobytes.one/)
-    > - **GitHub source code**: [https://github.com/egy1st/connected-english](https://github.com/egy1st/connected-english)
+- **MBA in Financial Management** @ Arab Academy for Banking and Financial Sciences, Alexandria
+   _(Aug 2009 – Mar 2011)_
 
-- **<u>Number2Words</u>**
+## Projects
+
+- **[DenMune](https://github.com/scikit-learn-contrib/denmune-clustering-algorithm) (Python, Scikit-learn)**: Novel clustering algorithm contribution to Scikit-learn-Contrib. 150000+ uses, twice awarded by Alexandria University.
+
+- **[Number2Words](https://rapidapi.com/egy1st/api/number2words4) (PHP)**: API that converts numbers to words in 13 languages, serving 500-1000 API calls daily.
+
+- **[Tarteel](http://tarteel.net) (Flask)**: Ayat Al-Quran Al-Kareem memorization web app.
+
+- **[ConnecTED English](https://github.com/egy1st/connected-english) (Flask)**: Innovative English learning web app using TED.
+
+## Awards & Honors
+
+- Alexandria University Research Award (2022) - Granted for exceeding 30 Scopus citations since 2021, €5,000 prize
+
+- Alexandria University Research Excellence Award (2021) - Granted for research published in Pattern Recognition journal, €15,000 prize 
+
+- IBM Data Science Professional Certificate (2020) - Earned 10 distinct badges demonstrating data science abilities
+
+## Skills
+
+- Excellence in: Microsoft Excel, Microsoft Power BI, Python, PostgreSQL, C++, Cloud Computing, Jupyter notebook
+
+- Knowledgeable in: Linux, JavaScript, PHP, Web development
+
+- Experience working with statistical models, data mining, segmentation, clustering.
+
+- Knowledge of visualization tools like Tableau, Power BI to present data insights
+
+- Expertise in gathering, cleaning and processing large, complex datasets
+
+- Data storytelling skills to present analyses in compelling ways
+
+## Volunteer Work
+
+**Recognized Reviewer** @ Elsevier Information Sciences Journal _(Jun 2019 – Present)_ 
+
+- Completed 36 reviews
+![INS Reviewer](https://raw.githubusercontent.com/egy1st/images/02d536bdd1c176cb49e1a7e1dad3c8025ef42315/certificates/Certificate_INS.jpg)
+
+**Recognized Reviewer** @ Elsevier Pattern Recognition Journal _(Mar 2016 – Present)_
+
+- Completed 28 reviews
+![PR Reviewer](https://raw.githubusercontent.com/egy1st/images/02d536bdd1c176cb49e1a7e1dad3c8025ef42315/certificates/Certificate_PR.jpg)
+
+## Certifications
+
+- Excel Skills for Business, Macquarie University & Coursera (Nov 2019) 
+
+- Data Science Professional, IBM & Coursera (Jan 2019)
+
+- TOT, National Training and Education, Professional Academy for Teachers, Egyptian Tax Authority, National Training and Education Council (Oct 2018)
+
+Here is an elegant stylish version with the profile links:
+
+## Profile
+
+### Academic & Research
+
+- [ORCID](https://orcid.org/0000-0003-0197-4299) - Researcher ID
+- [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=36871691600)
+- [ResearchGate](https://www.researchgate.net/profile/Mohamed-Abbas-20) 
+- [Web of Science](https://www.webofscience.com/wos/author/record/2054400) 
+- [Google Scholar](https://scholar.google.com/citations?user=b0ld6nwAAAAJ)
+- [Semantic Scholar](https://www.semanticscholar.org/author/Mohamed-Ali-Abbas/2057813530) 
+
+### Technical
+
+- [Github]( https://github.com/egy1st): Projects (I believe in Open Source)
+- [Credly](https://www.credly.com/users/mohamed-abbas.1f43f901/badges) - Accreditations & badges 
+- [Kaggle](https://www.kaggle.com/egyfirst) - Data science profile
+- [DataCamp](https://www.datacamp.com/profile/egy1st) - Data skills profile
+
   
-    - **Description**: Number2Words is an API that allows you to Convert any digits number to the equivalent words in 13 languages, for example
-    
-      `(8543.21 in digits) will be (eight thousand, five hundred and forty-three $ and twenty-one ¢ in words)`
-    
-    - **Demo Website**: [https://number2text/demo.html](https://number2text.com/demo.html)
-    
-    - **GitHub source code**: [https://github.com/egy1st/Number2Words](https://github.com/egy1st/Number2Words)
-  
-- **<u>DenMune Clustering Algorithm</u>**
-  
-    - **Description**: DenMune is a clustering algorithm that can find clusters of arbitrary size, shapes and densities in two-dimensions. Higher dimensions are first reduced to 2-D using the t-sne. The algorithm relies on a single parameter K (the number of nearest neighbors). The results show the superiority of the algorithm. 
-    
-    - **Demo Website**: [https://mybinder.org/v2/gh/egy1st/denmune-clustering-algorithm](https://mybinder.org/v2/gh/egy1st/denmune-clustering-algorithm)
-    
-    - **GitHub source code**: [https://github.com/egy1st/denmune-clustering-algorithm](https://github.com/egy1st/denmune-clustering-algorithm)
-    
-    **<u>Dynamic Components</u>**
-  
-    - **Description**: Dynamic Components (DC) are ActiveX components which can be used with any com-based application i.e. visual basic and C#. It is mainly developed to put integrating database with application into ease. It comes in 12 helpful components.
-    
-    - | DC Data Manager          | an enhanced class that handles all aspects required with a data form (including single form and master-details form. handles all the events required that you rarely need few lines of additional programming code. | [Docs](https://www.zerobytes.one/dc/data-manager/)          | [GitHub](https://github.com/egy1st/data-manager)          |
-      | ------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------- | --------------------------------------------------------- |
-      | DC Binding Recordset     | Few Lines to add in your Form_Load event and you will get full control over your form and all included (TextBox - Lables-Buttons-Grid-Recordset) and all related events (Leave-paint-Keypress-AfterColEdit-OnAddNew-Click-MouseEnter-MouseLeave-MouseDown-Enter) | [Docs](https://www.zerobytes.one/dc/binding-recordset/)     | [GitHub](https://github.com/egy1st/binding-recordset)     |
-      | DC Dynamic Report        | Generate themed dynamic report on the fly without any line of code. | [Docs](https://www.zerobytes.one/dc/dynamic-report/)        | [GitHub](https://github.com/egy1st/dynamic-report)        |
-      | DC Application Protector | protect Windows executable files against piracy. Using multi level encryption algorithms . Thanks to Nested Layers Protection (NLP), new protection technology we adapt in our protection system. | [Docs](https://www.zerobytes.one/dc/application-protector/) | [GitHub](https://github.com/egy1st/application-protector) |
-      | DC Image Button          | Assign different icon images for each button state on the fly without any line of code. | [Docs](https://www.zerobytes.one/dc/image-button/)          | [GitHub](https://github.com/egy1st/image-button)          |
-      | DC Help Authority        | put the finish touch to your application by adding sensitive help to every control in your form , any column in your grid when you press F12 key this will trigger your sensitive help for focused control or column | [Docs](https://www.zerobytes.one/dc/help-authority/)        | [GitHub](https://github.com/egy1st/help-authority)        |
-      | DC Form Translator       | If you develop multi language application or eastern language application. Only one Line to add in your Form_Load event and we will translate the form with all its labels for you. | [Docs](https://www.zerobytes.one/dc/form-translator/)       | [GitHub](https://github.com/egy1st/form-translator)       |
-       | DC Form Flipper          | If you develop multi language application or eastern language application. Only one Line to add in your Form_Load event and we will flip the form with all its controls for you additionally , you can define alignment (Right 2 Left or Left 2 right) | [Docs](https://www.zerobytes.one/dc/form-flipper/)          | [GitHub](https://github.com/egy1st/form-flipper)          |
-       | DC Data-Entry Validator  | Notify you with red forecolor when your entry is not proper , so there is some thing wrong with data entry in that Textbox. Also, format data by define decimal places for numeric entry , or define letter case for characters entry. | [Docs](https://www.zerobytes.one/dc/data-entry-validator/)  | [GitHub](https://github.com/egy1st/data-entry-validator)  |
-       | DC Return-key Enabled    | Only one line of code and you can move easily through your form controls without any additional programming code. | [Docs](https://www.zerobytes.one/dc/returnkey-enabled/)     | [GitHub](https://github.com/egy1st/returnkey-enabled)     |
-       | DC Num2Text              | Convert any digits number to the equivalent words in 13 languages. A .NET integrated library. | [Docs](https://www.zerobytes.one/dc/num2text/)              | [GitHub](https://github.com/egy1st/number2text)           |
+## Training 
+
+- [Udemy](https://www.udemy.com/user/mohammad-ali-abbas/) - Online courses
+
+**Certified Trainer:**
+
+- Egyptian Tax Authority
+- National Training and Education Council, PM/0120/12/18
+- National Education Network
+- Professional Academy for Teachers
+- [Oxford Academy](https://oxfordjo.com/members/egy1st/accreditation), Certified Associate Trainer, 31664001222020048CAT
+- [Formative](https://www.credential.net/faa22891-ae26-4111-ada4-72873d8ad4c4) - Certified educator 
 
   
 
-Please see the [projects license](license.md) for further details.
+## IBM Badges
+
+![Data Science Orientation](https://images.credly.com/size/110x110/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)![Python for Data Science and AI](https://images.credly.com/size/110x110/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png)![Tools for Data Science](https://images.credly.com/size/110x110/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png)![Data Science Methodology](https://images.credly.com/size/110x110/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png)
+
+![Databases and SQL for Data Science](https://images.credly.com/size/110x110/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png) ![Data Analysis with Python](https://images.credly.com/size/110x110/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png)![Machine Learning with Python](https://images.credly.com/size/110x110/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png)![Data Visualization with Python](https://images.credly.com/size/110x110/images/76326afb-199d-4250-a74f-01bc86dda118/Cognitive_Class_-_Data_Visual_w_Python.png)
+
+![Applied Data Science Capstone](https://images.credly.com/size/110x110/images/60f2e1e1-1b74-4dc0-a24b-cd08b460c12d/Applied_Data_Science_Capstone.png)![Data Science Professional Certificate](https://images.credly.com/size/110x110/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png) 
+
+![IBM Data Science](https://github.com/egy1st/images/blob/main/certificates/ibm_certificate_coursera.jpg?raw=true)
+
+## Academic Teaching
+Number of DS & IS topics could be taught. These topics include but are not
+limited to:
+
+- Algorithms (Sorting, Search, Encryption & Decryption, etc.)
+- Data Structure
+- Data Engineering
+- Data Analysis
+- Machine Learning & Pattern Recognition
+- Database Design
+- MS office, Power BI, SQL, Python, C++, Web Development
+- Programming Languages (C++, Python, JavaScript, VB, C#)
+- Object Oriented Programming
+- Data Visualization (Power BI, Tableau)
+- Complexity Theory
+- Discrete Mathematics
+- Problem-Solving
 
 
+##  Publications
 
+1. Abbas, M. A., El-Zoghabi, A., & Shoukry, A. (2023). pyMune: A Python package for complex clusters detection. *Software Impacts*, 100564. https://doi.org/10.1016/j.simpa.2023.100564
+
+1. M. Abbas, A. El-Zoghabi, A. Shoukry, DenMune: Density peak based clustering using mutual nearest neighbors, Pattern Recognition 109 (2021) 107589. doi:10.1016/j.patcog.2020.107589.
+
+1. M. Abbas, A. Shoukry, CMune: A clustering using mutual nearest neighbors algorithm, IEEE, 2012.
+doi:10.1109/ISSPA.2012.6310472.
+
+1. M. Abbas, A. Shoukry, Clustering using shared reference points algorithm based on a sound data model, International Journal of Data Engineering(IJDE), Volume 3, Issue (2012) 28–47.
+
+1. M. Abbas, R. Kashef,  A. Shoukry,  ICDM 2012. CSharp: A Clustering Using Shared Reference Points Algorithm, International Conference on Data Mining, Penang, Malaysia, World Academy of Science.
