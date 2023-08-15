@@ -13,7 +13,7 @@ nav:
         - All about me: /me/
         - About me: me/about.md
         - My CV: me/cv.md
-        - Reviewer Profile: me/reviewer.md
+        - Reviewer Profile: reviews/index.md
         - Contact me: me/contact.md
     - News: news.md   
     
