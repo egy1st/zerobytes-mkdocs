@@ -30,8 +30,6 @@ div {
 
 ## ابدا الكورس
 - [على منصة يودمى التعليمية](https://www.udemy.com/course/zerobytes-excel101)
-- [على سيرفر زيروبايتس](https://excel.zerobytes.one/)
-
 
 
 
