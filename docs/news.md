@@ -1,5 +1,11 @@
 ## Latest News
 
+## 2023
+
+**August,146<sup>th</sup> 2023**
+pyMune: A Python package for complex clusters detection pulished in Elsevier Software Impacts Journal
+
+
 ## 2022
 
 **June, 6<sup>th</sup> 2022**
@@ -51,22 +57,12 @@ An image worth thousand of words. That is it. Enjoy the speed.
 
 **Nov, 3<sup>rd</sup> 2021**
 
-[Zerobytes](https://serobytes.one) is served  now using all recent technologies using
+[EGY1ST](https://egy1st.org) is served  now using all recent technologies using
 
 - [Vercel](https://vercel.com/)
-- [Heroku](https://www.heroku.com/)
-- [Gatsby](https://www.gatsbyjs.com/)
-- [Svelte](https://svelte.dev/)
-- [Contentful](https://www.contentful.com/)
 - [Mkdocs](https://www.mkdocs.org/)
 - [PostgreSQL](https://www.postgresql.org/)
-- [Github](https://github.com/egy1st)
-- [CircleCI](https://circleci.com/)
-- [CodeCov](https://app.codecov.io/gh/egy1st/)
 - [Flask](https://palletsprojects.com/p/flask/)
-- [Google CoLab](https://colab.research.google.com/)
-- [Kaggle](https://www.kaggle.com/egyfirst)
-- [My Binder](https://mybinder.org/v2/gh/egy1st/denmune-clustering-algorithm/HEAD)
 - [Python](https://www.python.org/)
 
 __Other services that I use__
@@ -81,3 +77,10 @@ __Other services that I use__
 - [Form Spree](https://formspree.io/)
 - [Udemy](https://www.udemy.com/user/mohammad-ali-abbas/)
 - [Vimeo](https://vimeo.com/egy1st)
+- [CodeOcean](https://codeocean.com/)
+- [CodeCov](https://app.codecov.io/gh/egy1st/)
+- [Google CoLab](https://colab.research.google.com/)
+- [Kaggle](https://www.kaggle.com/egyfirst)
+- [My Binder](https://mybinder.org/v2/gh/egy1st/denmune-clustering-algorithm/HEAD)
+- [Github](https://github.com/egy1st)
+- [CircleCI](https://circleci.com/)
