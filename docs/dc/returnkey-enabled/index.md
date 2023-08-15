@@ -1,7 +1,6 @@
-## **DynamicComponents - ReturnKeyEnable**
+# DC ReturnKeyEnable
 
-Overview
----------
+## Overview
 
 DC.ReturnKeyEnable is a COM based component that enables you to navigate through form controls using the Return key as with the Tab key.
 
