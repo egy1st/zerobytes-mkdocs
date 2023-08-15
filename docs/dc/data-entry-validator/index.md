@@ -1,8 +1,6 @@
-DC DataEntry Validator
-=======================
+# DC DataEntry Validator
 
-Overview
----------
+## Overview
 
 DC.DataEntryValidator is a COM based component that allows you to validate your data entry and restrict it to predefined types (Numeric, Alphabetic, AlphaNumeric, Date, Decimal) or your own defined types.
 
