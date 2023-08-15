@@ -1,162 +1,163 @@
-﻿DC Help Authority
-====================
+# DC Help Authority
 
-Overview
----------
+## Overview
 
-DC.HelpAuthority is a COM based component that allows you to assign a sensitive help for every control in within your form or even every column in your grid 
+DC.HelpAuthority is a COM based component that allows you to assign sensitive help for every control within your form or even every column in your grid.
 
-DC.HelpAuthority may be used with any developing language support COM based application like Visual Basic,Visual C++,Borland C++,Delphi and others ..
+DC.HelpAuthority may be used with any developing language that supports COM based applications like Visual Basic, Visual C++, Borland C++, Delphi and others.
 
-EgyFirst has done a lot of work for you. now you can develop your application and make it comprehensive by supporting it with your sensitive help
+EgyFirst has done a lot of work for you. Now you can develop your application and make it comprehensive by supporting it with your sensitive help.
 
-## **Features**
-DC.HelpAuthority enables you to put the finish touch to your application by adding sensetive help to every control in your form , any column in your grid 
-when you press F12 key this will trigger your sensitive help for focused control or column
+## Features
+
+DC.HelpAuthority enables you to put the finishing touch on your application by adding sensitive help to every control in your form, any column in your grid. When you press the F12 key this will trigger your sensitive help for the focused control or column.
 
 **Example:**
 
+```vb
 Dim HA As New DynamicComponents.HelpAuthority()
 
-HA.[PrepareHelp](#chmtopic8)(CN, Me, Me.AxDataGrid1)
+HA.PrepareHelp(CN, Me, Me.AxDataGrid1) 
+```
 
-![](images/Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.002.png)
+![help authority](images/Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.002.png)
 
+## System Requirements
 
-## **System Requirements**
-DC.HelpAuthority runs as a COM class for Developing with Visual Basic.Net underMicrosoft Windows 98/NT/ 2000 or Windows XP. 
+DC.HelpAuthority runs as a COM class for Developing with Visual Basic.NET under Microsoft Windows 98/NT/2000 or Windows XP.
 
+## Installing DC.HelpAuthority 
 
-## **Installing DC.HelpAuthority**
-The DC.HelpAuthority setup program will automatically register theDC\_HelpAuthority10.dll file on your system. 
+The DC.HelpAuthority setup program will automatically register the DC_HelpAuthority10.dll file on your system.
 
-There is no need to manually run RegSvr32.exe on your development system. 
-## **Including DC.HelpAuthority**
+There is no need to manually run RegSvr32.exe on your development system.
 
-To include DC.HelpAuthorityin your project 
+## Including DC.HelpAuthority
 
-1. From Project menu select add reference 
-1. Push Browse button to locate your DC\_HelpAuthority10.DLL file which by default located in [c:\windows\system32](file:///c:/windows/system32) , now the specific DLL included in your references
+To include DC.HelpAuthority in your project:
 
-
-## **Deploying DC.HelpAuthority Applications** 
-
-There are two files need to be distributed withDC.HelpAuthority COM applications
-
-- DC\_HelpAuthority10.dll
-- DCHA10\_Lang.dll
-
-this files should be copied to the WinSystem directory which by default is C:\Windows\System32 
-## **PrepareHelp**
-
-Prepare form to know every thing about the form and its controls and all binding information 
-
-**syntax:**
-
-Function PrepareHelp(ByRef dm\_DSN As ADODB.Connection, ByRef dm\_Form As System.Windows.Forms.Form, Optional ByRef dm\_Grid As AxMSDataGridLib.AxDataGrid = Nothing)
-
-dm\_DSN is a reference to your DSN connection
-
-dm\_Form is a reference to your form which passed as 'Me' keyword
-
-Optional dm\_Grid (if your form has a grid) is a reference to your grid
+1. From Project menu select Add Reference.
+2. Click Browse button to locate your DC_HelpAuthority10.DLL file which by default is located in [c:\windows\system32](file:///c:/windows/system32). Now the specific DLL is included in your references.
 
 
-**Example:**
+## Deploying DC.HelpAuthority Applications
 
+There are two files that need to be distributed with DC.HelpAuthority COM applications:
+
+- DC_HelpAuthority10.dll
+- DCHA10_Lang.dll
+
+These files should be copied to the WinSystem directory which by default is C:\Windows\System32.
+
+## PrepareHelp
+
+Prepares the form to know everything about the form and its controls and all binding information.
+
+**Syntax:**
+
+```vb
+Function PrepareHelp(ByRef dm_DSN As ADODB.Connection, ByRef dm_Form As System.Windows.Forms.Form, Optional ByRef dm_Grid As AxMSDataGridLib.AxDataGrid = Nothing)
+```
+
+- dm_DSN is a reference to your DSN connection.  
+- dm_Form is a reference to your form which is passed as the 'Me' keyword.
+- Optional dm_Grid (if your form has a grid) is a reference to your grid.
+
+
+**Example:** 
+
+```vb
 Dim HA As New DynamicComponents.HelpAuthority()
 
 HA.PrepareHelp(CN, Me, Me.AxDataGrid1)
+```
 
-where CN  is a reference to your DSN connection
-and Me is a reference to your form which passed as 'Me' keyword
-and AxDataGrid1 (if your form has a grid) is a reference to your grid
-
-
-
-![](images/Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.002.png)
-## **Sensitive F12 Help**
-When you press F12 Key , this trigger a sensitive help ,this require
-
-1. Create a new table , name it "Help" and put it in your database 
-1. create 4 fields as specified
-
-|Name|Type|Length|
-| :- | :- | :- |
-|Tag|Text|50|
-|Id|Text|50|
-|Description|Text|50|
-|Contents|Memo||
-
-3. Fill Tag field with your [Form Tag](JavaScript:popup.TextPopup\(popuptxt1,popupfont1,9,9,-1,-1\))
-
-4. Fill Id Field with your control name 
-
-5. Fill Id Field with DataGrid name followed with underscore character "\_" , which will be something like this 
-
-"axDatagrid\_ProductId"
-
-6. Fill Description field with your control Description
-
-7. Fill Contents field with your supported help for this control
-
-**Note:**
-
-To change your form text put form name in both field tag and id
-
-![](images/Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.002.png)
+Where:
+- CN is a reference to your DSN connection.  
+- Me is a reference to your form which is passed as the 'Me' keyword.
+- AxDataGrid1 (if your form has a grid) is a reference to your grid.
 
 
-## **Configuration Utility**
+![help authority](images/Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.002.png)
 
-We supply you with Configuration Utility which enable you to assign your own language used with DC.HelpAuthority
+## Sensitive F12 Help
 
-![](images/Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.003.png)
+When you press the F12 Key, this triggers sensitive help. This requires:
+
+1. Create a new table, name it "Help" and put it in your database.
+2. Create 4 fields as specified:
+
+| Name | Type | Length |
+|-|-|-|  
+| Tag | Text | 50 |
+| Id | Text | 50 |
+| Description | Text | 50 |
+| Contents | Memo | |
+
+3. Fill Tag field with your [Form Tag](#form-tag). 
+
+4. Fill Id Field with your control name.
+
+5. Fill Id Field with DataGrid name followed with underscore "\_" character, which will be something like:
+   ```
+   axDatagrid_ProductId
+   ```
+
+6. Fill Description field with your control description. 
+
+7. Fill Contents field with your supported help for this control.
+
+**Note:** 
+
+To change your form text put form name in both Tag and Id fields.
+
+![help authority](images/Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.002.png)
 
 
+## Configuration Utility
 
+We supply a Configuration Utility which enables you to assign your own language used with DC.HelpAuthority.
+
+![config utility](images/Aspose.Words.ae3310bc-06aa-44b7-b32c-bb0578e2b47e.003.png)
 
 ## Tutorial
 
-This tutorial describe most of features supported by DC.HelpAuthority
+This tutorial describes most of the features supported by DC.HelpAuthority. 
 
-also you can refer to the project example which installed by default into C:\Program Files\Dynamic Components\Help Authority\Tutorial\
+You can also refer to the project example which is installed by default into C:\Program Files\Dynamic Components\Help Authority\Tutorial\.
 
-
-```
+```vb
 Dim HA As New DynamicComponents.HelpAuthority()
 
 Dim CN As New ADODB.Connection()
 
-Dim oOrders As New ADODB.Recordset()
+Dim oOrders As New ADODB.Recordset()  
 
 Dim oOrderDetails As New ADODB.Recordset()
 
-Dim oAccess As New Access.Application()
+Dim oAccess As New Access.Application()  
 
-Dim DAO\_DBEngine As New DAO.DBEngine()
+Dim DAO_DBEngine As New DAO.DBEngine()
 
-'Press F12 to get help to any control on your form
+'Press F12 to get help for any control on your form
 
+Private Sub TestForm_Load(ByVal eventSender As System.Object, ByVal eventArgs As System.EventArgs) Handles MyBase.Load
 
+  ' Establish DSN
+  
+  oAccess.DBEngine.RegisterDatabase("DCDM_Nwind", "Microsoft Access Driver (*.mdb)", True, "DBQ=" & VB6.GetPath & "\Nwind.mdb")
 
-Private Sub TestForm\_Load(ByVal eventSender As System.Object, ByVal eventArgs As System.EventArgs) Handles MyBase.Load
+  CN.Open("DSN=DCDM_NWind")
+  
+  oOrders.Open("Orders", CN, oOrders.CursorType.adOpenKeyset, oOrders.LockType.adLockOptimistic)
 
-'establish DSN
+  oOrderDetails.Open("OrderDetails", CN, oOrderDetails.CursorType.adOpenKeyset, oOrderDetails.LockType.adLockOptimistic)
 
-oAccess.DBEngine.RegisterDatabase("DCDM\_Nwind", "Microsoft Access Driver (\*.mdb)", True, "DBQ=" & VB6.GetPath & "\Nwind.mdb")
+  PopulateDate()
 
-CN.Open("DSN=DCDM\_NWind")
+  Me.AxDataGrid1.DataSource = oOrderDetails
 
-oOrders.Open("Orders", CN, oOrders.CursorType.adOpenKeyset, oOrders.LockType.adLockOptimistic)
-
-oOrderDetails.Open("OrderDetails", CN, oOrderDetails.CursorType.adOpenKeyset, oOrderDetails.LockType.adLockOptimistic)
-
-PopulateDate()
-
-Me.AxDataGrid1.DataSource = oOrderDetails
-
-HA.PrepareHelp(CN, Me, Me.AxDataGrid1)
+  HA.PrepareHelp(CN, Me, Me.AxDataGrid1)
 
 End Sub
 ```
