@@ -1,41 +1,41 @@
-﻿DC Data Manger
-=================
+# DC Data Manager
 
-Overview
----------
+## Overview
 
-DC.DataManger is a high-performance COM-based environments such as Visual Basic, Visual C++ , it is only 80 KB DLL , so enjoy speed performance.
+DC.DataManger is a high-performance COM-based environment such as Visual Basic, and Visual C++, It is only 80 KB DLL, so enjoy speed performance.
 
-DC.DataManger class has all the magic ,imaginary and incredible features you can find any where in the market.
+DC.DataManger class has all the magic, imaginary, and incredible features you can find anywhere in the market. 
 
 DC.DataManger is an enhanced class that handles all aspects required with a data form (including single form and master-details form).
 
-DC.DataManger class handles all the events required that you rarely need few lines of additional programming code.
+DC.DataManger class handles all the events required and you rarely need a few lines of additional programming code.
 
-DC.DataManger class is the best decision for software companieswhich needs programming on no time or companies depends on novice programmers . 
+DC.DataManger class is the best decision for software companies that need programming in no time or companies that depend on novice programmers.
 
-EgyFirst has done a lot of work for you. You define few methods and properties of DC.DataManger classand wedo the rest.
+EgyFirst has done a lot of work for you. You define a few methods and properties of DC.DataManger classand wedo the rest.
 
-# **Features**
-Few Lines to add in your Form\_Load event and you will get full control over your form and all included (TextBox - Lables-Buttons-Grid-Recordset) and all related events (Leave-paint-Keypress-AfterColEdit-OnAddNew-Click-MouseEnter-MouseLeave-MouseDown-Enter)
+## Features
 
-**You can:**
+Few Lines to add in your Form_Load event and you will get full control over your form and all included (TextBox - Lables-Buttons-Grid-Recordset) and all related events (Leave-paint-Keypress-AfterColEdit-OnAddNew-Click-MouseEnter-MouseLeave-MouseDown-Enter)
 
-- Navigate first ,previous , next and last 
-- Add new records ,edit it ,save it , or delete it 
-- Retrieve related names to your fields code 
-- Trigger sensitive DataHelp to select fromby pressing F1 
-- Trigger sensitive Help by pressing F12 
-- Validate your entry by restrict it to predefined type(Numeric-Alphabetic-AlphaNumeric-Date-Decimal) or to your defined characters 
-- Notify you with red forecolor if your entry is not proper 
-- Format data by define decimal places for numeric entry , or define letter case for charactes entry 
-- Change button image according to mouse movement or focus change 
-- Support MultiLanguage Application , by populate form labels with predefined translation automatically 
-- Support Eastern Language , we support right to left application by changing alignment to right and orientation by flip form horizontally 180 
-- Enable you navigate through controls with Return key as with tab key
+You can:
+
+- Navigate first ,previous, next, and last
+- Add new records,edit it , save it , or delete it
+- Retrieve related names to your field code
+- Trigger sensitive DataHelp to select from pressing F1
+- Trigger sensitive Help by pressing F12
+- Validate your entry by restricting it to a predefined type(Numeric-Alphabetic-AlphaNumeric-Date-Decimal) or to your defined characters
+- Notify you with red forecolor if your entry is not proper  
+- Format data by defining decimal places for numeric entry, or defining letter case for character entry
+- Change button image according to mouse movement or focus change
+- Support MultiLanguage Application , by populating form labels with predefined translation automatically
+- Support Eastern Language, we support right-left application by changing alignment to right and orientation by flipping form horizontally 180
+- Enable you to navigate through controls with the Return key as with the tab key
 
 **Example:**
 
+```
 dm.[InitForm](#chmtopic10)(CN, Me, oMaster, AxDataGrid1, oDetails)
 
 dm.[PrepareImageButtons](#chmtopic33)(aImage, "C:\DataManage\Icons\", False)
@@ -44,7 +44,7 @@ dm.[NavigationButtons](#chmtopic34)("FirstButton", "PrevButton", "NextButton", "
 
 dm.[ManageButtons](#chmtopic35)("OkButton", "NewButton", "DeleteButton", "ExitButton", "SearchButton")
 
-dm.[KeyFields](#chmtopic11)("OrderId")
+dm.[KeyFields](#chmtopic11)("OrderId") 
 
 dm.[SetLink](#chmtopic13)("OrderId", "OrderId")
 
@@ -54,194 +54,182 @@ dm.[AddGridRelatedValue](#chmtopic15)("Products", "ProductID", "ProductID", "Pro
 
 dm.[KeyLeaveField](#chmtopic12)(oMaster, "OrderId", 5)
 
-dm.[RequiredFields](#chmtopic27)("OrderId+OrderDate+CustomerId")
+dm.[RequiredFields](#chmtopic27)("OrderId+OrderDate+CustomerId") 
 
 dm.[NumericFields](#chmtopic20)("CustomerID", "OrderId", "ShipVia")
 
 dm.[DateFields](#chmtopic23)("OrderDate")
 
 dm.[PopulateForm](#chmtopic19)(Me, oMaster, AxDataGrid1, oDetails)
+```
 
-after this few lines you will get full automated controling on your form without any additional code to write , it is incredible !
-
-
-# **Convention**
-
-There are Two Rules you must know about DC.DataManger
-
-1. Textbox Controls which located in your data form must have the same names as their Fields names in related table and Columns Controls which involved in your datagrid must have the same names as their Fields names in related table for details
-1. Textbox Controls which located in your data form and not have related Field in related table must begin with "x" or "X" character , you can not name related Textbox Control with "X" or "x" prefix
+after these few lines, you will get full automated control on your form without any additional code to write, it is incredible!
 
 
+## Convention
+
+There are two Rules you must know about DC.DataManger
+
+1. Textbox Controls which are located in your data form must have the same names as their field names in the related table and Columns Controls which are involved in your datagrid must have the same names as their field names in the related table for details
+2. Textbox Controls located in your data form and not have related Fields in the related table must begin with "x" or "X" character, you can not name related Textbox Controls with "X" or "x" prefix
+
+## System Requirements
+
+DC.DataMangerruns as a COM class for Developing with Visual Basic.Net under Microsoft Windows 98/NT/ 2000 or Windows XP.
+
+## Installing DC.DataManger
+
+The DC.DataManger setup program will automatically register theDC_DataManger10.dll file on your system.
+
+There is no need to manually run RegSvr32.exe on your development system.
+
+## Including DC.DataManger 
+
+To include DC.DataManger in your project:
+
+1. From the Project menu select Add a reference
+2. Push Browse button to locate your DC_DataManger10.DLL file which by default located in [c:\windows\system32](file:///c:/windows/system32) , now the specific DLL included in your references 
+3. Be sure that Microsoft DataGrid Control Version 6.0 (OLEDB) is included in your Toolbox, if not then right-click Toolbox
+4. From the shortcut menu select Customize Toolbox 
+5. From customize Toolbox Dialog, scroll down and check Microsoft DataGrid Control Version 6.0 (OLEDB)
 
 
-# **System Requirements**
-DC.DataMangerruns as a COM class for Developing with Visual Basic.Net underMicrosoft Windows 98/NT/ 2000 or Windows XP. 
-# **Installing DC.DataManger**
-The DC.DataManger setup program will automatically register theDC\_DataManger10.dll file on your system. 
+## Deploying DC.DataManger Applications
 
-There is no need to manually run RegSvr32.exe on your development system. 
-# **Including DC.DataManger**
+The only file needs to be distributed with DC.DatManger COM applications is DC_DataManger10.dll. This file should be copied to the WinSystem directory which by default is C:\Windows\System32
 
-To include DC.DataManger in your project 
+**Note:** If you deploy a translated application with your local language, you must deploy DCDM10_Lang.dll which located in your system directory which is by default [C:\Windows\System32](file:///C:/Windows/System32/), and place it in end-user system directory
 
-1. From Project menu select add reference 
-1. Push Browse button to locate your DC\_DataManger10.DLL file which by default located in [c:\windows\system32](file:///c:/windows/system32) , now the specific DLL included in your references
-1. Be sure that Micorsoft DataGrid Control Vresion 6.0 (OLEDB) is included in your Toolbox , if not then right click Toolbox 
-1. From shortcut menu select customize Toolbox
-1. From customize Toolbox Dialog ,scroll down and check Micorsoft DataGrid Control Version 6.0 (OLEDB)
+## How to Create a DSN
 
+1. Open Windows’ ODBC Data Source Administrator as follows:
 
-# **Deploying DC.DataManger Applications**
-The only file needs to be distributed withDC.DatManger COM applications is DC\_DataManger10.dll
+   In Windows 95, 98, or NT, choose Start > Settings > Control Panel, then double-click the ODBC Data Sources icon. Depending on your system, the icon could also be called ODBC or 32bit ODBC.
 
-this file should be copied to the WinSystem directory which by default is C:\Windows\System32 
+   In Windows 2000, choose Start > Settings > Control Panel > Administrative Tools > DataSources.
 
-**Note :** 
-
-If you deploy a translated application with your local language , you must deploy DCDM10\_Lang.dll which located in your system directory which is by default [C:\Windows\System32\](file:///C:/Windows/System32/) and place it in end user system directory
-## **How to Create a DSN** 
-
-1- Open Windows’ ODBC Data Source Administrator as follows:
-In Windows 95, 98, or NT, choose Start > Settings > Control Panel, then double-click the ODBC Data 
-Sources icon. Depending on your system, the icon could also be called ODBC or32bit ODBC.
-in Windows 2000, choose Start > Settings > Control Panel > Administrative Tools > DataSources.
-In Windows XP, choose Start > Control Panel > Performance and Maintenance > Administrative Tools > 
-Data Sources (ODBC).
+   In Windows XP, choose Start > Control Panel > Performance and Maintenance > Administrative Tools > Data Sources (ODBC).
 
 
-2- Click the SystemDSNtab.
-The tab displays the list of DSNs currently on your system. 
+2. Click the SystemDSNtab. The tab displays the list of DSNs currently on your system.
 
-3- Click Add to add a new DSN to the list.
-The Create New Data Source dialog box appears, listing all the drivers currently loaded on your system. 
+3. Click Add to add a new DSN to the list. The Create New Data Source dialog box appears, listing all the drivers currently loaded on your system.
 
-4- Select a driver from the list, then click Finish
+4. Select a driver from the list, then click Finish
 
-**Example:**
+   **Example:** If your database is a Microsoft Access file, select Microsoft Access Driver (\*.mdb). If a driver for your product does not appear in the list, you’ll have to download the driver from a vendor’s website and install it.
 
-If your database is a Microsoft Access file, select Microsoft Access Driver (\*.mdb). If a driver for your product does not appear in the list, you’llhave to download the driver from a vendor’s website and install it. 
+   In the dialog box that appears, enter a name for the DSN and specify the connection parameters. The dialog boxes for specifying parameters differ depending on the driver you selected. For the Microsoft Access Driver, you enter a name, click Select, locate the database file on the hard disk, and click OK.
 
-In the dialog box that appears, enter a name for the DSN and specify the connection parameters.
+5. Click OK to close the dialog box. The new DSN is added to your list of system DSNs.
 
-The dialog boxes for specifying parameters differ depending on the driver you selected. For the Microsoft Access Driver, you enter a name, click Select, locate the database file on the hard disk, and click OK. 
+## InitForm
 
-Click OK to close the dialog box.
+Prepare the form to know everything about the form its controls and all binding data. so it must be the first assignment in your code. an error may occurs if you do not
 
-The new DSN is added to your list of system DSNs. 
+**Syntax:**
 
+```
+Function InitForm(ByRef dm_DSN As ADODB.Connection, ByRef dm_Form As System.Windows.Forms.Form, ByRef dm_MasterTable As ADODB.Recordset, Optional ByRef dm_Grid As AxMSDataGridLib.AxDataGrid = Nothing, Optional ByRef dm_DetailTable As ADODB.Recordset = Nothing)
+```
 
-# **InitForm**
-# 
-Prepare form to know every thing about the form and its controls and all binding data . so it must be the first assignment in your code . an errors may occurs if you do not
-# **syntax:**
-Function InitForm(ByRef dm\_DSN As ADODB.Connection, ByRef dm\_Form As System.Windows.Forms.Form, ByRef dm\_MasterTable As ADODB.Recordset, Optional ByRef dm\_Grid As AxMSDataGridLib.AxDataGrid = Nothing, Optional ByRef dm\_DetailTable As ADODB.Recordset = Nothing)
-
-dm\_DSN is a reference to your DSN connection
-
-dm\_Form is a reference to your form which passed as 'Me' keyword
-
-dm\_MasterTable is a reference to your Master Recordset
-
-Optional dm\_Grid (if your form has a grid) is a reference to your grid
-
-Optional dm\_DetailTable (if your form has a grid) is a reference to your Details Recordset
+- `dm_DSN` is a reference to your DSN connection
+- `dm_Form` is a reference to your form which passed as the 'Me' keyword
+- `dm_MasterTable` is a reference to your Master Recordset  
+- Optional `dm_Grid` (if your form has a grid) is a reference to your grid
+- Optional `dm_DetailTable` (if your form has a grid) is a reference to your Details Recordset
 
 **Example:**
 
-Dim oMaster As New ADODB.Recordset()
+```
+Dim oMaster As New ADODB.Recordset()  
 
 Dim oDetails As New ADODB.Recordset()
 
 Dim DM As New DataManger()
 
-Private Sub TestForm\_Load(ByVal eventSender As System.Object, ByVal eventArgs As System.EventArgs) Handles MyBase.Load
+Private Sub TestForm_Load(ByVal eventSender As System.Object, ByVal eventArgs As System.EventArgs) Handles MyBase.Load
 
-CN.Open("DSN=NorthWind")
+  CN.Open("DSN=NorthWind")
+  
+  oMaster.Open("Orders", CN, oMaster.CursorType.adOpenKeyset, oMaster.LockType.adLockOptimistic)
+  
+  oDetails.Open("OrderDetails", CN, oDetails.CursorType.adOpenKeyset, oDetails.LockType.adLockOptimistic)
 
-oMaster.Open("Orders", CN, oMaster.CursorType.adOpenKeyset, oMaster.LockType.adLockOptimistic)
-
-oDetails.Open("OrderDetails", CN, oDetails.CursorType.adOpenKeyset, oDetails.LockType.adLockOptimistic)
-
-DM.InitForm(CN, Me, oMaster, AxDataGrid1, oDetails)
-
+  DM.InitForm(CN, Me, oMaster, AxDataGrid1, oDetails)
+  
 End Sub
-# **KeyFields**
-# 
-it assigns the fields in your Recordset which not allowed to duplicate
+```
 
-**Syntax:**
+## KeyFields
 
-Function KeyFields(ByVal str\_KeyFields As String)
+It assigns the fields in your Recordset which not allowed to duplicate
 
-**Note:**
+**Syntax:** 
 
-multi fields can concatenated by plus sign '+'
-
-**Example:**
-
-DM.KeyFields("Flag+OrderId")
-# **KeyLeaveField**
-
-it assigns the fields in your Recordset which will retieve new data when focus chang away from it
-
-**Syntax:**
-
-Function KeyLeaveField(ByRef dm\_MasterTable As ADODB.Recordset, ByVal str\_KeyLeaveField As String, Optional ByVal n\_ZeroPad As Byte = 0)
-
-![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
+`Function KeyFields(ByVal str_KeyFields As String)`
 
 **Note:**
 
-n\_ZeroPad parameter padding data with "0" character
-
-this mean that '34' with n\_ZeroPad is 4 will be '0034' 
-
-this is useful for indexing and searching purposes if you want , remember that is an optional parameter
+multi fields can concatenated by the plus sign '+'
 
 **Example:**
 
-DM.KeyLeaveField(oMaster, "OrderId", 5)
-# **SetLink**
+`DM.KeyFields("Flag+OrderId")`
+
+## KeyLeaveField
+
+It assigns the fields in your Recordset which will receive new data when the focus changes away from it
+
+**Syntax:**
+
+`Function KeyLeaveField(ByRef dm_MasterTable As ADODB.Recordset, ByVal str_KeyLeaveField As String, Optional ByVal n_ZeroPad As Byte = 0)`
+
+**Note:** 
+
+`n_ZeroPad` parameter padding data with "0" character. This means that '34' with `n_ZeroPad` is 4 will be '0034'. This is useful for indexing and searching purposes if you want, remember that is an optional parameter
+
+**Example:** 
+
+`DM.KeyLeaveField(oMaster, "OrderId", 5)`
+
+## SetLink
+
 It assigns the fields in your Master Recordset which are linked to related fields inDetails Recordset
 
 **Syntax:**
 
-Function Sub SetLink(ByVal str\_MasterFields As String, ByVal str\_DetailFields As String)
+`Function Sub SetLink(ByVal str_MasterFields As String, ByVal str_DetailFields As String)`
 
-**Note:**
+**Note:** 
 
-**multi fields can concatenated by plus sign '+'**
+multi fields can concatenated by the plus sign '+'
 
 **Example:**
 
-DM.SetLink("Flag+OrderId", "Flag+OrderId")
+`DM.SetLink("Flag+OrderId", "Flag+OrderId")`
 
+## AddRelatedValue
 
-# **AddRelatedValue**
-Retrieve the related value to your field code 
-
-assume you save Cust\_Code in your master recordset 
-
-when you retrieve data you also want to get Cust\_Name form Customers table . AddRelatedValue Function do that for you easily
-
-![](images/Aspose.Words.fb769b29-ee01-46e2-9d7b-c0f6031e42e7.002.png)
+Retrieve the related value to your field code. Assume you save Cust_Code in your master recordset. When you retrieve data you also want to get Cust_Name from the Customers table. AddRelatedValue Function does that for you easily.
 
 **Syntax:**
 
-Function AddRelatedValue(ByRef str\_Table As String, ByVal str\_Key As String, ByVal str\_Control As String, ByVal str\_RetValue As String, ByVal str\_RetControl As String, Optional ByVal n\_ZeroPad As Byte = 0)
+```
+Function AddRelatedValue(ByRef str_Table As String, ByVal str_Key As String, ByVal str_Control As String, ByVal str_RetValue As String, ByVal str_RetControl As String, Optional ByVal n_ZeroPad As Byte = 0) 
+```
 
-**Note:**
+**Note:** 
 
-n\_ZeroPad parameter padding data with "0" character
+`n_ZeroPad` parameter padding data with "0" character. This means that '34' with `n_ZeroPad` is 4 will be '0034'. This is useful for indexing and searching purposes if you want, remember that is an optional parameter
 
-this mean that '34' with n\_ZeroPad is 4 will be '0034' 
 
-this is useful for indexing and searching purposes if you want , remember that is an optional parameter
+**Example:** 
 
-**Example:**
+`DM.AddRelatedValue("Customers", "CustomerID", "CustomerID", "CustomerName", "xCustomerName", 3)`
 
-DM.AddRelatedValue("Customers", "CustomerID", "CustomerID", "CustomerName", "xCustomerName", 3)
+
+
 
 
 
