@@ -532,11 +532,11 @@ Where `aImage` is your array holding icons. The third parameter indicates that y
 
 # NavigationButtons
 
-Assign Navigation Buttons names so that DC DataManger do all required with it
+Assign Navigation Buttons names so that DC DataManger does all required with it
 
 **Note:** 
 
-Navigation Buttons are Buttons which enable you navigate through recordset by moving it first , previous . next and last.
+Navigation Buttons are Buttons that enable you to navigate through recordset by moving it first, previous. next and last.
 
 **Syntax:**
 
@@ -554,7 +554,7 @@ Assign Manipulation Buttons names so that DC DataManger do all required with it
 
 **Note:**
 
-Manipulation Buttons are Buttons which enable you add , edit , save or delete records in your recordset.
+Manipulation Buttons are Buttons that enable you to add, edit, save, or delete records in your recordset.
 
 **Syntax:**
 
@@ -568,21 +568,21 @@ Function ManipulationButtons(ByVal dm_Save As String, ByVal dm_New As String, By
 
 # Sensitive F1 DataHelp
 
-When you [AddRelatedValue](#chmtopic14)and your focus is located in the control defined in str_Control (which is control came)parameter you get 2 magic advantages.
+When you [AddRelatedValue](#chmtopic14)and your focus is located in the control defined in the str_Control (which is the control name) parameter you get 2 magic advantages.
 
-1. When you leave from this control you will retrieve respected value related to this control value
-2. When you press F1 Key this will trigger DataHelp Browser filled with the table defined in str_Table parameter , you can select any row by double click it , this will close DataHelp Browser and assigned the data selected to the control defined in str_RetControl parameter
+1. When you leave this control you will retrieve respected value related to this control value
+2. When you press the F1 Key this will trigger the DataHelp Browser filled with the table defined in the str_Table parameter, You can select any row by double-clicking it , this will close the DataHelp Browser and assign the data selected to the control defined in the str_RetControl parameter
 
-When you [AddGridRelatedValue](#chmtopic15)and your focus is located in the column defined in str_Column (which is Column name)parameter you get 2 magic advantages.
+When you [AddGridRelatedValue](#chmtopic15)and your focus is located in the column defined in str_Column (which is the Column name)parameter you get 2 magic advantages.
 
-1. When you leave from this control you will retrieve respected value related to this control value  
-2. When you press F1 Key this will trigger DataHelp Browser filled with the table defined in str_Table parameter , you can select any row by double click it , this will close DataHelp Browser and assigned the data selected to the column defined in str_GridRetColumn parameter
+1. When you leave this control you will retrieve respected value related to this control value  
+2. When you press the F1 Key this will trigger the DataHelp Browser filled with the table defined in the str_Table parameter, you can select any row by double-clicking it , this will close the DataHelp Browser and assign the data selected to the column defined in the str_GridRetColumn parameter
 
 # Sensitive F12 Help
 
-When you press F12 Key , this trigger a sensitive help ,this require:
+When you press F12 Key, this triggers a sensitive help,this requires:
 
-1. Create a new table , name it "Help" and put it in your database
+1. Create a new table, name it "Help" and put it in your database
 2. create 4 fields as specified:
 
 | Name | Type | Length |
@@ -594,9 +594,9 @@ When you press F12 Key , this trigger a sensitive help ,this require:
 
 3. Fill Tag field with your [Form Tag](JavaScript:popup.TextPopup\(popuptxt1,popupfont1,9,9,-1,-1\)) 
 
-4. Fill Id Field with your control name
+4. Fill the Id Field with your control name
 
-5. Fill Id Field with DataGrid name followed with underscore character "_" , which will be something like this:
+5. Fill the Id Field with the DataGrid name followed by the underscore character "_", which will be something like this:
 
 `"axDatagrid_ProductId"`
 
@@ -604,13 +604,13 @@ When you press F12 Key , this trigger a sensitive help ,this require:
 
 7. Fill Contents field with your supported help for this control
 
-**Note:** To change your form text put form name in both field tag and id
+**Note:** To change your form text put the form name in both the field tag and id
 
 # TranslateForm
 
-We support Multi Language Applications , you can use same application with different languages. All you need is:
+We support Multi-Language Applications, you can use the same application with different languages. All you need is:
 
-1. Create a new table , name it "Multilanguage" and put it in your database
+1. Create a new table, name it "Multilanguage" and put it in your database
 2. create 4 fields as specified:
 
 |Name|Type|Length|  
@@ -622,13 +622,13 @@ We support Multi Language Applications , you can use same application with diffe
 
 3. Fill Tag field with your Form Name 
 
-4. Fill Id Field with your Label name
+4. Fill the Id Field with your Label name
 
 5. Fill Language1 field with your first language translation  
 
-6. Fill Language2 field with your second language translation and so on , you can add many languages as you like , no limitation !
+6. Fill the Language2 field with your second language translation and so on, you can add as many languages as you like, no limitation!
 
-**Note:** to change form text put form name in both field tag and id
+**Note:** To change form text put form name in both field tag and id
 
 **Syntax:** 
 
@@ -638,11 +638,11 @@ We support Multi Language Applications , you can use same application with diffe
 
 `DM.TranslateForm(Me, 3)`
 
-This will populate your form text and all its labels with your translation in field "Languge3" in table "Multilanguage"
+This will populate your form text and all its labels with your translation in the field "Languge3" in the table "Multilanguage"
 
 # FlipForm
 
-We support eastern languages Arabic , Chinese and so on. So we support right to left alignment and orientation , we rotate form horizontally 180
+We support Eastern languages Arabic, Chinese, and so on. So we support right to left alignment and orientation, we rotate form horizontally 180
 
 **Syntax:**
 
@@ -658,11 +658,11 @@ DM.TranslateForm(Me, 2)
 DM.Rifgt2Left(True)
 ```
 
-This will load Arabic language which located in field language2 and flip form horizontally and align text right to left.
+This will load the Arabic language which is located in field language 2, and flip the form horizontally and align text from right to left.
 
 # Right2Left
 
-We support eastern languages so we align all your text right if you want.
+We support Eastern languages so we align all your text right if you want.
 
 **Syntax:** 
 
@@ -674,7 +674,7 @@ We support eastern languages so we align all your text right if you want.
 
 # EnableReturnKey
 
-Enable you navigate through controls with Return key as with tab key.
+Enable you to navigate through controls with the Return key as with the tab key.
 
 **Syntax:**
 
@@ -686,11 +686,11 @@ Enable you navigate through controls with Return key as with tab key.
 
 # Configuration Utility 
 
-We supply you with Configuration Utility which enable you to assign your own language used with DC.DataManger
+We supply you with Configuration Utility which enables you to assign your own language used with DC.DataManger
 
 # Tutorial
 
-This tutorial describe most of features supported by DC.DataManger. Also you can refer to the project example which installed by default into C:\Program Files\Dynamic Components\Data Manger\Tutorial\
+This tutorial describes most of the features supported by DC.DataManger. Also, you can refer to the project example which is installed by default into C:\Program Files\Dynamic Components\Data Manger\Tutorial\
 
 ```vb
 Dim DM As New DynamicComponents.DataManger()
@@ -817,13 +817,3 @@ Private Sub PopulateaImage()
   
 End Sub
 ```
-
-
-
-
-
-
-
-
-
-
