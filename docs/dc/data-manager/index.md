@@ -530,7 +530,293 @@ DM.PrepareImageButtons(aImage, "C:\MyApp\Icons\", True)
 Where `aImage` is your array holding icons. The third parameter indicates that you wish to show motion with each button.
 
 
+# NavigationButtons
 
+Assign Navigation Buttons names so that DC DataManger do all required with it
+
+**Note:** 
+
+Navigation Buttons are Buttons which enable you navigate through recordset by moving it first , previous . next and last.
+
+**Syntax:**
+
+```
+Public Sub NavigationButtons(ByVal dm_First As String, ByVal dm_Previous As String, ByVal dm_Next As String, ByVal dm_Last As String)
+```
+
+**Example:**
+
+`DM.NavigationButtons("FirstButton", "PrevButton", "NextButton", "LastButton")`
+
+# ManipulationButtons
+
+Assign Manipulation Buttons names so that DC DataManger do all required with it
+
+**Note:**
+
+Manipulation Buttons are Buttons which enable you add , edit , save or delete records in your recordset.
+
+**Syntax:**
+
+```
+Function ManipulationButtons(ByVal dm_Save As String, ByVal dm_New As String, ByVal dm_Delete As String, ByVal dm_Close As String, Optional ByVal dm_Search As String = Nothing)
+```
+
+**Example:** 
+
+`DM.ManipulationButtons("OkButton", "NewButton", "DeleteButton", "ExitButton", "SearchButton")`
+
+# Sensitive F1 DataHelp
+
+When you [AddRelatedValue](#chmtopic14)and your focus is located in the control defined in str_Control (which is control came)parameter you get 2 magic advantages.
+
+1. When you leave from this control you will retrieve respected value related to this control value
+2. When you press F1 Key this will trigger DataHelp Browser filled with the table defined in str_Table parameter , you can select any row by double click it , this will close DataHelp Browser and assigned the data selected to the control defined in str_RetControl parameter
+
+When you [AddGridRelatedValue](#chmtopic15)and your focus is located in the column defined in str_Column (which is Column name)parameter you get 2 magic advantages.
+
+1. When you leave from this control you will retrieve respected value related to this control value  
+2. When you press F1 Key this will trigger DataHelp Browser filled with the table defined in str_Table parameter , you can select any row by double click it , this will close DataHelp Browser and assigned the data selected to the column defined in str_GridRetColumn parameter
+
+# Sensitive F12 Help
+
+When you press F12 Key , this trigger a sensitive help ,this require:
+
+1. Create a new table , name it "Help" and put it in your database
+2. create 4 fields as specified:
+
+| Name | Type | Length |
+|-|-|-|  
+| Tag | Text | 50 |
+| Id | Text | 50 |
+| Description | Text | 50 |
+| Contents | Memo | |
+
+3. Fill Tag field with your [Form Tag](JavaScript:popup.TextPopup\(popuptxt1,popupfont1,9,9,-1,-1\)) 
+
+4. Fill Id Field with your control name
+
+5. Fill Id Field with DataGrid name followed with underscore character "_" , which will be something like this:
+
+`"axDatagrid_ProductId"`
+
+6. Fill Description field with your control Description  
+
+7. Fill Contents field with your supported help for this control
+
+**Note:** To change your form text put form name in both field tag and id
+
+# TranslateForm
+
+We support Multi Language Applications , you can use same application with different languages. All you need is:
+
+1. Create a new table , name it "Multilanguage" and put it in your database
+2. create 4 fields as specified:
+
+|Name|Type|Length|  
+|-|-|-|
+|Tag|Text|50|
+|Id|Text|50|  
+|Language1|Text|50|
+|Language2|Text|50|
+
+3. Fill Tag field with your Form Name 
+
+4. Fill Id Field with your Label name
+
+5. Fill Language1 field with your first language translation  
+
+6. Fill Language2 field with your second language translation and so on , you can add many languages as you like , no limitation !
+
+**Note:** to change form text put form name in both field tag and id
+
+**Syntax:** 
+
+`Function TranslateForm(ByRef dm_Form As System.Windows.Forms.Form, ByVal dm_Language As Byte)`
+
+**Example:** 
+
+`DM.TranslateForm(Me, 3)`
+
+This will populate your form text and all its labels with your translation in field "Languge3" in table "Multilanguage"
+
+# FlipForm
+
+We support eastern languages Arabic , Chinese and so on. So we support right to left alignment and orientation , we rotate form horizontally 180
+
+**Syntax:**
+
+`Function FlipForm(ByRef dm_Form As System.Windows.Forms.Form)`
+
+**Example:**
+
+```
+DM.FlipForm(Me) 
+
+DM.TranslateForm(Me, 2)
+
+DM.Rifgt2Left(True)
+```
+
+This will load Arabic language which located in field language2 and flip form horizontally and align text right to left.
+
+# Right2Left
+
+We support eastern languages so we align all your text right if you want.
+
+**Syntax:** 
+
+`Function Right2Left(ByVal Mode As Boolean)`
+
+**Example:** 
+
+`DM.Right2Left(True)`
+
+# EnableReturnKey
+
+Enable you navigate through controls with Return key as with tab key.
+
+**Syntax:**
+
+`Function EnableReturnKey(ByVal Mode As Boolean)`
+
+**Example:**
+
+`DM.EnableReturnKey(True)`
+
+# Configuration Utility 
+
+We supply you with Configuration Utility which enable you to assign your own language used with DC.DataManger
+
+# Tutorial
+
+This tutorial describe most of features supported by DC.DataManger. Also you can refer to the project example which installed by default into C:\Program Files\Dynamic Components\Data Manger\Tutorial\
+
+```vb
+Dim DM As New DynamicComponents.DataManger()
+
+Dim aImage(26) As String  
+
+Dim CN As New ADODB.Connection()
+
+Dim oMaster As New ADODB.Recordset()
+
+Dim oDetails As New ADODB.Recordset()
+
+
+
+Private Sub TestForm_Load(ByVal eventSender As System.Object, ByVal eventArgs As System.EventArgs) Handles MyBase.Load
+
+  PopulateaImage()
+  
+  CN.Open("DSN=Me")
+  
+  oMaster.Open("Orders", CN, oMaster.CursorType.adOpenKeyset, oMaster.LockType.adLockOptimistic)
+  
+  oDetails.Open("OrderDetails", CN, oDetails.CursorType.adOpenKeyset, oDetails.LockType.adLockOptimistic)
+
+  DM.InitForm(CN, Me, oMaster, AxDataGrid1, oDetails)
+
+  DM.PrepareImageButtons(aImage, "F:\DataManage-ADO\icons\", False)
+
+  DM.NavigationButtons("FirstButton", "PrevButton", "NextButton", "LastButton")
+
+  DM.ManipulationButtons("OkButton", "NewButton", "DeleteButton", "ExitButton", "SearchButton")
+
+  DM.KeyFields("OrderId")
+
+  DM.SetLink("OrderId", "OrderId")
+
+  AxDataGrid1.DataSource = oDetails
+
+  DM.AddRelatedValue("Customers", "CustomerID", "CustomerID", "CustomerName", "xCustomerName", 3)
+
+  DM.AddRelatedValue("Shippers", "ShipperId", "ShipVia", "CompanyName", "xCompanyName", 2)
+
+  DM.AddGridRelatedValue("Products", "ProductID", "ProductID", "ProductName", "ProductName", 2)
+
+  DM.KeyLeaveField(oMaster, "OrderId", 5)
+
+  DM.RequiredFields("OrderId+OrderDate+CustomerId")
+
+  DM.NumericFields("CustomerID", "OrderId", "ShipVia")
+
+  DM.DecimalFields("Freight")
+
+  DM.DateFields("OrderDate")
+
+  DM.DecimalPlaces(2)
+
+  DM.EnableReturnKey(True)
+
+  DM.Right2Left(True)
+
+  DM.FlipForm(Me)
+
+  DM.TranslateForm(Me, 1)
+
+  DM.PopulateForm(Me, oMaster, AxDataGrid1, oDetails)
+  
+End Sub
+
+Private Sub PopulateaImage()
+
+  aImage(0) = "First.ico"
+  
+  aImage(1) = "FirstOver.ico"
+  
+  aImage(2) = "FirstDown.ico"
+  
+  aImage(3) = "Previous.ico"
+  
+  aImage(4) = "PreviousOver.ico"
+  
+  aImage(5) = "PreviousDown.ico"
+  
+  aImage(6) = "Next.ico"
+  
+  aImage(7) = "NextOver.ico"
+  
+  aImage(8) = "NextDown.ico"
+  
+  aImage(9) = "Last.ico"
+  
+  aImage(10) = "LastOver.ico"
+  
+  aImage(11) = "LastDown.ico"
+  
+  aImage(12) = "Ok.ico"
+  
+  aImage(13) = "OkOver.ico"
+  
+  aImage(14) = "OkDown.ico"
+  
+  aImage(15) = "New.ico"
+  
+  aImage(16) = "NewOver.ico"
+  
+  aImage(17) = "NewDown.ico"
+  
+  aImage(18) = "Delete.ico"
+  
+  aImage(19) = "DeleteOver.ico"
+  
+  aImage(20) = "DeleteDown.ico"
+  
+  aImage(21) = "Exit.ico"
+  
+  aImage(22) = "ExitOver.ico"
+  
+  aImage(23) = "ExitDown.ico"
+  
+  aImage(24) = "Search.ico"
+  
+  aImage(25) = "SearchOver.ico"
+  
+  aImage(26) = "SearchDown.ico"
+  
+End Sub
+```
 
 
 
