@@ -1,233 +1,266 @@
-﻿DC-Application Protector
-===========
+# DC Application Protector
 
+## Overview
 
-Overview
----------
+- DC.AppProtector is a library that allows you to protect Windows executable files against piracy using multi-level encryption algorithms. Thanks to Nested Layers Protection (NLP), the new protection technology we adapted in our protection system.
 
-- DC.AppProtecor is a library that allows you to protect Windows executable files against piracy. Using multi level encryption algorithms .  Thanks to Nested Layers Protection (NLP), new protection technology we adapt in our protection system.
+- DC.AppProtector's dialog box is generated on the fly so any hacker's attempt to remove its resource will fail. It can be used with any developing language that supports COM based applications like Visual Basic, Visual C++, Borland C++, Delphi, and others.
 
-- DC.AppProtecor Dialog box is generated on the fly so any hackers attempt to remove its resource  will fail.  It can be used with any  developing language support COM based application like Visual Basic,Visual C++,Borland C++,Delphi and others.
+- DC.AppProtector allows you to release your trial version with restrictions like a day limit. It has 3 levels of encryption algorithms, with about 50 million collections. Each encryption algorithm in this 50 million collection has a huge variety of activation keys that can be generated.
 
-- DC.AppProtecor allows you to release your trail version with its restriction of days limit. It has 3 levels of encryption algorithms , with about 50 million collection ,each encryption algorithms of this 50 million collection has huge variety of activation key to generate.
+- If you are losing sales to software piracy, stop it now with our advanced, secure software protection system. It is very easy to include in your developing project with only 3 lines of code. EGY1ST has done a lot of work for you. You define a few lines of code and we keep you safe from hackers' attempts.
 
-- If you are  losing sales to software , stop it now by our advanced, secure software protection system. It is very easy to include in your developing project  with only 3 lines of code .  EGY1ST has done a lot of work for you. You define few lines of code and we keep you safe away from hackers attempt. 
+## Features
 
-Features 
-----------
-
-Do you know that DC.AppProtector itself is protected by itself !?. Few  Lines to add in your Form\_Load event  and you will get full secure software protection system.
+Do you know that DC.AppProtector itself is protected by itself!? Just a few lines need to be added in your Form_Load event and you will get a full, secure software protection system. 
 
 **You can:**
 
-- Define your multi level encryption algorithms.
-- Define your Free Trail days limit
-- Define your customized message appears on protection dialog box 
-- Define your URL where customers can purchase your product
+- Define your multi-level encryption algorithms.
+- Define your free trial days limit.
+- Define your customized message that appears on the protection dialog box.
+- Define your URL where customers can purchase your product. 
 
 **Example:**
 
+```vb
 Dim MyProtection As New DynamicComponents.AppProtector()
 
-Dim ProductName As String
+Dim ProductName As String 
 
 Dim CompanyInfo As String
 
-// Customized author message
+' Customized author message
 
-CompanyInfo = "Company Name: EgyFist Software , inc." + vbCrLf    // vbCrLf  force new line
+CompanyInfo = "Company Name: EgyFirst Software, inc." + vbCrLf    ' vbCrLf forces a new line  
 
-CompanyInfo += "Home Page: htpp://www.egyfirst.com" + vbCrLf
+CompanyInfo += "Home Page: http://www.egyfirst.com" + vbCrLf   
 
-CompanyInfo += "License: Free 30 Days Trail Version"
+CompanyInfo += "License: Free 30 Day Trial Version"  
 
 ProductName = "DC AppProtector v1.0"
 
-// Code of Protection
+' Code of Protection
 
-MyProtection.[SetInformation](#chmtopic8)(ProductName, CompanyInfo, "https://example.com/buynow/")
+MyProtection.SetInformation(ProductName, CompanyInfo, "https://example.com/buy") 
 
-MyProtection.[SetAlgorithms](#chmtopic9)(1234, 56, 78)
+MyProtection.SetAlgorithms(1234, 56, 78)
 
-MyProtection.[SetLicense](#chmtopic10)( 30)   // may be  ignored , since it is by default 30 days
+MyProtection.SetLicense(30)   ' May be ignored, the default is 30 days   
 
-MyProtection.[ShowAuthor](#chmtopic11)()
+MyProtection.ShowAuthor()
+```
 
-Now you can generate huge numbers of  activation key using [Activation Key Utility](#chmtopic13)
 ## System Requirements
-DC.AppProtector runs as a COM class for included in any developing langauge support COM based application as  Visual Basic , Visual C++ , Borland C++ , Delphi  and others.
+
+DC.AppProtector runs as a COM class that can be included in any developing language that supports COM based applications like Visual Basic, Visual C++, Borland C++, Delphi, and others.
+
 ## Installation
 
-The DC.AppProtector setup program will automatically register the DC\_AppProtector10.dll file on your system.  There is no need to manually run RegSvr32.exe on your development system. 
+The DC.AppProtector setup program will automatically register the DC_AppProtector10.dll file on your system. There is no need to manually run RegSvr32.exe on your development system.
 
 ## Including DC.AppProtector
 
-To include DC.AppProtector in your project  
+To include DC.AppProtector in your project:
 
-1. From Project menu select add reference 
-1. Push Browse button to locate your AppProtector10.DLL file which by default located in [c:\windows\system32](file:///c:/windows/system32)  , now the specific DLL included in your references
+1. From the Project menu select Add Reference.
+2. Click the Browse button to locate your AppProtector10.DLL file which by default is located in [c:\windows\system32](file:///c:/windows/system32). Now the specific DLL is included in your references.
 
-## Deploying DC.AppProtector
+## Deploying DC.AppProtector 
 
-The only file needs to be distributed with DC.AppProtector COM applications is DC\_AppProtector10 .dll
+The only file that needs to be distributed with DC.AppProtector COM applications is DC_AppProtector10.dll.
 
-this file should be copied to the WinSystem directory which by default is C:\Windows\System32 
+This file should be copied to the WinSystem directory which by default is C:\Windows\System32.
 
 ## How to Use
 
-**SetInformation Function**
+### SetInformation Function
 
-SetInformation function enables you to  Define your customized message appears on protection dialog box.
-it include s3 parameters
+The SetInformation function enables you to define your customized message that appears on the protection dialog box. It includes 3 parameters:
 
 1. Product info
-1. Company info
-1. URL where customers can purchase your product by clicking Buy Now Button on Protection dialog box
+2. Company info 
+3. URL where customers can purchase your product by clicking the Buy Now button on the Protection dialog box
 
-**Syntax:**
+**Syntax:** 
 
-> SetInformation(ByVal str\_ProductName As String, ByVal str\_CompanyInfo As String, ByVal str\_BuyNow\_URL As String)
+```vb
+SetInformation(ByVal str_ProductName As String, ByVal str_CompanyInfo As String, ByVal str_BuyNow_URL As String)
+```
 
 **Example:**
 
+```vb
 Dim CompanyInfo As String
 
-CompanyInfo = "Company Name: EgyFirst Software , inc." + vbCrLf  //'vbcrlf force new line
+CompanyInfo = "Company Name: EgyFirst Software, inc." + vbCrLf ' vbCrLf forces a new line
 
-CompanyInfo += "Home Page: htpp://www.egyfirst.com" + vbCrLf
+CompanyInfo += "Home Page: http://www.egyfirst.com" + vbCrLf  
 
-CompanyInfo += "License: Free 30 Days Trail Version"
+CompanyInfo += "License: Free 30 Days Trial Version"
 
-MyProtection.SetInformation("DC AppProtector v1.0", CompanyInfo, "http://www.egyfirst.com/buynow/")
+MyProtection.SetInformation("DC AppProtector v1.0", CompanyInfo, "https://www.egyfirst.com/buy")
+```
 
-**SetAlgorithms Function**
+### SetAlgorithms Function
 
-Encryption Algorithms define the method DC.AppProtecor adapt to generate its activation keys related to it.
+Encryption algorithms define the method DC.AppProtector is used to generate its activation keys. 
 
-DC.AppProtecor has 4 levels of encryption algorithms 
+DC.AppProtector has 4 levels of encryption algorithms:
 
-1. ` `first level has 6000 choices           (must be between 1000 and 7000)
-2. ` `second  level has 90 choices         (must be between 10 and 99)
-3. Third  level has 90 choices             (must be between 10 and 99)
-4. Fourth level is a string                     (must be 7 characters length)
+1. First level has 6000 choices (must be between 1000 and 7000)
+2. The second level has 90 choices (must be between 10 and 99) 
+3. The third level has 90 choices (must be between 10 and 99)
+4. Fourth level is a 7-character string 
 
-if you develop more than one product and protect them all with the same DC.AppProtector , then  every product  must  dedicated with a different id, so first product may have algorithms like (1234, 56, 78,"abcdefg")  and second product may have algorithms like (1234, 56, 78,"aaabccc") and third product may have algorithms like (5555, 66, 77,"egyfirst"). This means you can define similar or different algorithms to multi protected product  but every product must have unique ID which defined by int\_Algorithms4 parameter
+If you develop more than one product and protect them all with the same DC.AppProtector, then every product must have a different ID. So the first product may have algorithms like (1234, 56, 78, "abcdefg") and the second product may have (1234, 56, 78, "aaabccc"). This means you can define similar or different algorithms for multiple protected products, but every product must have a unique ID defined by the int_Algorithms4 parameter.
 
-**Caution:**
-
-> if you develop more than one product and protect them all with the same product id , then any registration to one of them will register the rest
-
-**Syntax:**
-
-> SetAlgorithms(ByVal int\_Algorithms1 As Integer, ByVal int\_Algorithms2 As Integer, ByVal int\_Algorithms3 As Integer, ByVal str\_Algorithms4 As string)
-
-**Example:**
-
-SetAlgorithms(1234, 56, 78,"abcdefg")
-
-**SetLicense Function**
-
-SetLicense Function enables you to define trail version days limit if this assignment ignored , it will be by default 30 days.
+**Caution:** If you develop more than one product and protect them all with the same product ID, then any registration to one will register the rest.
 
 **Syntax:**
 
-Public Sub SetLicense(ByVal int\_DaysLimit As Integer )
+```vb 
+SetAlgorithms(ByVal int_Algorithms1 As Integer, ByVal int_Algorithms2 As Integer, ByVal int_Algorithms3 As Integer, ByVal str_Algorithms4 As String)
+```
+
+**Example:** 
+
+```vb
+SetAlgorithms(1234, 56, 78, "abcdefg")
+```
+
+### SetLicense Function
+
+The SetLicense function enables you to define the trial version days limit. If this assignment is ignored, it will default to 30 days. 
+
+**Syntax:** 
+
+```vb
+Public Sub SetLicense(ByVal int_DaysLimit As Integer) 
+```
 
 **Example:**
 
+```vb
 SetLicense(15)
+```
 
- **ShowAuthor Function**
+### ShowAuthor Function
 
-This function is the heart of  your protection and it is responsible to popup the protection dialog box this function must be called at the end end of your protection code block
+This function is the heart of your protection and is responsible for popping up the protection dialog box. This function must be called at the end of your protection code block.
 
 **Syntax:**
 
-Function ShowAuthor() 
-No Parameter required with his function
+```vb  
+Function ShowAuthor()
+```
 
-**Example**:
-
-ShowAuthor() 
-
-**NotLicensed-----**
-NotLicensed is public variable addicte to state of your product license , so you can do the proper action 
-it will be True if  protected product is registered  or within trial period .
-
-**Syntax**:
-
-Public NotLicensed As Boolean = False
-
-**Example**:
-
-Dim MyProtection As New DynamicComponents.AppProtector()
-
-If  MyProtection.NotLicensed Then Exit Sub
-
-**Activation Key Utility**
-Using Activation Key utility you can generate huge numbers of randomize activation key depends on algorithms you use , so activation keys collection generated (for example) by SetAlgorithms(1234,56,78) will differ completely from one generated using SetAlgorithms(1111,11,11) and differ from any other algorithms  .
+No parameters are required. 
 
 **Example:**
 
-Here some activation keys generated using algorithms
+```vb
+ShowAuthor()
+```
 
-SetAlgorithms(1234,56,78)                SetAlgorithms(1111,11,11)
+### NotLicensed 
 
-2533-177-552-708-7856                    2167-115-069-275-1206
-2670-209-627-395-7963                    2933-292-542-319-1226
-2858-259-683-679-4606                    3781-640-481-975-8749
-3210-373-873-517-1567                    3784-642-049-096-4889    
-3331-419-780-812-0071                    3797-648-869-680-0506
-2412-152-129-710-8440                    3767-633-202-668-7204
-3451-468-894-209-3279                    3607-553-914-590-1600
-2222-117-365-198-8042                    2381-153-727-457-2744
-3193-367-706-720-5254                    3923-717-512-323-8126
-2616-196-555-752-0925                    3805-653-091-025-3862
+The NotLicensed public variable indicates the state of your product license. It will be True if the protected product is registered or within the trial period. 
 
-just remember that there are 50 millions Encrypted algorithms available for you to use, generated from any combination of (****,**,**)
-where first algorithms must be between 1000 and 7000     ===>(7000 - 1000) ===> 6000 
-and second algorithms must be between 10 and 90            ===>(90 - 10) ===> 80 
-and third algorithms must be between 10 and 90               ===>(90 - 10) ===> 80 
-This is (6000 * 80 * 80) ===> 4,800,000 different combination
+**Syntax:**
 
+```vb
+Public NotLicensed As Boolean = False 
+```
 
-Tutorial
----------
+**Example:**
 
-This tutorial describe all  features supported by DC.AppProtector
-
-also you can refer to the project example which installed by default into C:\Program Files\Dynamic Components\Application Protector\Tutorial\
-
-This code must be in first form loaded in your project 
-
-``` vb
-Private Sub TestForm\_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-
+```vb 
 Dim MyProtection As New DynamicComponents.AppProtector()
 
-Dim ProductName As String
+If MyProtection.NotLicensed Then Exit Sub
+```
 
-Dim CompanyInfo As String
+### Activation Key Utility
 
-// Customized author message
+Using the Activation Key utility you can generate huge numbers of randomized activation keys based on the algorithms you use. So the activation keys collection generated by SetAlgorithms(1234,56,78) will differ completely from one generated using SetAlgorithms(1111,11,11) or any other algorithms.
 
-CompanyInfo = "Company Name: EgyFist Software , inc." + vbCrLf    // vbCrLf  force new line
+**Example:** 
 
-CompanyInfo += "Home Page: htpp://www.egyfirst.com" + vbCrLf
+Here are some activation keys generated using the algorithms:
 
-CompanyInfo += "License: Free 30 Days Trail Version"
+SetAlgorithms(1234,56,78)  
 
-ProductName = "DC AppProtector v1.0"
+2533-177-552-708-7856    
+2670-209-627-395-7963    
+2858-259-683-679-4606    
+3210-373-873-517-1567    
+3331-419-780-812-0071    
+2412-152-129-710-8440    
+3451-468-894-209-3279    
+2222-117-365-198-8042    
+3193-367-706-720-5254    
+2616-196-555-752-0925    
 
-// Code of Protection
+SetAlgorithms(1111,11,11)
 
-MyProtection.[SetInformation](#chmtopic8)(ProductName, CompanyInfo, "http://www.egyfirst.com/buynow/")
+2167-115-069-275-1206
+2933-292-542-319-1226   
+3781-640-481-975-8749
+3784-642-049-096-4889
+3797-648-869-680-0506
+3767-633-202-668-7204
+3607-553-914-590-1600  
+2381-153-727-457-2744
+3923-717-512-323-8126   
+3805-653-091-025-3862
 
-MyProtection.[SetAlgorithms](#chmtopic9)(1234, 56, 78)
+There are 50 million encrypted algorithms available generated from any combination of (****, **, **) where:
 
-MyProtection.[SetLicense](#chmtopic10)( 30)   // may be  ignored , since it is by default 30 days
+- The first algorithm must be between 1000 and 7000 ==> (7000 - 1000) ==> 6000 options
+- The second algorithm must be between 10 and 90 ==> (90 - 10) ==> 80 options   
+- The third algorithm must be between 10 and 90 ==> (90 - 10) ==> 80 options
 
-MyProtection.[ShowAuthor](#chmtopic11)()
+This is (6000 * 80 * 80) ==> 4,800,000 different combinations
+
+## Tutorial
+
+This tutorial describes all the features supported by DC.AppProtector. 
+
+You can also refer to the project example installed by default at: 
+
+C:\Program Files\Dynamic Components\Application Protector\Tutorial\
+
+This code must be in the first form loaded in your project:
+
+```vb
+Private Sub TestForm_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+
+  Dim MyProtection As New DynamicComponents.AppProtector()
+  
+  Dim ProductName As String
+  
+  Dim CompanyInfo As String
+
+  ' Customized author message
+  
+  CompanyInfo = "Company Name: EgyFirst Software, inc." + vbCrLf ' vbCrLf forces a new line
+  
+  CompanyInfo += "Home Page: http://www.egyfirst.com" + vbCrLf
+  
+  CompanyInfo += "License: Free 30 Days Trial Version"
+
+  ProductName = "DC AppProtector v1.0"
+
+  ' Code of Protection
+
+  MyProtection.SetInformation(ProductName, CompanyInfo, "http://www.egyfirst.com/buy")
+
+  MyProtection.SetAlgorithms(1234, 56, 78)
+  
+  MyProtection.SetLicense(30) ' Default is 30 days
+  
+  MyProtection.ShowAuthor()
 
 End Sub
 ```
