@@ -229,7 +229,7 @@ Function AddRelatedValue(ByRef str_Table As String, ByVal str_Key As String, ByV
 `DM.AddRelatedValue("Customers", "CustomerID", "CustomerID", "CustomerName", "xCustomerName", 3)`
 
 
-# AddGridRelatedValue
+## AddGridRelatedValue
 
 It retrieve the related value to your grid field code. Assume you save Productt_Code in your Detail recordset. When you retrieve data you also want to get Product_Name from the Products table. AddRelatedValue Function does that for you easily.
 
@@ -249,7 +249,7 @@ Function AddGridRelatedValue(ByVal str_Table As String, ByVal str_TableKey As St
 DM.AddGridRelatedValue("Products", "ProductID", "ProductID", "ProductName", "ProductName", 2)
 ```
 
-# FlagField
+## FlagField
 
 Sometimes you use a table that involves multiple tables within, such as a "Personal" table which can involve "Customers", "Suppliers", "Debits", and "Credits" with different flag keys. You can assign the value "1" for Customers, assign the value "2" for Suppliers, and so on. The rest of the fields are the same.
 
@@ -265,7 +265,7 @@ Function FlagField(ByVal str_MasterFlagField As String, ByVal str_DetailFlagFiel
 
 `DM.FlafField("Flag","Flag","2")`
 
-# How to select some fields
+## How to select some fields
 
 Sometimes you want to include some fields of your detail table, not all of its fields. The next example is that:
 
@@ -277,7 +277,7 @@ oDetails.Open("select flag, billno, custno, custname, price from OrderDetails", 
 
 That is all!
 
-# Search 
+## Search Function
 
 Easily to search your recordset, add a button in your form and notify [Manipulation Buttons](#chmtopic34) Function with its name
 
@@ -286,7 +286,7 @@ Easily to search your recordset, add a button in your form and notify [Manipulat
 3. Navigate through records that apply your search pattern by [Navigation Buttons](#chmtopic34)
 4. Return to Normal Mode by clicking the search button twice
 
-# PopulateForm
+## PopulateForm
 
 It populates your form and its grid with data. It is recommended to be the last assignment in your Form_Load event.
 
@@ -300,7 +300,7 @@ Function PopulateForm(ByRef dm_Form As System.Windows.Forms.Form, ByRef dm_Maste
 
 `DM.PopulateForm(Me, oMaster, AxDataGrid1, oDetails)`
 
-# NumericFields
+## NumericFields
 
 It restricts data entry to only valid entries. Valid entry may be one or more of the allowed characters which is"0123456789".
 
@@ -314,7 +314,7 @@ It restricts data entry to only valid entries. Valid entry may be one or more of
 
 `DM.NumericFields("CustomerID", "OrderId", "ShipVia")`
 
-# AlphabeticFields
+## AlphabeticFields
 
 It restricts data entry to only valid entries. Valid entry may be one or more of the allowed characters which are "abcdefghijklmnopqrstuvwxyz" additional to upper case "ABCDEFGHIJKLMNOPQRSTUVWXYZ".
 
@@ -328,7 +328,7 @@ It restricts data entry to only valid entries. Valid entry may be one or more of
 
 `DM.NumericFields("FirstName", "FamilyName")`
 
-# AlphaNumericFields 
+## AlphaNumericFields 
 
 It restricts data entry to only valid entries. Valid entry may be one or more of the allowed characters which is"abcdefghijklmnopqrstuvwxyz" and upper case "ABCDEFGHIJKLMNOPQRSTUVWXYZ" additional to numeric characters "0123456789".
 
@@ -342,7 +342,7 @@ It restricts data entry to only valid entries. Valid entry may be one or more of
 
 `DM.NumericFields("Address")`
 
-# DateFields
+## DateFields
 
 It restricts data entry to only valid entries. Valid entry may be one or more of the allowed characters which are "0123456789" additional to "/-\" characters. When you leave the edited Textbox if the data entry is not a date you will be notified by changing the forecolor to red color until you re-edit it correctly.
 
@@ -358,7 +358,7 @@ Suppose you enter a date like "30/2/2004". This is an invalid entry, so you will
 
 `DM.DateFields("OrderDate")`
 
-# DecimalFields
+## DecimalFields
 
 It restricts data entry to only valid entries. Valid entry may be one or more of the allowed characters which are "0123456789" additional to decimal point '.'. Data entry will be formatted by n decimal places defined in [DecimalPlaces](#chmtopic30) Function. When you leave the edited Textbox if the data entry is not a date you will be notified by changing forecolor to red color until you re-edit it correctly.
 
@@ -374,7 +374,7 @@ Suppose you enter a date like "705.3.2". This is an invalid entry, so you will b
 
 `DM.DecimalFields("Freight")`
 
-# SpecialChars
+## SpecialChars
 
 It restricts data entry to only valid entries. Valid entry may be one or more of the characters which are contained in its parameter.
 
@@ -386,7 +386,7 @@ It restricts data entry to only valid entries. Valid entry may be one or more of
 
 `DM.SpecialChars ("YyNn")`
 
-# SpecialCharsFields
+## SpecialCharsFields
 
 It restricts data entry to only valid entries. Valid entry may be one or more of the characters that are contained in the [SpecialChars](#chmtopic25) function.
 
@@ -400,7 +400,7 @@ It restricts data entry to only valid entries. Valid entry may be one or more of
 
 `DM.SpecialCharsFields ("Married")`
 
-# RequiredFields 
+## RequiredFields 
 
 It assigns the fields in your Recordset which can not be empty.
 
@@ -414,7 +414,7 @@ It assigns the fields in your Recordset which can not be empty.
 
 `DM.RequiredFields("OrderId+OrderDate+CustomerId")`
 
-# LowerCaseFields
+## LowerCaseFields
 
 It converts all characters to lowercase. 
 
@@ -428,7 +428,7 @@ It converts all characters to lowercase.
 
 `DM.LowerCaseFields ("SupplierName")`
 
-# UpperCaseFields
+## UpperCaseFields
 
 It converts all characters to upper case.
 
@@ -442,7 +442,7 @@ It converts all characters to upper case.
 
 `DM.UpperCaseFields ("ProductName")`
 
-# DecimalPlaces
+## DecimalPlaces
 
 It formats numbers by making it in the decimal state with n places which you define in your function.
 
@@ -454,7 +454,7 @@ It formats numbers by making it in the decimal state with n places which you def
 
 `DM.DecimalPlaces(2)`
 
-# FirstCharOnlyFields
+## FirstCharOnlyFields
 
 It converts only the First character to upper case.
 
@@ -468,7 +468,7 @@ It converts only the First character to upper case.
 
 `DM.FirstCharOnlyFields ("CustomerName")`
 
-# FirstCharOfWordsFields
+## FirstCharOfWordsFields
 
 It converts the First character of every word to upper case. 
 
@@ -482,7 +482,7 @@ It converts the First character of every word to upper case.
 
 `DM.FirstCharOfWordsFields("CustomerName")`
 
-# PrepareImageButtons
+## PrepareImageButtons
 
 Your Data Form have [Navigation](#chmtopic34) & [Manipulation](#chmtopic35) Buttons. You can assign changeable icons for each button, additionally, you can assign a motion for each button if you put the third parameter to true, all you need is:
 
@@ -530,7 +530,7 @@ DM.PrepareImageButtons(aImage, "C:\MyApp\Icons\", True)
 Where `aImage` is your array holding icons. The third parameter indicates that you wish to show motion with each button.
 
 
-# NavigationButtons
+## NavigationButtons
 
 Assign Navigation Buttons names so that DC DataManger does all required with it
 
@@ -548,7 +548,7 @@ Public Sub NavigationButtons(ByVal dm_First As String, ByVal dm_Previous As Stri
 
 `DM.NavigationButtons("FirstButton", "PrevButton", "NextButton", "LastButton")`
 
-# ManipulationButtons
+## ManipulationButtons
 
 Assign Manipulation Buttons names so that DC DataManger do all required with it
 
@@ -566,7 +566,7 @@ Function ManipulationButtons(ByVal dm_Save As String, ByVal dm_New As String, By
 
 `DM.ManipulationButtons("OkButton", "NewButton", "DeleteButton", "ExitButton", "SearchButton")`
 
-# Sensitive F1 DataHelp
+## Sensitive F1 DataHelp
 
 When you [AddRelatedValue](#chmtopic14)and your focus is located in the control defined in the str_Control (which is the control name) parameter you get 2 magic advantages.
 
@@ -578,7 +578,7 @@ When you [AddGridRelatedValue](#chmtopic15)and your focus is located in the colu
 1. When you leave this control you will retrieve respected value related to this control value  
 2. When you press the F1 Key this will trigger the DataHelp Browser filled with the table defined in the str_Table parameter, you can select any row by double-clicking it , this will close the DataHelp Browser and assign the data selected to the column defined in the str_GridRetColumn parameter
 
-# Sensitive F12 Help
+## Sensitive F12 Help
 
 When you press F12 Key, this triggers a sensitive help,this requires:
 
@@ -606,7 +606,7 @@ When you press F12 Key, this triggers a sensitive help,this requires:
 
 **Note:** To change your form text put the form name in both the field tag and id
 
-# TranslateForm
+## TranslateForm
 
 We support Multi-Language Applications, you can use the same application with different languages. All you need is:
 
@@ -640,7 +640,7 @@ We support Multi-Language Applications, you can use the same application with di
 
 This will populate your form text and all its labels with your translation in the field "Languge3" in the table "Multilanguage"
 
-# FlipForm
+## FlipForm
 
 We support Eastern languages Arabic, Chinese, and so on. So we support right to left alignment and orientation, we rotate form horizontally 180
 
@@ -660,7 +660,7 @@ DM.Rifgt2Left(True)
 
 This will load the Arabic language which is located in field language 2, and flip the form horizontally and align text from right to left.
 
-# Right2Left
+## Right2Left
 
 We support Eastern languages so we align all your text right if you want.
 
@@ -672,7 +672,7 @@ We support Eastern languages so we align all your text right if you want.
 
 `DM.Right2Left(True)`
 
-# EnableReturnKey
+## EnableReturnKey
 
 Enable you to navigate through controls with the Return key as with the tab key.
 
@@ -684,11 +684,11 @@ Enable you to navigate through controls with the Return key as with the tab key.
 
 `DM.EnableReturnKey(True)`
 
-# Configuration Utility 
+## Configuration Utility 
 
 We supply you with Configuration Utility which enables you to assign your own language used with DC.DataManger
 
-# Tutorial
+## Tutorial
 
 This tutorial describes most of the features supported by DC.DataManger. Also, you can refer to the project example which is installed by default into C:\Program Files\Dynamic Components\Data Manger\Tutorial\
 
