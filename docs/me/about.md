@@ -4,6 +4,5 @@ Examined 2 million experiments for Ph.D., demonstrating research abilities. Buil
 Founder of:
 
 - [https//egy1st.org](https://egy1st.org/)
-- [https://tarteel.net](https://tarteel.net/)
 - [https://number2text.net](https://number2text.com/)
 
