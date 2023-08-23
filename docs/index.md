@@ -151,7 +151,7 @@ limited to:
 
 ##  Publications
 
-1. M. Abbas, A. El-Zoghabi, A.Shoukry (2023). pyMune: A Python package for complex clusters detection. *Software Impacts*, 100564. https://doi.org/10.1016/j.simpa.2023.100564
+1. M. Abbas, A. El-Zoghabi, A. Shoukry (2023). pyMune: A Python package for complex clusters detection. *Software Impacts*, 100564. https://doi.org/10.1016/j.simpa.2023.100564
 
 1. M. Abbas, A. El-Zoghabi, A. Shoukry, DenMune: Density peak based clustering using mutual nearest neighbors, Pattern Recognition 109 (2021) 107589. doi:10.1016/j.patcog.2020.107589.
 
