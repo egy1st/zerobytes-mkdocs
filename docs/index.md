@@ -95,7 +95,8 @@ Here is an elegant stylish version with the profile links:
 - [ResearchGate](https://www.researchgate.net/profile/Mohamed-Abbas-20) 
 - [Web of Science](https://www.webofscience.com/wos/author/record/2054400) 
 - [Google Scholar](https://scholar.google.com/citations?user=b0ld6nwAAAAJ)
-- [Semantic Scholar](https://www.semanticscholar.org/author/Mohamed-Ali-Abbas/2057813530) 
+- [Semantic Scholar](https://www.semanticscholar.org/author/Mohamed-Ali-Abbas/2057813530)
+- [AD Scientific Index](https://www.adscientificindex.com/scientist/mohamed-abbas/5011761)
 
 ### Technical
 
