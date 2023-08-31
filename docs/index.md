@@ -11,7 +11,7 @@ Examined 2 million experiments for Ph.D., demonstrating research abilities. Buil
 **Head of Planning, Organizing, and Information** @ Egyptian Tax Authority _(Aug 2000–Present)_
 
 - Revamped existing processes and developed a new management process, resulting in a 30% increase in team efficiency
-- Reviewed tens of thousands of accounts over career to spot trends, patterns, and insights in data. 
+- Reviewed tens of thousands of accounts over my career to spot trends, patterns, and insights in data. 
 - Identified impactful findings through data analysis and visualization, boosting overall revenue by 20%.
 - Presented analysis conclusions and recommendations clearly to leadership.
 
@@ -54,13 +54,13 @@ Examined 2 million experiments for Ph.D., demonstrating research abilities. Buil
 
 - Excellence in: Microsoft Excel, Microsoft Power BI, Python, PostgreSQL, C++, Cloud Computing, Jupyter notebook
 
-- Knowledgeable in: Linux, JavaScript, PHP, Web development
+- Knowledgeable in Linux, JavaScript, PHP, and Web development
 
 - Experience working with statistical models, data mining, segmentation, clustering.
 
-- Knowledge of visualization tools like Tableau, Power BI to present data insights
+- Knowledge of visualization tools like Tableau, and Microsoft Power BI to present data insights
 
-- Expertise in gathering, cleaning and processing large, complex datasets
+- Expertise in gathering, cleaning, and processing large, complex datasets
 
 - Data storytelling skills to present analyses in compelling ways
 
@@ -150,15 +150,24 @@ limited to:
 - Problem-Solving
 
 
+
+## Scientific Rank
+
+![Scientific Rank](https://github.com/egy1st/images/blob/main/certificates/scientific_rank.png?raw=true)
+
+[AD Scientific Index](https://www.adscientificindex.com/scientist/mohamed-abbas/5011761)
+
+
+
 ##  Publications
 
-1. Abbas, M. A., El-Zoghabi, A., & Shoukry, A. (2023). PyMune: A Python package for complex clusters detection. Software Impacts, 17, 100564. https://doi.org/10.1016/j.simpa.2023.100564
+1. Abbas, M. A., El-Zoghabi, A., & Shoukry, A. (2023). PyMune: A Python package for complex clusters detection. Software Impacts, 17, 100564, doi:[10.1016/j.simpa.2023.100564](https://doi.org/10.1016/j.simpa.2023.100564)
 
-1. M. Abbas, A. El-Zoghabi, A. Shoukry, DenMune: Density peak based clustering using mutual nearest neighbors, Pattern Recognition 109 (2021) 107589. doi:10.1016/j.patcog.2020.107589.
+1. M. Abbas, A. El-Zoghabi, A. Shoukry, DenMune: Density peak based clustering using mutual nearest neighbors, Pattern Recognition 109 (2021) 107589, doi:[10.1016/j.patcog.2020.107589](https://doi.org/10.1016/j.patcog.2020.107589)
 
-1. M. Abbas, A. Shoukry, CMune: A clustering using mutual nearest neighbors algorithm, IEEE, 2012.
-doi:10.1109/ISSPA.2012.6310472.
+1. M. Abbas, A. Shoukry, CMune: A clustering using mutual nearest neighbors algorithm, IEEE, 2012, doi:[10.1109/ISSPA.2012.6310472](https://doi.org/10.1109/ISSPA.2012.6310472)
 
-1. M. Abbas, A. Shoukry, Clustering using shared reference points algorithm based on a sound data model, International Journal of Data Engineering(IJDE), Volume 3, Issue (2012) 28–47.
+1. M. Abbas, A. Shoukry, Clustering using shared reference points algorithm based on a sound data model, International Journal of Data Engineering(IJDE), Volume 3, Issue (2012) 28–47, doi:[10.31219/osf.io/xqv27]( https://doi.org/10.31219/osf.io/xqv27)
 
-1. M. Abbas, R. Kashef,  A. Shoukry,  ICDM 2012. CSharp: A Clustering Using Shared Reference Points Algorithm, International Conference on Data Mining, Penang, Malaysia, World Academy of Science.
+1. M. Abbas, R. Kashef,  A. Shoukry,  ICDM 2012. CSharp: A Clustering Using Shared Reference Points Algorithm, International Conference on Data Mining, Penang, Malaysia, World Academy of Science, doi:[10.31219/osf.io/k3ve5](https://doi.org/10.31219/osf.io/k3ve5)
+
