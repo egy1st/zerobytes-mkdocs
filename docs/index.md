@@ -84,7 +84,7 @@ Examined 2 million experiments for Ph.D., demonstrating research abilities. Buil
 
 - TOT, National Training and Education, Professional Academy for Teachers, Egyptian Tax Authority, National Training and Education Council (Oct 2018)
 
-Here is an elegant stylish version with the profile links:
+
 
 ## Profile
 
@@ -170,4 +170,3 @@ limited to:
 1. M. Abbas, A. Shoukry, Clustering using shared reference points algorithm based on a sound data model, International Journal of Data Engineering(IJDE), Volume 3, Issue (2012) 28–47, doi:[10.31219/osf.io/xqv27]( https://doi.org/10.31219/osf.io/xqv27)
 
 1. M. Abbas, R. Kashef,  A. Shoukry,  ICDM 2012. CSharp: A Clustering Using Shared Reference Points Algorithm, International Conference on Data Mining, Penang, Malaysia, World Academy of Science, doi:[10.31219/osf.io/k3ve5](https://doi.org/10.31219/osf.io/k3ve5)
-
