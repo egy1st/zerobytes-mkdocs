@@ -2,7 +2,7 @@
 
 ## 2023
 
-**August,146<sup>th</sup> 2023**
+**August,14<sup>th</sup> 2023**
 pyMune: A Python package for complex clusters detection pulished in Elsevier Software Impacts Journal
 
 
