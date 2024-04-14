@@ -44,9 +44,11 @@ Examined 2 million experiments for Ph.D., demonstrating research abilities. Buil
 
 ## Awards & Honors
 
+- Alexandria University Research Excellence Award (2023) - Granted for research published in Elsevier Software Impacts journal, €6,000 prize
+  
 - Alexandria University Research Award (2022) - Granted for exceeding 30 Scopus citations since 2021, €5,000 prize
 
-- Alexandria University Research Excellence Award (2021) - Granted for research published in Pattern Recognition journal, €15,000 prize 
+- Alexandria University Research Excellence Award (2021) - Granted for research published in Elsevier Pattern Recognition journal, €15,000 prize 
 
 - IBM Data Science Professional Certificate (2020) - Earned 10 distinct badges demonstrating data science abilities
 
