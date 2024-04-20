@@ -4,8 +4,9 @@
 
 Alexandria, Egypt | +20-100-7500-290 | mohamed.alyabbas@alexu.edu.eg | [LinkedIn](https://www.linkedin.com/in/mohabbas) |  [Github](https://github.com/egy1st)
 
-Examined 2 million experiments for Ph.D., demonstrating research abilities. Built 25 technology projects showcasing programming skills using Python, C++, PHP, Visual Basic, and Flask. Ranked in the top 1% in Kaggle competitions (136/100k). Twice awarded Alexandria University awards for published research in reputable journals. Contributed to 70+ journal reviews for Elsevier. Taught over 5,000 students via online courses and conferences. Expert at extracting insights from data using Python, SQL, and Power BI.
+With over 23 years of experience at the Egyptian Tax Authority, I lead the Planning, Organizing, & Information department, where I apply my expertise in data analysis, research, teaching, and various technologies and tools to uncover the hidden stories behind data. I have a PhD in Information Technology, an MBA in Financial Management, an MSC in Computer Science, a Computer Science Diploma, and a Bachelor in Business Administration.
 
+My mission is to use a strategic approach that combines visualization, dimensionality reduction, and approximate nearest-neighbor search to deliver significant outcomes, such as a 20% increase in income. I have executed 2 million experiments during my academic pursuit, and published my research in prestigious journals, such as Elsevier Pattern Recognition and Software Impacts, earning multiple awards and recognition. Additionally, I have a passion for teaching and sharing my knowledge. I have created and delivered engaging courses and projects on Udemy, GitHub, and Kaggle, reaching thousands of students and learners worldwide.
 ## Experience
 
 **Head of Planning, Organizing, and Information** @ Egyptian Tax Authority _(Aug 2000–Present)_
