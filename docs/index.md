@@ -13,7 +13,7 @@ My mission is to use a strategic approach that combines visualization, dimension
 
 - Revamped existing processes and developed a new management process, resulting in a 30% increase in team efficiency
 - Reviewed tens of thousands of accounts over my career to spot trends, patterns, and insights in data. 
-- Identified impactful findings through data analysis and visualization, boosting overall revenue by 20%.
+- Identified impactful findings through data analysis and visualization, boosting revenue by 20%.
 - Presented analysis conclusions and recommendations clearly to leadership.
 
 **Computer Instructor** @ Egyptian Tax Authority _(Oct 2019-present)_
@@ -47,7 +47,7 @@ My mission is to use a strategic approach that combines visualization, dimension
 
 - Alexandria University Research Excellence Award (2023) - Granted for research published in Elsevier Software Impacts journal, €6,000 prize
   
-- Alexandria University Research Award (2022) - Granted for exceeding 30 Scopus citations since 2021, €5,000 prize
+- Alexandria University Research Award (2022) - Granted for exceeding 50 Scopus citations since 2021, €5,000 prize
 
 - Alexandria University Research Excellence Award (2021) - Granted for research published in Elsevier Pattern Recognition journal, €15,000 prize 
 
@@ -59,7 +59,7 @@ My mission is to use a strategic approach that combines visualization, dimension
 
 - Knowledgeable in Linux, JavaScript, PHP, and Web development
 
-- Experience working with statistical models, data mining, segmentation, clustering.
+- Experience working with statistical models, data mining, segmentation, and clustering.
 
 - Knowledge of visualization tools like Tableau, and Microsoft Power BI to present data insights
 
