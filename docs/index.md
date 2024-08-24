@@ -35,7 +35,7 @@ My mission is to use a strategic approach that combines visualization, dimension
 
 ## Projects
 
-- **[DenMune](https://github.com/scikit-learn-contrib/denmune-clustering-algorithm) (Python, Scikit-learn)**: Novel clustering algorithm contribution to Scikit-learn-Contrib. 160000+ uses, twice awarded by Alexandria University.
+- **[DenMune](https://github.com/scikit-learn-contrib/denmune-clustering-algorithm) (Python, Scikit-learn)**: Novel clustering algorithm contribution to Scikit-learn-Contrib. 250000+ uses, twice awarded by Alexandria University.
 
 - **[Number2Words](https://rapidapi.com/egy1st/api/number2words4) (PHP)**: API that converts numbers to words in 13 languages, serving 500-1000 API calls daily.
 
