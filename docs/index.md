@@ -132,7 +132,7 @@ My mission is to use a strategic approach that combines visualization, dimension
 ![Databases and SQL for Data Science](https://images.credly.com/size/110x110/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png) 
 ![Data Analysis with Python](https://images.credly.com/size/110x110/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png)
 ![Machine Learning with Python](https://images.credly.com/size/110x110/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png)
-![Data Visualization with Python](https://images.credly.com/size/110x110/images/9da3eedf-fda3-4e81-bb46-d174b4699bf1/image.png)
+![Data Visualization with Python](https://github.com/egy1st/images/blob/main/certificates/Data_Visualization_with_Python.png?raw=true)
 ![Applied Data Science Capstone](https://images.credly.com/size/110x110/images/60f2e1e1-1b74-4dc0-a24b-cd08b460c12d/Applied_Data_Science_Capstone.png)
 ![Data Science Professional Certificate](https://images.credly.com/size/110x110/images/0da411a5-24e9-4991-9756-ca5f6073e7af/image.png) 
 ![IBM Data Science](https://github.com/egy1st/images/blob/main/certificates/ibm_certificate_coursera.jpg?raw=true)
