@@ -72,12 +72,12 @@ My mission is to use a strategic approach that combines visualization, dimension
 **Recognized Reviewer** @ Elsevier Information Sciences Journal _(Jun 2019 – Present)_ 
 
 - Completed 46 reviews
-![INS Reviewer](https://raw.githubusercontent.com/egy1st/images/02d536bdd1c176cb49e1a7e1dad3c8025ef42315/certificates/Certificate_INS_Recognised.jpg)
+![INS Reviewer](https://raw.githubusercontent.com/egy1st/images/main/certificates/Certificate_INS_Recognised.jpg)
 
 **Recognized Reviewer** @ Elsevier Pattern Recognition Journal _(Mar 2016 – Present)_
 
-- Completed 37 reviews
-![PR Reviewer](https://raw.githubusercontent.com/egy1st/images/02d536bdd1c176cb49e1a7e1dad3c8025ef42315/certificates/Certificate_PR_Recognised.jpg)
+- Completed 44 reviews
+![PR Reviewer]([https://raw.githubusercontent.com/egy1st/images/02d536bdd1c176cb49e1a7e1dad3c8025ef42315/certificates/Certificate_PR_Recognised.jpg](https://raw.githubusercontent.com/egy1st/images/main/certificates/Certificate_PR_Recognised.jpg))
 
 ## Certifications
 
