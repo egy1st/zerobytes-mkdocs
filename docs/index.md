@@ -126,15 +126,15 @@ My mission is to use a strategic approach that combines visualization, dimension
 
 ## IBM Badges
 
-![Data Science Orientation](https://raw.githubusercontent.com/egy1st/images/refs/heads/main/certificates/Cognitive_Class_-_What_is_Data_Science.png)
+![Data Science Orientation](https://raw.githubusercontent.com/egy1st/images/refs/heads/main/certificates/What_is_Data_Science.png)
 ![Python for Data Science and AI](https://images.credly.com/size/110x110/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png)
 ![Tools for Data Science](https://images.credly.com/size/110x110/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png)
 ![Data Science Methodology](https://raw.githubusercontent.com/egy1st/images/main/certificates/Data_Science_Methodology_Foundational.png)
-![Databases and SQL for Data Science](https://images.credly.com/size/110x110/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png) 
+![Databases and SQL for Data Science](https://raw.githubusercontent.com/egy1st/images/refs/heads/main/certificates/Databases_and_SQL_for_Data_Science.png) 
 ![Data Analysis with Python](https://images.credly.com/size/110x110/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png)
 ![Machine Learning with Python](https://images.credly.com/size/110x110/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png)
-![Data Visualization with Python](https://github.com/egy1st/images/blob/main/certificates/Data_Visualization_with_Python.png?raw=true)
-![Applied Data Science Capstone](https://github.com/egy1st/images/blob/main/certificates/Applied_Data_Science_Capstone.png?raw=true)
+![Data Visualization with Python](https://raw.githubusercontent.com/egy1st/images/refs/heads/main/certificates/Data_Visualization_with_Python.png)
+![Applied Data Science Capstone](https://raw.githubusercontent.com/egy1st/images/refs/heads/main/certificates/Applied_Data_Science_Capstone.png)
 ![Data Science Professional Certificate](https://images.credly.com/size/110x110/images/0da411a5-24e9-4991-9756-ca5f6073e7af/image.png) 
 ![IBM Data Science](https://github.com/egy1st/images/blob/main/certificates/ibm_certificate_coursera.jpg?raw=true)
 
