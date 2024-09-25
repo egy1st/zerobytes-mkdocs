@@ -136,7 +136,8 @@ My mission is to use a strategic approach that combines visualization, dimension
 ![Data Visualization with Python](https://raw.githubusercontent.com/egy1st/images/refs/heads/main/certificates/Data_Visualization_with_Python.png)
 ![Applied Data Science Capstone](https://raw.githubusercontent.com/egy1st/images/refs/heads/main/certificates/Applied_Data_Science_Capstone.png)
 ![Data Science Professional Certificate](https://images.credly.com/size/110x110/images/0da411a5-24e9-4991-9756-ca5f6073e7af/image.png) 
-![IBM Data Science](https://github.com/egy1st/images/blob/main/certificates/ibm_certificate_coursera.jpg?raw=true)
+![IBM Data Science](https://raw.githubusercontent.com/egy1st/images/refs/heads/main/certificates/ibm_certificate_coursera.jpg)
+![IBM Data Science](https://raw.githubusercontent.com/egy1st/images/refs/heads/main/certificates/coursera-excel.jpg)
 
 ## Academic Teaching
 A number of DS & IS topics could be taught. These topics include but are not
@@ -155,8 +156,6 @@ limited to:
 - Complexity Theory
 - Discrete Mathematics
 - Problem-Solving
-
-
 
 ## Scientific Rank
 
