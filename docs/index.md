@@ -128,7 +128,7 @@ My mission is to use a strategic approach that combines visualization, dimension
 
 ![Data Science Orientation](https://raw.githubusercontent.com/egy1st/images/refs/heads/main/certificates/What_is_Data_Science.png)
 ![Python for Data Science and AI](https://images.credly.com/size/110x110/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png)
-![Tools for Data Science](https://images.credly.com/size/110x110/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png)
+![Tools for Data Science](https://github.com/egy1st/images/blob/main/certificates/Tools_for_Data_Science_Foundational.png?raw=true)
 ![Data Science Methodology](https://raw.githubusercontent.com/egy1st/images/main/certificates/Data_Science_Methodology_Foundational.png)
 ![Databases and SQL for Data Science](https://raw.githubusercontent.com/egy1st/images/refs/heads/main/certificates/Databases_and_SQL_for_Data_Science.png) 
 ![Data Analysis with Python](https://raw.githubusercontent.com/egy1st/images/refs/heads/main/certificates/Data_Analysis_with_Python.png)
